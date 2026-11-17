@@ -10,9 +10,11 @@
 - Song items: the saved Billboard number-one tables lost their column layout when flattened to text,
   so a row cannot be tied to one named chart. Song items say only what the page's own opening sentence
   and the song's row prove ("a number-one song in the United States in 1948, according to Billboard
-  magazine", or "on The Billboard's national singles charts"). 1935 has no Billboard chart; its one
-  song item follows "1935 in music", which says its rankings are approximate, and is worded "listed
-  among the top popular records of 1935".
+  magazine", or "on The Billboard's national singles charts"). From 1959 the Hot 100 pages say in
+  prose how many weeks a song spent at number one, and those items quote that prose together with the
+  page's opening paragraph that ties "number one" to the Hot 100 for that year. 1935 to 1939 have no
+  Billboard chart; their song items follow "<year> in music", which says its rankings are approximate,
+  and are worded "listed among the (top) popular records of <year>", never "number one".
 - Letter postage: from the USPS table, given only for years with no rate change inside the year (a
   rate is shown for a year only when it was in force from January 1 to December 31). From 1976 the
   item says "for the first ounce", after the table's footnote.
@@ -39,7 +41,14 @@ who told them. Politics is kept to a minimum.
 Where two Wikipedia pages disagree (the TV dinner: Swanson on the 1953 page, Gerry Thomas on the
 1954 page) the item is left out.
 
+## Wording choices
+
+- 1938: "The War of the Worlds" is given as broadcast, without the source's "causing panic", which is
+  disputed and not something to read aloud as fact. 1941: Pearl Harbor is the year's one sombre item,
+  worded "Pearl Harbor in Hawaii was attacked, and the United States was drawn into World War II".
+- 1943's "Oklahoma!" keeps its exclamation mark because it is the title.
+
 ## Not yet verified
 
-- The page has been checked in headless Chrome at 375 and 1440 px, light and dark, and printed to PDF
-  (one US Letter page). Not yet checked on a real phone, with a real screen reader, or on paper.
+- The page has been checked in headless Chrome at 375 and 1440 px, light and dark, and every offered
+  birth year printed to PDF on one US Letter page (`tools/print-check.sh`). Not yet checked on a real phone, with a real screen reader, or on paper.

@@ -14,6 +14,58 @@ window.WORLD_AT_TWENTY = {
    "credit": "Wikipedia contributors, \"1935 in the United States\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
+  "https://en.wikipedia.org/wiki/1936_in_music": {
+   "credit": "Wikipedia contributors, \"1936 in music\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1936_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1936 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1937_in_music": {
+   "credit": "Wikipedia contributors, \"1937 in music\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1937_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1937 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1938_in_music": {
+   "credit": "Wikipedia contributors, \"1938 in music\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1938_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1938 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1939_in_music": {
+   "credit": "Wikipedia contributors, \"1939 in music\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1939_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1939 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1940_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1940 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1941_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1941 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1942_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1942 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1943_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1943 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1944_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1944 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
   "https://en.wikipedia.org/wiki/1945_in_the_United_States": {
    "credit": "Wikipedia contributors, \"1945 in the United States\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
@@ -56,6 +108,62 @@ window.WORLD_AT_TWENTY = {
   },
   "https://en.wikipedia.org/wiki/1955_in_the_United_States": {
    "credit": "Wikipedia contributors, \"1955 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1956_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1956 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1957_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1957 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1958_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1958 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1959_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1959 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1960_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1960 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1961_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1961 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1959": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1959\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1960": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1960\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1961": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1961\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1940": {
+   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1940\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1941": {
+   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1941\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1942": {
+   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1942\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1943": {
+   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1943\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1944": {
+   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1944\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
   "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1945": {
@@ -102,6 +210,18 @@ window.WORLD_AT_TWENTY = {
    "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1955\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1956": {
+   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1956\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1957": {
+   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1957\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1958": {
+   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1958\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
   "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524": {
    "credit": "U.S. Energy Information Administration, Annual Energy Review 2011, Table 5.24",
    "licence": "Public domain, a work of the United States government"
@@ -143,6 +263,339 @@ window.WORLD_AT_TWENTY = {
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1935_in_the_United_States",
     "text": "On January 11, Amelia Earhart became the first person to fly solo from Hawaii to California."
+   }
+  ],
+  "1936": [
+   {
+    "category": "news",
+    "question": "Who in your family read Gone with the Wind first, and did the copy get passed around the house?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1936_in_the_United_States",
+    "text": "Margaret Mitchell's Gone with the Wind was published on June 10."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Bing Crosby sang Pennies from Heaven on the radio, and who in your house liked to sing along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1936_in_music",
+    "text": "Bing Crosby's record of Pennies from Heaven was listed among the popular records of 1936 in the United States."
+   },
+   {
+    "category": "news",
+    "question": "Who told you about Jesse Owens winning at the Olympics, and how did the news reach your town?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1936_in_the_United_States",
+    "text": "At the Summer Olympics in Berlin, Jesse Owens won the 100-meter dash on August 3 and went on to win four gold medals."
+   },
+   {
+    "category": "technology",
+    "question": "Who in your family first showed you a picture of Hoover Dam, and did anyone you knew ever go to see it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1936_in_the_United_States",
+    "text": "Construction of Hoover Dam was completed on March 1."
+   }
+  ],
+  "1937": [
+   {
+    "category": "news",
+    "question": "Who took you to see Snow White and the Seven Dwarfs, and which picture house was it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1937_in_the_United_States",
+    "text": "On December 21, Walt Disney's Snow White and the Seven Dwarfs, the first feature-length animated cartoon with sound, premiered and became a smash hit."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Did you hear Bing Crosby sing Sweet Leilani at the pictures or on the radio, and who were you with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1937_in_music",
+    "text": "Bing Crosby introduced Sweet Leilani in the film Waikiki Wedding, and his record of it was listed among the popular records of 1937 in the United States."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first time you saw a picture of the Golden Gate Bridge, or crossed it yourself, and who was with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1937_in_the_United_States",
+    "text": "On May 27, the Golden Gate Bridge in California opened to pedestrian traffic, and the next day President Franklin D. Roosevelt pushed a button in Washington, D.C., to start vehicle traffic across it."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember the first time Spam came to your table, and who in your house cooked it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1937_in_the_United_States",
+    "text": "On July 5, the Hormel company introduced the canned precooked meat product Spam."
+   }
+  ],
+  "1938": [
+   {
+    "category": "song",
+    "question": "Who in your house listened to Kate Smith, and where was the radio when you first heard her sing God Bless America?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
+    "text": "On November 10, the eve of Armistice Day, Kate Smith sang Irving Berlin's God Bless America for the first time on her weekly radio show."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Ella Fitzgerald's A-Tisket, A-Tasket was on the radio, and who did you dance or sing it with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1938_in_music",
+    "text": "A-Tisket, A-Tasket by the Chick Webb Orchestra, with Ella Fitzgerald singing, was listed among the popular records of 1938 in the United States."
+   },
+   {
+    "category": "news",
+    "question": "Where were you the night Joe Louis fought Max Schmeling, and whose radio did you listen to it on?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
+    "text": "On June 22, heavyweight boxing champion Joe Louis knocked out Max Schmeling in the first round of their rematch at Yankee Stadium in New York City."
+   },
+   {
+    "category": "news",
+    "question": "Where were you the night The War of the Worlds was on the radio, and who in your house heard it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
+    "text": "On October 30, Orson Welles's radio adaptation of The War of the Worlds was broadcast."
+   }
+  ],
+  "1939": [
+   {
+    "category": "news",
+    "question": "Who took you to see The Wizard of Oz, and do you remember the moment the picture turned to color?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
+    "text": "The Wizard of Oz, starring Judy Garland as Dorothy, premiered in Hollywood on August 15 and opened in movie theaters throughout the United States on August 25."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you when you first heard Glenn Miller's In the Mood, and who did you dance to it with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1939_in_music",
+    "text": "Glenn Miller and his Orchestra's In the Mood was listed among the popular records of 1939 in the United States."
+   },
+   {
+    "category": "news",
+    "question": "Did you or anyone you knew go to the New York World's Fair, and what did they bring home or tell you about?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
+    "text": "The New York World's Fair opened on April 30."
+   },
+   {
+    "category": "news",
+    "question": "Who in your house followed the Yankees, and where were you when you heard about Lou Gehrig's farewell speech?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
+    "text": "On July 4, Lou Gehrig gave his Farewell to Baseball speech at Yankee Stadium, saying he considered himself the luckiest man on the face of the earth."
+   }
+  ],
+  "1940": [
+   {
+    "category": "technology",
+    "question": "Who was the first woman in your family to wear nylon stockings, and where did she buy them?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1940_in_the_United_States",
+    "text": "On May 15, women's stockings made of nylon were first placed on sale across the United States, and almost five million pairs were bought that day."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Frank Sinatra sang I'll Never Smile Again with Tommy Dorsey, and who in your house had the radio on?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1940",
+    "text": "Tommy Dorsey and His Orchestra's I'll Never Smile Again, sung by Frank Sinatra and the Pied Pipers, was the first Billboard number-one single, topping the National Best Selling Retail Records chart for twelve weeks in a row."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember the first Bugs Bunny cartoon you saw at the pictures, and who you were with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1940_in_the_United_States",
+    "text": "On July 27, Bugs Bunny made his debut in the cartoon short A Wild Hare."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember your first drive on a highway with no stoplights, and who was behind the wheel?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1940_in_the_United_States",
+    "text": "On October 1, the first section of the Pennsylvania Turnpike, the country's first long-distance controlled-access highway, opened between Irwin and Carlisle."
+   }
+  ],
+  "1941": [
+   {
+    "category": "news",
+    "question": "Who in your family followed Joe DiMaggio's hitting streak, and how did you hear how he did each day?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1941_in_the_United_States",
+    "text": "On May 15, Joe DiMaggio of the New York Yankees began his 56-game hitting streak."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"Chattanooga Choo Choo\" was on the radio, and who in your house danced to Glenn Miller?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1941",
+    "text": "Glenn Miller and His Orchestra's \"Chattanooga Choo Choo\" was a number-one song in the United States in 1941, according to The Billboard."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first television set you ever saw, and whose house or shop window was it in?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1941_in_the_United_States",
+    "text": "NBC Television began commercial operation on WNBT, and the first legal TV commercial, for Bulova watches, was shown before a baseball game between the Brooklyn Dodgers and the Philadelphia Phillies."
+   },
+   {
+    "category": "news",
+    "question": "Where were you on the day you heard about Pearl Harbor, and who told you?",
+    "sombre": true,
+    "source_url": "https://en.wikipedia.org/wiki/1941_in_the_United_States",
+    "text": "On December 7, Pearl Harbor in Hawaii was attacked, and the United States was drawn into World War II."
+   }
+  ],
+  "1942": [
+   {
+    "category": "song",
+    "question": "Where were you living when Bing Crosby's \"White Christmas\" was on the radio, and who in your house sang it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1942",
+    "text": "Bing Crosby's \"White Christmas\" was a number-one song in the United States in 1942, according to The Billboard."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember where you first saw Casablanca, and who you went to the pictures with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
+    "text": "On November 26, the movie Casablanca premiered at the Hollywood Theater in New York City."
+   },
+   {
+    "category": "news",
+    "question": "Who in your family kept the ration books once coffee and gasoline were rationed, and what did your house cut back on?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
+    "text": "Coffee rationing began in the United States on November 29, and gasoline rationing began on December 1."
+   },
+   {
+    "category": "news",
+    "question": "Who in your family followed the World Series between St. Louis and New York, and where did you listen to the games?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
+    "text": "The St. Louis Cardinals beat the New York Yankees, 4 games to 1, to win the World Series."
+   }
+  ],
+  "1943": [
+   {
+    "category": "song",
+    "question": "Where were you living when the Mills Brothers' \"Paper Doll\" was on the radio, and who in your house sang along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1943",
+    "text": "The Mills Brothers' \"Paper Doll\" was a number-one song in the United States in 1943, according to The Billboard."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "news",
+    "question": "When did you first hear the songs from Oklahoma!, and who in your house sang them?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1943_in_the_United_States",
+    "text": "Rodgers and Hammerstein's Oklahoma! opened on Broadway on March 31."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember hearing about the women's professional baseball league, and did any girl you knew play ball?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1943_in_the_United_States",
+    "text": "On June 6, the first game of the All-American Girls Professional Baseball League was played."
+   },
+   {
+    "category": "news",
+    "question": "Who in your family needed new shoes once shoes were rationed, and how did you make the old ones last?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1943_in_the_United_States",
+    "text": "On February 7, it was announced that shoe rationing would go into effect in the United States two days later."
+   }
+  ],
+  "1944": [
+   {
+    "category": "news",
+    "question": "Where do you remember first seeing Smokey Bear, and who was with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1944_in_the_United_States",
+    "text": "On August 9, the United States Forest Service and the Wartime Advertising Council released posters featuring Smokey Bear for the first time."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Bing Crosby's \"Swinging on a Star\" was on the radio or the jukebox, and who sang along with it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1944",
+    "text": "Bing Crosby's \"Swinging on a Star\" was a number-one song in the United States in 1944, according to The Billboard."
+   },
+   {
+    "category": "news",
+    "question": "Who in your house listened to Ozzie and Harriet on the radio, and where did everyone sit?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1944_in_the_United_States",
+    "text": "On October 8, The Adventures of Ozzie and Harriet radio show debuted."
+   },
+   {
+    "category": "news",
+    "question": "Who in your family followed the all St. Louis World Series, and which team were they for?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1944_in_the_United_States",
+    "text": "The St. Louis Cardinals beat the St. Louis Browns, 4 games to 2, in the only all St. Louis World Series."
    }
   ],
   "1945": [
@@ -599,6 +1052,263 @@ window.WORLD_AT_TWENTY = {
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1955_in_the_United_States",
     "text": "The Brooklyn Dodgers won the World Series on October 4, 1955, defeating the New York Yankees in Game 7."
+   }
+  ],
+  "1956": [
+   {
+    "category": "news",
+    "question": "Where were you the first time you saw The Wizard of Oz on television, and whose set did you watch it on?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1956_in_the_United_States",
+    "text": "The Wizard of Oz was shown on television for the first time on November 3, 1956, on CBS."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Elvis Presley's \"Heartbreak Hotel\" was on the radio, and who in your house liked Elvis and who did not?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1956",
+    "text": "Elvis Presley's \"Heartbreak Hotel\" was a number-one song in the United States in 1956, according to Billboard magazine."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 30 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 29.9 cents."
+   },
+   {
+    "category": "technology",
+    "question": "Who in your house had the first alarm clock with a snooze button, and who was the hardest to get out of bed?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1956_in_the_United_States",
+    "text": "General Electric/Telechron introduced \"The Snooz Alarm\", the first snooze alarm clock, on June 8, 1956."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when Don Larsen pitched his perfect game, and who in your family rooted for the Yankees or the Dodgers?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1956_in_the_United_States",
+    "text": "Don Larsen of the New York Yankees pitched the only perfect game in World Series history on October 8, 1956, against the Brooklyn Dodgers, and the Yankees won the series."
+   }
+  ],
+  "1957": [
+   {
+    "category": "news",
+    "question": "Who did you watch Leave It to Beaver with, and which character reminded you of someone in your own family?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1957_in_the_United_States",
+    "text": "The sitcom Leave It to Beaver premiered on CBS on October 4, 1957."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 3 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where did you hear Elvis Presley's \"All Shook Up\" most, on the radio or a jukebox, and who were you with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1957",
+    "text": "Elvis Presley's \"All Shook Up\" was a number-one song in the United States in 1957, according to Billboard magazine."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 31 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 31.0 cents."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch American Bandstand with, and did anyone in your house practice the dances?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1957_in_the_United_States",
+    "text": "American Bandstand, a local dance show from WFIL-TV in Philadelphia, joined the ABC Television Network on August 5, 1957."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first time you saw an Edsel, and did you know anyone who owned one?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1957_in_the_United_States",
+    "text": "The Ford Motor Company introduced the Edsel on what it called \"E Day\"."
+   }
+  ],
+  "1958": [
+   {
+    "category": "technology",
+    "question": "Who was the first person you knew to have a hula hoop, and who in your family could keep one going the longest?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1958_in_the_United_States",
+    "text": "The plastic hula hoop was first marketed in July 1958."
+   },
+   {
+    "category": "song",
+    "question": "Where did you hear \"At the Hop\" by Danny & the Juniors, on the radio or a jukebox, and who were you with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1958",
+    "text": "Danny & the Juniors' \"At the Hop\" was a number-one song on Billboard's charts in 1958."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you when you heard that Explorer 1, the first American satellite, was in orbit, and who told you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1958_in_the_United_States",
+    "text": "Explorer 1, the first successful American satellite, was launched into orbit on January 31, 1958."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 30 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 30.4 cents."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch or listen to the 1958 NFL Championship Game with, and who was rooting for the Colts or the Giants?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1958_in_the_United_States",
+    "text": "The Baltimore Colts beat the New York Giants 23 to 17 on December 28, 1958, to win the NFL Championship Game, the first to go into sudden death overtime."
+   }
+  ],
+  "1959": [
+   {
+    "category": "news",
+    "question": "Who did you watch The Twilight Zone with, and is there one episode you still remember?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1959_in_the_United_States",
+    "text": "Rod Serling's The Twilight Zone premiered on CBS on October 2, 1959."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost four cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 4 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Bobby Darin's \"Mack the Knife\" was on the radio, and who in your house knew the words?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1959",
+    "text": "Bobby Darin's \"Mack the Knife\" spent nine weeks at number one on the Billboard Hot 100 in October and November 1959, the year's longest-running number one."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 30 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 30.5 cents."
+   },
+   {
+    "category": "news",
+    "question": "Where were you living when Hawaii became the 50th state, and who was the first person you knew to go there?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1959_in_the_United_States",
+    "text": "Hawaii was admitted as the 50th U.S. state on August 21, 1959."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember seeing the first seven astronauts in the newspaper or on television, and which one did you follow?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1959_in_the_United_States",
+    "text": "On April 9, 1959, NASA announced the Mercury Seven, seven military pilots chosen to become the first U.S. astronauts."
+   }
+  ],
+  "1960": [
+   {
+    "category": "news",
+    "question": "Who did you watch The Flintstones with, and who in your family was most like Fred or Wilma?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+    "text": "The Flintstones aired its first episode on the ABC network on September 30, 1960."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost four cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 4 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Elvis Presley's \"It's Now or Never\" was on the radio, and who did that song make you think of?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1960",
+    "text": "Elvis Presley's \"It's Now or Never\" spent five weeks at number one on the Billboard Hot 100 in 1960."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 31 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 31.1 cents."
+   },
+   {
+    "category": "news",
+    "question": "Where did you watch or hear the first Kennedy and Nixon debate, and who was in the room with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+    "text": "Richard Nixon and John F. Kennedy took part in the first televised presidential election debate on September 26, 1960."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when Bill Mazeroski's home run won the 1960 World Series, and how did you hear about it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
+    "text": "The Pittsburgh Pirates beat the New York Yankees in the seventh game of the World Series on Bill Mazeroski's walk-off home run."
+   }
+  ],
+  "1961": [
+   {
+    "category": "news",
+    "question": "Who in your family had a Barbie or a Ken doll, and who gave it to them?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
+    "text": "\"Barbie\" got a boyfriend on March 11, 1961, when the \"Ken\" doll was introduced in the United States."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost four cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 4 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you that summer when \"Tossin' and Turnin'\" was on the radio, and who were you with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1961",
+    "text": "Bobby Lewis's \"Tossin' and Turnin'\" spent seven weeks at number one on the Billboard Hot 100 in July and August 1961, the year's longest-running number one."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 31 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 30.8 cents."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you when Alan Shepard went into space, and did you watch it on television or hear it on the radio?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
+    "text": "Alan Shepard became the first American in space on May 5, 1961, aboard Mercury-Redstone 3."
+   },
+   {
+    "category": "news",
+    "question": "Who in your family followed Roger Maris's chase of Babe Ruth's record, and where were you when you heard he hit number 61?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
+    "text": "Roger Maris of the New York Yankees hit his 61st home run on October 1, 1961, in the last game of the season, beating the record held by Babe Ruth."
    }
   ]
  }

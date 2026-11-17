@@ -1,0 +1,62 @@
+{
+  "year": 1944,
+  "items": [
+    {
+      "category": "news",
+      "text": "On August 9, the United States Forest Service and the Wartime Advertising Council released posters featuring Smokey Bear for the first time.",
+      "question": "Where do you remember first seeing Smokey Bear, and who was with you?",
+      "source_url": "https://en.wikipedia.org/wiki/1944_in_the_United_States",
+      "source_file": "sources/wikipedia/1944-in-the-united-states.txt",
+      "source_quote": "August 9 – The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Bing Crosby's \"Swinging on a Star\" was a number-one song in the United States in 1944, according to The Billboard.",
+      "question": "Where were you living when Bing Crosby's \"Swinging on a Star\" was on the radio or the jukebox, and who sang along with it?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1944",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1944.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1944 according to The Billboard.",
+        "\"Swinging on a Star\" Bing Crosby with John Scott Trotter and His Orchestra and the Williams Brothers Quartet"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On October 8, The Adventures of Ozzie and Harriet radio show debuted.",
+      "question": "Who in your house listened to Ozzie and Harriet on the radio, and where did everyone sit?",
+      "source_url": "https://en.wikipedia.org/wiki/1944_in_the_United_States",
+      "source_file": "sources/wikipedia/1944-in-the-united-states.txt",
+      "source_quote": "October 8 – The Adventures of Ozzie and Harriet radio show debuts in the United States.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The St. Louis Cardinals beat the St. Louis Browns, 4 games to 2, in the only all St. Louis World Series.",
+      "question": "Who in your family followed the all St. Louis World Series, and which team were they for?",
+      "source_url": "https://en.wikipedia.org/wiki/1944_in_the_United_States",
+      "source_file": "sources/wikipedia/1944-in-the-united-states.txt",
+      "source_quote": "The St. Louis Cardinals defeat the St. Louis Browns, 4 games to 2, to win their 5th World Series Title. This is the only all St. Louis World Series.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

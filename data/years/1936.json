@@ -1,0 +1,62 @@
+{
+  "year": 1936,
+  "items": [
+    {
+      "category": "news",
+      "text": "Margaret Mitchell's Gone with the Wind was published on June 10.",
+      "question": "Who in your family read Gone with the Wind first, and did the copy get passed around the house?",
+      "source_url": "https://en.wikipedia.org/wiki/1936_in_the_United_States",
+      "source_file": "sources/wikipedia/1936-in-the-united-states.txt",
+      "source_quote": "June 10 – Margaret Mitchell's epic historical romance Gone with the Wind is published.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Bing Crosby's record of Pennies from Heaven was listed among the popular records of 1936 in the United States.",
+      "question": "Where were you living when Bing Crosby sang Pennies from Heaven on the radio, and who in your house liked to sing along?",
+      "source_url": "https://en.wikipedia.org/wiki/1936_in_music",
+      "source_file": "sources/wikipedia/1936-in-music.txt",
+      "source_quote": [
+        "The twenty popular records listed below",
+        "Bing Crosby \"Pennies from Heaven\" Decca 947 July 24, 1936 (1936-07-24) November 1936 (1936-11) US BB 1936 #1, US #1 for 10 weeks, 15 total weeks, Grammy Hall of Fame 2004, Jazz Standards 1936"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "At the Summer Olympics in Berlin, Jesse Owens won the 100-meter dash on August 3 and went on to win four gold medals.",
+      "question": "Who told you about Jesse Owens winning at the Olympics, and how did the news reach your town?",
+      "source_url": "https://en.wikipedia.org/wiki/1936_in_the_United_States",
+      "source_file": "sources/wikipedia/1936-in-the-united-states.txt",
+      "source_quote": "August 3 – 1936 Summer Olympics in Berlin (Nazi Germany): African-American athlete Jesse Owens wins the 100-meter dash. He will be the most successful athlete to compete in these games, winning a total of four gold medals.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Construction of Hoover Dam was completed on March 1.",
+      "question": "Who in your family first showed you a picture of Hoover Dam, and did anyone you knew ever go to see it?",
+      "source_url": "https://en.wikipedia.org/wiki/1936_in_the_United_States",
+      "source_file": "sources/wikipedia/1936-in-the-united-states.txt",
+      "source_quote": "March 1 – Construction of Hoover Dam is completed.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

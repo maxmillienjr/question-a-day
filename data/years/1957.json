@@ -1,0 +1,76 @@
+{
+  "year": 1957,
+  "items": [
+    {
+      "category": "news",
+      "text": "The sitcom Leave It to Beaver premiered on CBS on October 4, 1957.",
+      "question": "Who did you watch Leave It to Beaver with, and which character reminded you of someone in your own family?",
+      "source_url": "https://en.wikipedia.org/wiki/1957_in_the_United_States",
+      "source_file": "sources/wikipedia/1957-in-the-united-states.txt",
+      "source_quote": "October 4 – The sitcom Leave It to Beaver premieres on CBS.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Elvis Presley's \"All Shook Up\" was a number-one song in the United States in 1957, according to Billboard magazine.",
+      "question": "Where did you hear Elvis Presley's \"All Shook Up\" most, on the radio or a jukebox, and who were you with?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1957",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1957.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1957 according to Billboard magazine.",
+        "\"All Shook Up\" Elvis Presley with The Jordanaires"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 31.0 cents.",
+      "question": "What car was in your family when gas was about 31 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Leaded Regular",
+        "1957 .310 R 1.747"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "American Bandstand, a local dance show from WFIL-TV in Philadelphia, joined the ABC Television Network on August 5, 1957.",
+      "question": "Who did you watch American Bandstand with, and did anyone in your house practice the dances?",
+      "source_url": "https://en.wikipedia.org/wiki/1957_in_the_United_States",
+      "source_file": "sources/wikipedia/1957-in-the-united-states.txt",
+      "source_quote": "August 5 – American Bandstand, a local dance show produced by WFIL-TV in Philadelphia, joins the ABC Television Network.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "The Ford Motor Company introduced the Edsel on what it called \"E Day\".",
+      "question": "Do you remember the first time you saw an Edsel, and did you know anyone who owned one?",
+      "source_url": "https://en.wikipedia.org/wiki/1957_in_the_United_States",
+      "source_file": "sources/wikipedia/1957-in-the-united-states.txt",
+      "source_quote": "The Ford Motor Company introduces the Edsel on what the company proclaims as \"E Day\".",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

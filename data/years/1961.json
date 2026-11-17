@@ -1,0 +1,76 @@
+{
+  "year": 1961,
+  "items": [
+    {
+      "category": "news",
+      "text": "\"Barbie\" got a boyfriend on March 11, 1961, when the \"Ken\" doll was introduced in the United States.",
+      "question": "Who in your family had a Barbie or a Ken doll, and who gave it to them?",
+      "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
+      "source_file": "sources/wikipedia/1961-in-the-united-states.txt",
+      "source_quote": "March 11 – \"Barbie\" gets a boyfriend, when the \"Ken\" doll is introduced in the United States.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 4 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost four cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "August 1, 1958 4 January 7, 1963 5"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Bobby Lewis's \"Tossin' and Turnin'\" spent seven weeks at number one on the Billboard Hot 100 in July and August 1961, the year's longest-running number one.",
+      "question": "Where were you that summer when \"Tossin' and Turnin'\" was on the radio, and who were you with?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1961",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1961.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1961, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations respectively. During the year, 22 different singles spent time at number one.",
+        "The year's longest-running number one was \"Tossin' and Turnin'\" by Bobby Lewis, which spent seven weeks in the top spot in July and August."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 30.8 cents.",
+      "question": "What car was in your family when gas was about 31 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Leaded Regular",
+        "1961 .308 R 1.636"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Alan Shepard became the first American in space on May 5, 1961, aboard Mercury-Redstone 3.",
+      "question": "Where were you when Alan Shepard went into space, and did you watch it on television or hear it on the radio?",
+      "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
+      "source_file": "sources/wikipedia/1961-in-the-united-states.txt",
+      "source_quote": "May 5 – Mercury program: Alan Shepard becomes the first American in space aboard Mercury-Redstone 3.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "Roger Maris of the New York Yankees hit his 61st home run on October 1, 1961, in the last game of the season, beating the record held by Babe Ruth.",
+      "question": "Who in your family followed Roger Maris's chase of Babe Ruth's record, and where were you when you heard he hit number 61?",
+      "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
+      "source_file": "sources/wikipedia/1961-in-the-united-states.txt",
+      "source_quote": "October 1 – Baseball player Roger Maris of the New York Yankees hits his 61st home run in the last game of the season, against the Boston Red Sox, beating the 34-year-old record held by Babe Ruth.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

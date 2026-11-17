@@ -68,15 +68,15 @@ footer { color: var(--muted); font-family: var(--sans); font-size: 0.85rem; padd
   .sheet { border: 0; padding: 0; background: #fff; }
   h2 { font-size: 14pt; margin: 0 0 1pt; }
   .us { font-size: 9pt; margin: 0 0 2pt; }
-  h3 { font-size: 10.5pt; margin: 6pt 0 0; padding-bottom: 1pt; border-bottom: 1pt solid #000; }
+  h3 { font-size: 10.5pt; margin: 5pt 0 0; padding-bottom: 1pt; border-bottom: 1pt solid #000; }
   .item { padding: 3pt 0 0; border: 0; break-inside: avoid; page-break-inside: avoid; }
   .fact { margin: 0; font-size: 9pt; }
   .q { margin: 1pt 0 0; font-size: 10pt; color: #000; }
   .lines {
-    display: block; height: 26pt;
+    display: block; height: 24pt;
     -webkit-print-color-adjust: exact; print-color-adjust: exact;
     background-image: linear-gradient(to bottom, transparent calc(100% - 0.6pt), #777 calc(100% - 0.6pt));
-    background-size: 100% 13pt;
+    background-size: 100% 12pt;
   }
   .coming { font-size: 9.5pt; margin: 3pt 0 0; }
   .print-credit { display: block; font-size: 7.5pt; color: #333; margin: 8pt 0 0; overflow-wrap: anywhere; }

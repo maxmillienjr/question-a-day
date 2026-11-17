@@ -34,7 +34,8 @@ A year with nothing gentle in a category leaves that category empty rather than 
 ## Check
 
 ```sh
-sh tools/check.sh      # build docs/years.js, check every item against its source, check the sheet rule
+sh tools/check.sh        # build docs/years.js, check every item against its source, check the sheet rule
+sh tools/print-check.sh  # print every offered birth year with headless Chrome; fail if any takes two pages
 ```
 
 To add a year: fetch its pages with `tools/fetch.py`, write `data/years/<year>.json`, run

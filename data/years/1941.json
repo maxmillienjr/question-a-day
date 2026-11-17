@@ -1,0 +1,62 @@
+{
+  "year": 1941,
+  "items": [
+    {
+      "category": "news",
+      "text": "On May 15, Joe DiMaggio of the New York Yankees began his 56-game hitting streak.",
+      "question": "Who in your family followed Joe DiMaggio's hitting streak, and how did you hear how he did each day?",
+      "source_url": "https://en.wikipedia.org/wiki/1941_in_the_United_States",
+      "source_file": "sources/wikipedia/1941-in-the-united-states.txt",
+      "source_quote": "May 15 – Joe DiMaggio's 56-game hitting streak begins as the New York Yankee center fielder goes one for 4 against Chicago White Sox pitcher Eddie Smith.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Glenn Miller and His Orchestra's \"Chattanooga Choo Choo\" was a number-one song in the United States in 1941, according to The Billboard.",
+      "question": "Where were you living when \"Chattanooga Choo Choo\" was on the radio, and who in your house danced to Glenn Miller?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1941",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1941.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1941 according to The Billboard.",
+        "\"Chattanooga Choo Choo\" Glenn Miller and His Orchestra with Tex Beneke and the Four Modernaires"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "NBC Television began commercial operation on WNBT, and the first legal TV commercial, for Bulova watches, was shown before a baseball game between the Brooklyn Dodgers and the Philadelphia Phillies.",
+      "question": "Do you remember the first television set you ever saw, and whose house or shop window was it in?",
+      "source_url": "https://en.wikipedia.org/wiki/1941_in_the_United_States",
+      "source_file": "sources/wikipedia/1941-in-the-united-states.txt",
+      "source_quote": "NBC Television begins commercial operation on WNBT, on Channel 1. The world's first legal TV commercial, for Bulova watches, occurs at 2:29 PM over WNBT, before a baseball game between the Brooklyn Dodgers and Philadelphia Phillies.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On December 7, Pearl Harbor in Hawaii was attacked, and the United States was drawn into World War II.",
+      "question": "Where were you on the day you heard about Pearl Harbor, and who told you?",
+      "source_url": "https://en.wikipedia.org/wiki/1941_in_the_United_States",
+      "source_file": "sources/wikipedia/1941-in-the-united-states.txt",
+      "source_quote": "December 7 (07:48 Hawaiian Time; 12:48 EST; December 8 03:18 Japan Standard Time) – Attack on Pearl Harbor: The Imperial Japanese Navy Air Service stages a military strike on the United States Navy fleet at Pearl Harbor in the Territory of Hawaii, thus drawing the U.S. into World War II.",
+      "checked": "2026-11-17",
+      "sombre": true
+    }
+  ]
+}

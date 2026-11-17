@@ -1,0 +1,62 @@
+{
+  "year": 1938,
+  "items": [
+    {
+      "category": "song",
+      "text": "On November 10, the eve of Armistice Day, Kate Smith sang Irving Berlin's God Bless America for the first time on her weekly radio show.",
+      "question": "Who in your house listened to Kate Smith, and where was the radio when you first heard her sing God Bless America?",
+      "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
+      "source_file": "sources/wikipedia/1938-in-the-united-states.txt",
+      "source_quote": "November 10 – On the eve of Armistice Day, Kate Smith sings Irving Berlin's \"God Bless America\" for the first time on her weekly radio show.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "A-Tisket, A-Tasket by the Chick Webb Orchestra, with Ella Fitzgerald singing, was listed among the popular records of 1938 in the United States.",
+      "question": "Where were you living when Ella Fitzgerald's A-Tisket, A-Tasket was on the radio, and who did you dance or sing it with?",
+      "source_url": "https://en.wikipedia.org/wiki/1938_in_music",
+      "source_file": "sources/wikipedia/1938-in-music.txt",
+      "source_quote": [
+        "The twenty popular records listed below",
+        "Chick Webb Orchestra (vocal Ella Fitzgerald) \"A-Tisket, A-Tasket\" Decca 1840 May 2, 1938 (1938-05-02) June 1938 (1938-06) US Billboard 1938 #1, US #1 for 10 weeks, 19 total weeks, Grammy Hall of Fame 1986, 250,000 sales"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On June 22, heavyweight boxing champion Joe Louis knocked out Max Schmeling in the first round of their rematch at Yankee Stadium in New York City.",
+      "question": "Where were you the night Joe Louis fought Max Schmeling, and whose radio did you listen to it on?",
+      "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
+      "source_file": "sources/wikipedia/1938-in-the-united-states.txt",
+      "source_quote": "June 22 – Heavyweight boxing champion Joe Louis knocks out Max Schmeling in the first round of their rematch at Yankee Stadium in New York City.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On October 30, Orson Welles's radio adaptation of The War of the Worlds was broadcast.",
+      "question": "Where were you the night The War of the Worlds was on the radio, and who in your house heard it?",
+      "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
+      "source_file": "sources/wikipedia/1938-in-the-united-states.txt",
+      "source_quote": "October 30 – Orson Welles's radio adaptation of The War of the Worlds (with script by Howard Koch) is broadcast, causing panic in various parts of the United States.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

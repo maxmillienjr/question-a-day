@@ -1,0 +1,62 @@
+{
+  "year": 1940,
+  "items": [
+    {
+      "category": "technology",
+      "text": "On May 15, women's stockings made of nylon were first placed on sale across the United States, and almost five million pairs were bought that day.",
+      "question": "Who was the first woman in your family to wear nylon stockings, and where did she buy them?",
+      "source_url": "https://en.wikipedia.org/wiki/1940_in_the_United_States",
+      "source_file": "sources/wikipedia/1940-in-the-united-states.txt",
+      "source_quote": "May 15 The very first McDonald's restaurant opens in San Bernardino, California. Women's stockings made of nylon are first placed on sale across the U.S. Almost five million pairs are bought on this day.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Tommy Dorsey and His Orchestra's I'll Never Smile Again, sung by Frank Sinatra and the Pied Pipers, was the first Billboard number-one single, topping the National Best Selling Retail Records chart for twelve weeks in a row.",
+      "question": "Where were you living when Frank Sinatra sang I'll Never Smile Again with Tommy Dorsey, and who in your house had the radio on?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1940",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1940.txt",
+      "source_quote": [
+        "Bandleader Tommy Dorsey achieved the first Billboard number-one single with \"I'll Never Smile Again\", which topped the National Best Selling Retail Records chart for twelve consecutive weeks.",
+        "The first National Best Selling Retail Records number-one single was \"I'll Never Smile Again\" by Tommy Dorsey and His Orchestra. Featuring vocals by Frank Sinatra and the vocal group the Pied Pipers"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On July 27, Bugs Bunny made his debut in the cartoon short A Wild Hare.",
+      "question": "Do you remember the first Bugs Bunny cartoon you saw at the pictures, and who you were with?",
+      "source_url": "https://en.wikipedia.org/wiki/1940_in_the_United_States",
+      "source_file": "sources/wikipedia/1940-in-the-united-states.txt",
+      "source_quote": "July 27 – Bugs Bunny makes his debut in the Oscar-nominated cartoon short, A Wild Hare.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "On October 1, the first section of the Pennsylvania Turnpike, the country's first long-distance controlled-access highway, opened between Irwin and Carlisle.",
+      "question": "Do you remember your first drive on a highway with no stoplights, and who was behind the wheel?",
+      "source_url": "https://en.wikipedia.org/wiki/1940_in_the_United_States",
+      "source_file": "sources/wikipedia/1940-in-the-united-states.txt",
+      "source_quote": "October 1 – The first section of the Pennsylvania Turnpike, the country's first long-distance controlled-access highway, is opened between Irwin and Carlisle.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}
