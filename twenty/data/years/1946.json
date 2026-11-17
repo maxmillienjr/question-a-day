@@ -1,0 +1,62 @@
+{
+  "year": 1946,
+  "items": [
+    {
+      "category": "technology",
+      "text": "The first Tupperware was sold in department and hardware stores in the United States.",
+      "question": "Who in your family had the first Tupperware, and what did they keep in it?",
+      "source_url": "https://en.wikipedia.org/wiki/1946_in_the_United_States",
+      "source_file": "sources/wikipedia/1946-in-the-united-states.txt",
+      "source_quote": "The first Tupperware is sold in department and hardware stores in the United States.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On December 20, Frank Capra's It's a Wonderful Life, with James Stewart and Donna Reed, was released in New York.",
+      "question": "Do you remember the first time you saw It's a Wonderful Life, and who you watched it with?",
+      "source_url": "https://en.wikipedia.org/wiki/1946_in_the_United_States",
+      "source_file": "sources/wikipedia/1946-in-the-united-states.txt",
+      "source_quote": "December 20 – Frank Capra's It's a Wonderful Life, featuring James Stewart, Donna Reed, Lionel Barrymore, Henry Travers and Thomas Mitchell, is released in New York.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Frank Sinatra's Five Minutes More was listed among the top popular records of 1946 in the United States.",
+      "question": "Where were you living when Frank Sinatra's Five Minutes More was a popular record, and who in your house liked Sinatra?",
+      "source_url": "https://en.wikipedia.org/wiki/1946_in_music",
+      "source_file": "sources/wikipedia/1946-in-music.txt",
+      "source_quote": [
+        "Top popular records of 1946",
+        "Frank Sinatra \"Five Minutes More\" Columbia 37048 May 28, 1946 (1946-05-28) July 8, 1946 (1946-07-08) US Billboard 1946 #4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On October 15, the St. Louis Cardinals beat the Boston Red Sox, 4 games to 3, to win the World Series.",
+      "question": "Who in your family followed the Cardinals and the Red Sox in the World Series that fall, and which team were they for?",
+      "source_url": "https://en.wikipedia.org/wiki/1946_in_the_United_States",
+      "source_file": "sources/wikipedia/1946-in-the-united-states.txt",
+      "source_quote": "October 15 – The St. Louis Cardinals defeat the Boston Red Sox, 4 games to 3, to win their 6th World Series.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

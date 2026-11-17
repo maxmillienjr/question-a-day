@@ -1,0 +1,62 @@
+{
+  "year": 1968,
+  "items": [
+    {
+      "category": "news",
+      "text": "NET televised the very first episode of Mister Rogers' Neighborhood in 1968.",
+      "question": "Do you remember the first time you saw Mister Rogers' Neighborhood, and who was watching it in your house?",
+      "source_url": "https://en.wikipedia.org/wiki/1968_in_the_United_States",
+      "source_file": "sources/wikipedia/1968-in-the-united-states.txt",
+      "source_quote": "NET televises the very first episode of Mister Rogers' Neighborhood.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "The Beatles' \"Hey Jude\" reached number one on the Billboard Hot 100 in September 1968 and spent nine weeks there.",
+      "question": "Where were you living when the Beatles' \"Hey Jude\" was number one, and who in your house sang along?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1968",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1968.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1968, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations respectively. During the year, 16 singles spent time at number one.",
+        "In the year's first issue of Billboard, the Beatles were at number one with \"Hello, Goodbye\", retaining the position from the final chart of 1967. They held the top spot for the first two weeks of the new year and then returned to number one in September with \"Hey Jude\". The latter song spent nine weeks atop the chart"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Apollo 8 went into orbit around the Moon on December 24, 1968, and its crew read from the Book of Genesis in a live television broadcast.",
+      "question": "Where were you on Christmas Eve 1968 when the Apollo 8 crew read from Genesis on television, and who was watching with you?",
+      "source_url": "https://en.wikipedia.org/wiki/1968_in_the_United_States",
+      "source_file": "sources/wikipedia/1968-in-the-united-states.txt",
+      "source_quote": "December 24 – Apollo Program: the Apollo 8 spacecraft enters orbit around the Moon. Astronauts Frank Borman, Jim Lovell and William A. Anders become the first humans to see the far side of the Moon and planet Earth as a whole. The Earthrise photograph is taken. The crew also read from the Book of Genesis for a live television broadcast.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 33.7 cents.",
+      "question": "What car was in your family when gas was about 34 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "1968 .337 R 1.530"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "Martin Luther King Jr. was killed on April 4, 1968.",
+      "question": "Where were you when you heard that Martin Luther King Jr. had been killed, and who told you?",
+      "source_url": "https://en.wikipedia.org/wiki/1968_in_the_United_States",
+      "source_file": "sources/wikipedia/1968-in-the-united-states.txt",
+      "source_quote": "April 4 Martin Luther King Jr. is shot dead at the Lorraine Motel in Memphis, Tennessee.",
+      "checked": "2026-11-17",
+      "sombre": true
+    }
+  ]
+}

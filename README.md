@@ -45,6 +45,14 @@ Everything else on the page uses relative links, so the site works under any pat
 The evergreen feeds are pre-built for start dates up to `evergreenLastStart`. Move that date forward
 and rebuild before it runs out; the page falls back to download-only after it.
 
+## Also here: The World at Twenty
+
+`twenty/` holds a second small tool, served at https://questions.puretome.com/twenty/: pick a
+parent's birth year and print ten questions about the United States when they were 10, 20 and 30.
+Its data, saved sources and checks are in `twenty/` (see `twenty/README.md`), and its pages are in
+`docs/twenty/`. It has its own licence notes, because its facts come from Wikipedia under CC BY-SA 4.0.
+Nothing in it touches the calendar feeds.
+
 ## Licence
 
 - Code (everything except the questions): MIT, see `LICENSE`.

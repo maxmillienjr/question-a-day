@@ -1,0 +1,63 @@
+{
+  "year": 1958,
+  "items": [
+    {
+      "category": "technology",
+      "text": "The plastic hula hoop was first marketed in July 1958.",
+      "question": "Who was the first person you knew to have a hula hoop, and who in your family could keep one going the longest?",
+      "source_url": "https://en.wikipedia.org/wiki/1958_in_the_United_States",
+      "source_file": "sources/wikipedia/1958-in-the-united-states.txt",
+      "source_quote": "July – The plastic hula hoop is first marketed.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Danny & the Juniors' \"At the Hop\" was a number-one song on Billboard's charts in 1958.",
+      "question": "Where did you hear \"At the Hop\" by Danny & the Juniors most, and who were you with?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1958",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1958.txt",
+      "source_quote": [
+        "Prior to that, Billboard published four popular song charts",
+        "In 1958, twenty-five different songs were able to top one of the four charts.",
+        "The first song to top all three charts was Danny & the Juniors' \"At the Hop\"."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Explorer 1, the first successful American satellite, was launched into orbit on January 31, 1958.",
+      "question": "Where were you when you heard that Explorer 1, the first American satellite, was in orbit, and who told you?",
+      "source_url": "https://en.wikipedia.org/wiki/1958_in_the_United_States",
+      "source_file": "sources/wikipedia/1958-in-the-united-states.txt",
+      "source_quote": "January 31 – The first successful American satellite, Explorer 1, is launched into orbit.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 30.4 cents.",
+      "question": "What car was in your family when gas was about 30 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "1958 .304 R 1.676"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The Baltimore Colts beat the New York Giants 23 to 17 on December 28, 1958, to win the NFL Championship Game, the first to go into sudden death overtime.",
+      "question": "Who did you watch or listen to the 1958 NFL Championship Game with, and who was rooting for the Colts or the Giants?",
+      "source_url": "https://en.wikipedia.org/wiki/1958_in_the_United_States",
+      "source_file": "sources/wikipedia/1958-in-the-united-states.txt",
+      "source_quote": "December 28 – 1958 NFL Championship Game: The Baltimore Colts beat the New York Giants 23–17 to win the NFL Championship Game, the first to go into sudden death overtime and \"The Greatest Game Ever Played\".",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "year": 1966,
+  "items": [
+    {
+      "category": "news",
+      "text": "Star Trek premiered on NBC on September 8, 1966.",
+      "question": "Who in your house watched Star Trek from the start, and which character was their favorite?",
+      "source_url": "https://en.wikipedia.org/wiki/1966_in_the_United_States",
+      "source_file": "sources/wikipedia/1966-in-the-united-states.txt",
+      "source_quote": "September 8 – The classic science fiction series Star Trek premieres on NBC with its first episode, titled \"The Man Trap\".",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 5 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost five cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "January 7, 1963 5 January 7, 1968 6"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "The Monkees, a band put together for the NBC TV comedy series The Monkees, reached number one on the Billboard Hot 100 in November 1966 with their debut single, \"Last Train to Clarksville\".",
+      "question": "Did you watch The Monkees on television, and who did you know who had their record?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1966",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1966.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1966, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations, respectively, and 27 different singles spent time at number one.",
+        "In November, the Monkees gained their first number one with \"Last Train to Clarksville\". It was the debut single for the band, which had been put together for the NBC TV comedy series The Monkees, which began airing in September 1966."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 32.1 cents.",
+      "question": "What car was in your family when gas was about 32 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "1966 .321 R 1.566"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "The Chevrolet Camaro was introduced on September 29, 1966.",
+      "question": "What car were you or your friends driving in 1966, and who did you know who wanted a Camaro?",
+      "source_url": "https://en.wikipedia.org/wiki/1966_in_the_United_States",
+      "source_file": "sources/wikipedia/1966-in-the-united-states.txt",
+      "source_quote": "September 29 – Chevrolet Camaro car is introduced.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "How the Grinch Stole Christmas, narrated by Boris Karloff, was shown for the first time on CBS on December 18, 1966.",
+      "question": "Where were you living when How the Grinch Stole Christmas was first shown, and who watched it with you?",
+      "source_url": "https://en.wikipedia.org/wiki/1966_in_the_United_States",
+      "source_file": "sources/wikipedia/1966-in-the-united-states.txt",
+      "source_quote": "December 18 – How the Grinch Stole Christmas, narrated by Boris Karloff, is shown for the first time on CBS.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

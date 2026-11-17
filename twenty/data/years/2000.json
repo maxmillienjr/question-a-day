@@ -1,0 +1,68 @@
+{
+  "year": 2000,
+  "items": [
+    {
+      "category": "song",
+      "text": "Santana and The Product G&B's \"Maria Maria\" topped the Billboard Hot 100 for 10 consecutive weeks, the longest-running single of 2000.",
+      "question": "Where were you living when Santana's \"Maria Maria\" was number one, and who in your life turned it up?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2000",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-2000.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart that ranks the best-performing singles of the United States.",
+        "There were 18 number-one singles in 2000.",
+        "Santana and The Product G&B's \"Maria Maria\" was the longest-running single of 2000, topping the chart for 10 consecutive weeks."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 33 cents for the first ounce.",
+      "question": "Where were you living when a stamp for a letter cost 33 cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "January 10, 1999 33 January 7, 2001 34",
+        "the prices listed in this table are for the first ounce"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The New York Yankees defeated the New York Mets to win the 2000 World Series, the first Subway Series between the two crosstown rivals.",
+      "question": "Who did you watch the 2000 Subway Series with, and were you for the Yankees or the Mets?",
+      "source_url": "https://en.wikipedia.org/wiki/2000_in_the_United_States",
+      "source_file": "sources/wikipedia/2000-in-the-united-states.txt",
+      "source_quote": "October 26 – The New York Yankees defeat the New York Mets in Game 5 of the 2000 World Series in baseball, 4–1, to win their 26th World Series title. This is the first Subway Series matchup between the two crosstown rivals.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular unleaded gasoline was $1.51.",
+      "question": "What car was in your family when gas was about $1.51 a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "2000 NA NA 1.510 R 1.702"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "On May 1, 2000, President Bill Clinton announced that accurate GPS access would no longer be restricted to the U.S. military.",
+      "question": "Do you remember the first time you used GPS to find your way somewhere, and who was in the car with you?",
+      "source_url": "https://en.wikipedia.org/wiki/2000_in_the_United_States",
+      "source_file": "sources/wikipedia/2000-in-the-united-states.txt",
+      "source_quote": "May 1 – President Bill Clinton announces that accurate GPS access will no longer be restricted to the U.S. military.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

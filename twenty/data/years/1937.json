@@ -1,0 +1,63 @@
+{
+  "year": 1937,
+  "items": [
+    {
+      "category": "news",
+      "text": "On December 21, Walt Disney's Snow White and the Seven Dwarfs, the first feature-length animated cartoon with sound, premiered and became a smash hit.",
+      "question": "Who took you to see Snow White and the Seven Dwarfs, and which picture house was it?",
+      "source_url": "https://en.wikipedia.org/wiki/1937_in_the_United_States",
+      "source_file": "sources/wikipedia/1937-in-the-united-states.txt",
+      "source_quote": "December 21 – Walt Disney's Snow White and the Seven Dwarfs, the first feature-length animated cartoon with sound, is premiered and becomes a smash hit.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Bing Crosby introduced Sweet Leilani in the film Waikiki Wedding, and his record of it was listed among the popular records of 1937 in the United States.",
+      "question": "Did you see Waikiki Wedding at the pictures or hear Bing Crosby's record of Sweet Leilani, and who were you with?",
+      "source_url": "https://en.wikipedia.org/wiki/1937_in_music",
+      "source_file": "sources/wikipedia/1937-in-music.txt",
+      "source_quote": [
+        "\"Sweet Leilani\" w.m. Harry Owens. Introduced by Bing Crosby in the film Waikiki Wedding",
+        "The twenty popular records in the United States listed below",
+        "Bing Crosby \"Sweet Leilani\" Decca February 22, 1937 (1937-02-22) March 1937 (1937-03) US BB 1937 #1, US #1 for 10 weeks, 25 total weeks, 1,000,000 sales"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "On May 27, the Golden Gate Bridge in California opened to pedestrian traffic, and the next day President Franklin D. Roosevelt pushed a button in Washington, D.C., to start vehicle traffic across it.",
+      "question": "Do you remember the first time you saw a picture of the Golden Gate Bridge, or crossed it yourself, and who was with you?",
+      "source_url": "https://en.wikipedia.org/wiki/1937_in_the_United_States",
+      "source_file": "sources/wikipedia/1937-in-the-united-states.txt",
+      "source_quote": "May 27 – In California, the Golden Gate Bridge opens to pedestrian traffic, creating a vital link between San Francisco and Marin County. The next day, President Franklin D. Roosevelt pushes a button in Washington, D.C., signaling the start of vehicle traffic over the Golden Gate Bridge.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On July 5, the Hormel company introduced the canned precooked meat product Spam.",
+      "question": "Do you remember the first time Spam came to your table, and who in your house cooked it?",
+      "source_url": "https://en.wikipedia.org/wiki/1937_in_the_United_States",
+      "source_file": "sources/wikipedia/1937-in-the-united-states.txt",
+      "source_quote": "July 5 – The canned precooked meat product Spam is introduced by the Hormel company.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "year": 1971,
+  "items": [
+    {
+      "category": "news",
+      "text": "Walt Disney World opened in Orlando, Florida, on October 1, 1971.",
+      "question": "Who was the first person you knew to go to Walt Disney World, and what did they tell you about it?",
+      "source_url": "https://en.wikipedia.org/wiki/1971_in_the_United_States",
+      "source_file": "sources/wikipedia/1971-in-the-united-states.txt",
+      "source_quote": "October 1 – Walt Disney World opens in Orlando, Florida.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The television sitcom All in the Family, starring Carroll O'Connor as Archie Bunker, debuted on CBS on January 12, 1971.",
+      "question": "Who in your house watched All in the Family, and who laughed hardest at Archie Bunker?",
+      "source_url": "https://en.wikipedia.org/wiki/1971_in_the_United_States",
+      "source_file": "sources/wikipedia/1971-in-the-united-states.txt",
+      "source_quote": "January 12 – The landmark television sitcom All in the Family, starring Carroll O'Connor as Archie Bunker, debuts on CBS.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "On July 31, 1971, Apollo 15 astronauts David Scott and James Irwin became the first to ride in a lunar rover, a day after landing on the Moon.",
+      "question": "Do you remember seeing the astronauts drive the lunar rover on the Moon, and where were you watching?",
+      "source_url": "https://en.wikipedia.org/wiki/1971_in_the_United_States",
+      "source_file": "sources/wikipedia/1971-in-the-united-states.txt",
+      "source_quote": "July 31 – Apollo 15 astronauts David Scott and James Irwin become the first to ride in a lunar rover, a day after landing on the Moon.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 36.4 cents.",
+      "question": "What car was in your family when gas was about 36 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "1971 .364 R 1.424"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Three Dog Night's \"Joy to the World\" reached number one on the Billboard Hot 100 in April 1971 and spent six weeks there, the longest run at number one that year.",
+      "question": "Where were you living when \"Joy to the World\" by Three Dog Night was number one, and who in your house sang along?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1971",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1971.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1971, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations respectively. During the year, 19 different singles spent time at number one.",
+        "The band Three Dog Night reached number one in April with \"Joy to the World\"; the track spent six consecutive weeks in the top spot, making it the longest-running chart-topper of 1971."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}
