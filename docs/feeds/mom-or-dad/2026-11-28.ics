@@ -1,0 +1,724 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PureTome//A Question a Day//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:A Question a Day: Mom or Dad
+X-WR-CALNAME:A Question a Day: Mom or Dad
+DESCRIPTION:Thirty questions for a parent or grandparent\, from the first h
+ ouse they remember to the story they most want kept. Starts the day after 
+ you add it.
+X-WR-CALDESC:Thirty questions for a parent or grandparent\, from the first 
+ house they remember to the story they most want kept. Starts the day after
+  you add it.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+SOURCE;VALUE=URI:https://question-a-day.example/feeds/mom-or-dad/2026-11-28
+ .ics
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d01-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:What is the first house or apartment you remember living in? Walk m
+ e through the front door.
+DESCRIPTION:Day 1 of 30\, 30 days with Mom or Dad.\n\nAsk: What is the firs
+ t house or apartment you remember living in? Walk me through the front doo
+ r.\n\nThen: Which room did you spend the most time in\, and why that one?\
+ n\nTip: Start with a place. Places are easier to describe than feelings\, 
+ and the people show up on their own.\n\nAll thirty questions\, printable: 
+ https://question-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No 
+ sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is the first house or apartment you reme
+ mber living in? Walk me through the front door.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d02-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Who lived on your street when you were small? Pick one neighbor you
+  can still picture.
+DESCRIPTION:Day 2 of 30\, 30 days with Mom or Dad.\n\nAsk: Who lived on you
+ r street when you were small? Pick one neighbor you can still picture.\n\n
+ Then: What did that person do that you noticed as a kid?\n\nTip: If they n
+ ame someone you have never heard of\, write the name down. It is a thread 
+ for another day.\n\nAll thirty questions\, printable: https://question-a-d
+ ay.example/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, nothing to
+  unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who lived on your street when you were small?
+  Pick one neighbor you can still picture.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d03-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:What did a school day look like for you at about ten years old\, fr
+ om the time you got up?
+DESCRIPTION:Day 3 of 30\, 30 days with Mom or Dad.\n\nAsk: What did a schoo
+ l day look like for you at about ten years old\, from the time you got up?
+ \n\nThen: How did you get to school\, and who went with you?\n\nTip: Ask f
+ or the ordinary day\, not the big one. The ordinary day is the one nobody 
+ wrote down.\n\nAll thirty questions\, printable: https://question-a-day.ex
+ ample/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, nothing to unsu
+ bscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did a school day look like for you at ab
+ out ten years old\, from the time you got up?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d04-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Which teacher or grown-up outside the family do you still think abo
+ ut? Tell me about one day with them.
+DESCRIPTION:Day 4 of 30\, 30 days with Mom or Dad.\n\nAsk: Which teacher or
+  grown-up outside the family do you still think about? Tell me about one d
+ ay with them.\n\nThen: What is one thing they said that stuck with you?\n\
+ nTip: Let them take their time. A pause usually means they are finding the
+  picture.\n\nAll thirty questions\, printable: https://question-a-day.exam
+ ple/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, nothing to unsubs
+ cribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Which teacher or grown-up outside the family 
+ do you still think about? Tell me about one day with them.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d05-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:What was an ordinary weeknight supper where you grew up\, and who m
+ ade it?
+DESCRIPTION:Day 5 of 30\, 30 days with Mom or Dad.\n\nAsk: What was an ordi
+ nary weeknight supper where you grew up\, and who made it?\n\nThen: Which 
+ dish from back then could you still make\, or still taste?\n\nTip: Food qu
+ estions work at a busy table. Everyone has an opinion\, and the answers ar
+ e funny more often than sad.\n\nAll thirty questions\, printable: https://
+ question-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\
+ , nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What was an ordinary weeknight supper where y
+ ou grew up\, and who made it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d06-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:What was your first paying job? Take me to the first day.
+DESCRIPTION:Day 6 of 30\, 30 days with Mom or Dad.\n\nAsk: What was your fi
+ rst paying job? Take me to the first day.\n\nThen: What did you do with th
+ e first money you earned?\n\nTip: Ask what the work smelled and sounded li
+ ke. The senses bring back the details.\n\nAll thirty questions\, printable
+ : https://question-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. N
+ o sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What was your first paying job? Take me to th
+ e first day.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d07-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Find a photograph of yourself from when you were young. What was ha
+ ppening just outside the frame?
+DESCRIPTION:Day 7 of 30\, 30 days with Mom or Dad.\n\nAsk: Find a photograp
+ h of yourself from when you were young. What was happening just outside th
+ e frame?\n\nThen: Who took it\, and what happened right after?\n\nTip: A p
+ erson who cannot start a story can almost always explain a photo. Let the 
+ picture do some of the asking.\n\nAll thirty questions\, printable: https:
+ //question-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No sign-u
+ p\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Find a photograph of yourself from when you w
+ ere young. What was happening just outside the frame?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d08-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Who was your closest friend when you were a teenager? Tell me about
+  one afternoon you spent together.
+DESCRIPTION:Day 8 of 30\, 30 days with Mom or Dad.\n\nAsk: Who was your clo
+ sest friend when you were a teenager? Tell me about one afternoon you spen
+ t together.\n\nThen: Where did the two of you go when you wanted to get aw
+ ay from everyone?\n\nTip: If the friend has died\, give it a moment before
+  the next question. Then ask what they were like.\n\nAll thirty questions\
+ , printable: https://question-a-day.example/print/mom-or-dad.html\n\nFrom 
+ PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who was your closest friend when you were a t
+ eenager? Tell me about one afternoon you spent together.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d09-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:What song takes you straight back to a particular day when you were
+  young? Where were you?
+DESCRIPTION:Day 9 of 30\, 30 days with Mom or Dad.\n\nAsk: What song takes 
+ you straight back to a particular day when you were young? Where were you?
+ \n\nThen: Who were you with when you heard it?\n\nTip: If you can\, play t
+ he song for them. Then be quiet and let it work.\n\nAll thirty questions\,
+  printable: https://question-a-day.example/print/mom-or-dad.html\n\nFrom P
+ ureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What song takes you straight back to a partic
+ ular day when you were young? Where were you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d10-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:What was the first place you lived on your own\, or away from the p
+ eople who raised you?
+DESCRIPTION:Day 10 of 30\, 30 days with Mom or Dad.\n\nAsk: What was the fi
+ rst place you lived on your own\, or away from the people who raised you?\
+ n\nThen: What did it cost\, and what did you put in it?\n\nTip: Money deta
+ ils are gold for a story. Ask for prices\, not just places.\n\nAll thirty 
+ questions\, printable: https://question-a-day.example/print/mom-or-dad.htm
+ l\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What was the first place you lived on your ow
+ n\, or away from the people who raised you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d11-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Tell me about a trip you still think about. Where did you go\, and 
+ who was with you?
+DESCRIPTION:Day 11 of 30\, 30 days with Mom or Dad.\n\nAsk: Tell me about a
+  trip you still think about. Where did you go\, and who was with you?\n\nT
+ hen: What went wrong on that trip?\n\nTip: Asking what went wrong usually 
+ gets a better story than asking what was best.\n\nAll thirty questions\, p
+ rintable: https://question-a-day.example/print/mom-or-dad.html\n\nFrom Pur
+ eTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a trip you still think about. W
+ here did you go\, and who was with you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d12-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:What is a skill someone taught you by hand? Who taught you\, and wh
+ ere were you?
+DESCRIPTION:Day 12 of 30\, 30 days with Mom or Dad.\n\nAsk: What is a skill
+  someone taught you by hand? Who taught you\, and where were you?\n\nThen:
+  What did they do differently from how people do it now?\n\nTip: If it is 
+ something they can show you\, ask them to show you. Hands remember.\n\nAll
+  thirty questions\, printable: https://question-a-day.example/print/mom-or
+ -dad.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a skill someone taught you by hand? W
+ ho taught you\, and where were you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d13-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Tell me about a holiday from when you were young that you remember 
+ clearly\, good or not. Where was it?
+DESCRIPTION:Day 13 of 30\, 30 days with Mom or Dad.\n\nAsk: Tell me about a
+  holiday from when you were young that you remember clearly\, good or not.
+  Where was it?\n\nThen: Who was there\, and who sat where?\n\nTip: Some ho
+ lidays were hard. If the answer turns heavy\, follow it gently or move on.
+  Both are fine.\n\nAll thirty questions\, printable: https://question-a-da
+ y.example/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, nothing to 
+ unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a holiday from when you were yo
+ ung that you remember clearly\, good or not. Where was it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d14-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Where were you when you heard a piece of big news\, the kind everyo
+ ne remembers?
+DESCRIPTION:Day 14 of 30\, 30 days with Mom or Dad.\n\nAsk: Where were you 
+ when you heard a piece of big news\, the kind everyone remembers?\n\nThen:
+  Who was the first person you talked to about it?\n\nTip: News days are ea
+ sy to place in time\, which helps you put the rest of the story in order l
+ ater.\n\nAll thirty questions\, printable: https://question-a-day.example/
+ print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, nothing to unsubscrib
+ e from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Where were you when you heard a piece of big 
+ news\, the kind everyone remembers?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d15-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:What is a job or a role you were proud of\, paid or not? Tell me ab
+ out one day of it.
+DESCRIPTION:Day 15 of 30\, 30 days with Mom or Dad.\n\nAsk: What is a job o
+ r a role you were proud of\, paid or not? Tell me about one day of it.\n\n
+ Then: Who did you work alongside\, and what were they like?\n\nTip: Halfwa
+ y. Read back one answer from the first two weeks and ask if you got it rig
+ ht. The corrections are often the best part.\n\nAll thirty questions\, pri
+ ntable: https://question-a-day.example/print/mom-or-dad.html\n\nFrom PureT
+ ome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a job or a role you were proud of\, p
+ aid or not? Tell me about one day of it.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d16-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:What is the hardest physical work you have ever done? Where were yo
+ u?
+DESCRIPTION:Day 16 of 30\, 30 days with Mom or Dad.\n\nAsk: What is the har
+ dest physical work you have ever done? Where were you?\n\nThen: How did yo
+ u feel at the end of that day?\n\nTip: When a line lands\, write down thei
+ r exact words. Your summary will never be as good as how they said it.\n\n
+ All thirty questions\, printable: https://question-a-day.example/print/mom
+ -or-dad.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is the hardest physical work you have ev
+ er done? Where were you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d17-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Tell me about a time you got lost\, stuck or stranded somewhere. Ho
+ w did you get home?
+DESCRIPTION:Day 17 of 30\, 30 days with Mom or Dad.\n\nAsk: Tell me about a
+  time you got lost\, stuck or stranded somewhere. How did you get home?\n\
+ nThen: Who helped\, or who should have?\n\nTip: Small emergencies make goo
+ d stories\, and they are usually safe to tell at the table.\n\nAll thirty 
+ questions\, printable: https://question-a-day.example/print/mom-or-dad.htm
+ l\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a time you got lost\, stuck or 
+ stranded somewhere. How did you get home?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d18-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Who made you laugh the most when you were growing up? Tell me about
+  one time.
+DESCRIPTION:Day 18 of 30\, 30 days with Mom or Dad.\n\nAsk: Who made you la
+ ugh the most when you were growing up? Tell me about one time.\n\nThen: Wh
+ at would they say if they walked in right now?\n\nTip: Ask for an impressi
+ on. People will often do a voice they have not done in years.\n\nAll thirt
+ y questions\, printable: https://question-a-day.example/print/mom-or-dad.h
+ tml\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who made you laugh the most when you were gro
+ wing up? Tell me about one time.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d19-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:What drive\, bus ride or train route do you remember best? Where di
+ d it take you?
+DESCRIPTION:Day 19 of 30\, 30 days with Mom or Dad.\n\nAsk: What drive\, bu
+ s ride or train route do you remember best? Where did it take you?\n\nThen
+ : What did you see out the window?\n\nTip: A trip gives a story a beginnin
+ g\, a middle and an end without anyone trying.\n\nAll thirty questions\, p
+ rintable: https://question-a-day.example/print/mom-or-dad.html\n\nFrom Pur
+ eTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What drive\, bus ride or train route do you r
+ emember best? Where did it take you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d20-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Tell me about a decision that changed where your life went. Where w
+ ere you when you made it?
+DESCRIPTION:Day 20 of 30\, 30 days with Mom or Dad.\n\nAsk: Tell me about a
+  decision that changed where your life went. Where were you when you made 
+ it?\n\nThen: Who did you tell first?\n\nTip: Do not ask whether it was the
+  right call. Ask what it was like to make it.\n\nAll thirty questions\, pr
+ intable: https://question-a-day.example/print/mom-or-dad.html\n\nFrom Pure
+ Tome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a decision that changed where y
+ our life went. Where were you when you made it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d21-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Where did you go to be alone\, or to think\, when you were younger?
+  Describe it.
+DESCRIPTION:Day 21 of 30\, 30 days with Mom or Dad.\n\nAsk: Where did you g
+ o to be alone\, or to think\, when you were younger? Describe it.\n\nThen:
+  What did you think about there?\n\nTip: If they say nowhere\, ask where t
+ hey went when the house got loud.\n\nAll thirty questions\, printable: htt
+ ps://question-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No sig
+ n-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Where did you go to be alone\, or to think\, 
+ when you were younger? Describe it.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d22-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Tell me about someone you lost touch with that you still wonder abo
+ ut.
+DESCRIPTION:Day 22 of 30\, 30 days with Mom or Dad.\n\nAsk: Tell me about s
+ omeone you lost touch with that you still wonder about.\n\nThen: Where did
+  you last see them?\n\nTip: Write down every name you hear today. A list o
+ f names is worth a second conversation.\n\nAll thirty questions\, printabl
+ e: https://question-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. 
+ No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about someone you lost touch with tha
+ t you still wonder about.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d23-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:What did a Saturday look like for you in your twenties or thirties?
+  Pick one you remember.
+DESCRIPTION:Day 23 of 30\, 30 days with Mom or Dad.\n\nAsk: What did a Satu
+ rday look like for you in your twenties or thirties? Pick one you remember
+ .\n\nThen: Where did the money go back then\, and where did the time go?\n
+ \nTip: Decades are easier to walk through than single years. Let them pick
+  the decade.\n\nAll thirty questions\, printable: https://question-a-day.e
+ xample/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, nothing to uns
+ ubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did a Saturday look like for you in your
+  twenties or thirties? Pick one you remember.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d24-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:What is something you made\, built\, grew or fixed that you are pro
+ ud of? Tell me about making it.
+DESCRIPTION:Day 24 of 30\, 30 days with Mom or Dad.\n\nAsk: What is somethi
+ ng you made\, built\, grew or fixed that you are proud of? Tell me about m
+ aking it.\n\nThen: Where is it now?\n\nTip: Pride is an easier door than r
+ egret. Go in through it first.\n\nAll thirty questions\, printable: https:
+ //question-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No sign-u
+ p\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is something you made\, built\, grew or 
+ fixed that you are proud of? Tell me about making it.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d25-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Tell me about a meal you will never forget. Where were you\, and wh
+ o was at the table?
+DESCRIPTION:Day 25 of 30\, 30 days with Mom or Dad.\n\nAsk: Tell me about a
+  meal you will never forget. Where were you\, and who was at the table?\n\
+ nThen: What was said at that table that you still remember?\n\nTip: At a f
+ amily meal\, ask while the plates are mostly empty and nobody has stood up
+  yet.\n\nAll thirty questions\, printable: https://question-a-day.example/
+ print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, nothing to unsubscrib
+ e from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a meal you will never forget. W
+ here were you\, and who was at the table?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d26-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Of the people who raised you\, who do you think about most? Tell me
+  about one ordinary day with them.
+DESCRIPTION:Day 26 of 30\, 30 days with Mom or Dad.\n\nAsk: Of the people w
+ ho raised you\, who do you think about most? Tell me about one ordinary da
+ y with them.\n\nThen: What do you wish you had asked them?\n\nTip: This qu
+ estion often turns the conversation around. Let it.\n\nAll thirty question
+ s\, printable: https://question-a-day.example/print/mom-or-dad.html\n\nFro
+ m PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Of the people who raised you\, who do you thi
+ nk about most? Tell me about one ordinary day with them.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d27-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:What is a piece of advice you ignored? Where were you when you hear
+ d it?
+DESCRIPTION:Day 27 of 30\, 30 days with Mom or Dad.\n\nAsk: What is a piece
+  of advice you ignored? Where were you when you heard it?\n\nThen: What ha
+ ppened instead?\n\nTip: Laughter is allowed. Most of these answers are fun
+ nier than you expect.\n\nAll thirty questions\, printable: https://questio
+ n-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, nothi
+ ng to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a piece of advice you ignored? Where 
+ were you when you heard it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d28-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Tell me about a year that was hard\, and one small thing that got y
+ ou through it.
+DESCRIPTION:Day 28 of 30\, 30 days with Mom or Dad.\n\nAsk: Tell me about a
+  year that was hard\, and one small thing that got you through it.\n\nThen
+ : Who showed up for you that year?\n\nTip: Only if they want to. "I don't 
+ want to get into that" is a full answer. Say "that's fine" and ask about t
+ he small thing instead.\n\nAll thirty questions\, printable: https://quest
+ ion-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, not
+ hing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a year that was hard\, and one 
+ small thing that got you through it.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d29-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:If you could go back to one place from your life tomorrow\, where w
+ ould it be? What would you do first when you got there?
+DESCRIPTION:Day 29 of 30\, 30 days with Mom or Dad.\n\nAsk: If you could go
+  back to one place from your life tomorrow\, where would it be? What would
+  you do first when you got there?\n\nThen: Who would you want with you?\n\
+ nTip: If a small version of this trip is possible\, even a drive past an o
+ ld address\, write that down too.\n\nAll thirty questions\, printable: htt
+ ps://question-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No sig
+ n-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: If you could go back to one place from your l
+ ife tomorrow\, where would it be? What would you do first when you got the
+ re?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-mom-or-dad-20261128-d30-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:What is one moment from your life you would want people to know abo
+ ut a hundred years from now? Tell it the way you want it told.
+DESCRIPTION:Day 30 of 30\, 30 days with Mom or Dad.\n\nAsk: What is one mom
+ ent from your life you would want people to know about a hundred years fro
+ m now? Tell it the way you want it told.\n\nThen: Why that one?\n\nTip: Wr
+ ite this answer down word for word and read it back to them. Then thank th
+ em for the thirty days.\n\nAll thirty questions\, printable: https://quest
+ ion-a-day.example/print/mom-or-dad.html\n\nFrom PureTome. No sign-up\, not
+ hing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/mom-or-dad.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is one moment from your life you would w
+ ant people to know about a hundred years from now? Tell it the way you wan
+ t it told.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,9 @@
+{
+  "_comment": "baseUrl is a PLACEHOLDER. Set it to the absolute address the docs/ folder will be served from (ending in /), then run: node build.js",
+  "baseUrl": "https://question-a-day.example/",
+  "evergreenFirstStart": "2026-11-17",
+  "evergreenLastStart": "2027-06-30",
+  "dtstamp": "20261116T120000Z",
+  "alarmTrigger": "PT9H",
+  "uidPrefix": "puretome-question-a-day"
+}

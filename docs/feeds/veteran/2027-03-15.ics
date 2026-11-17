@@ -1,0 +1,704 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PureTome//A Question a Day//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:A Question a Day: a veteran
+X-WR-CALNAME:A Question a Day: a veteran
+DESCRIPTION:Thirty questions for someone in your family who served\, from t
+ he day they joined to what they want remembered. Starts the day after you 
+ add it.
+X-WR-CALDESC:Thirty questions for someone in your family who served\, from 
+ the day they joined to what they want remembered. Starts the day after you
+  add it.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+SOURCE;VALUE=URI:https://question-a-day.example/feeds/veteran/2027-03-15.ic
+ s
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d01-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:How did you come to join the service? Where were you living\, and w
+ hat were you doing when it was decided?
+DESCRIPTION:Day 1 of 30\, 30 days with a veteran.\n\nAsk: How did you come 
+ to join the service? Where were you living\, and what were you doing when 
+ it was decided?\n\nThen: Who did you tell first\, and how did they take it
+ ?\n\nTip: Let them lead. Skip anything they do not want to go into. This q
+ uestion starts before any of the hard parts\, on purpose.\n\nLet them lead
+ . Skip anything they do not want to go into\, and believe them the first t
+ ime they say so.\n\nAll thirty questions\, printable: https://question-a-d
+ ay.example/print/veteran.html\n\nFrom PureTome. No sign-up\, nothing to un
+ subscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: How did you come to join the service? Where w
+ ere you living\, and what were you doing when it was decided?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d02-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Tell me about the day you left for training. How did you get there?
+DESCRIPTION:Day 2 of 30\, 30 days with a veteran.\n\nAsk: Tell me about the
+  day you left for training. How did you get there?\n\nThen: What did you b
+ ring with you?\n\nTip: Travel stories warm people up. Ask who was sitting 
+ next to them.\n\nAll thirty questions\, printable: https://question-a-day.
+ example/print/veteran.html\n\nFrom PureTome. No sign-up\, nothing to unsub
+ scribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about the day you left for training. 
+ How did you get there?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d03-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:What do you remember about your first few days of training? Pick on
+ e moment.
+DESCRIPTION:Day 3 of 30\, 30 days with a veteran.\n\nAsk: What do you remem
+ ber about your first few days of training? Pick one moment.\n\nThen: Who w
+ as the first person you got to know there?\n\nTip: Training is often where
+  the funny stories live. Let them laugh.\n\nAll thirty questions\, printab
+ le: https://question-a-day.example/print/veteran.html\n\nFrom PureTome. No
+  sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What do you remember about your first few day
+ s of training? Pick one moment.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d04-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Who was in charge of you in training that you still remember? What 
+ did they look and sound like?
+DESCRIPTION:Day 4 of 30\, 30 days with a veteran.\n\nAsk: Who was in charge
+  of you in training that you still remember? What did they look and sound 
+ like?\n\nThen: What is something they said that stayed with you?\n\nTip: A
+ sk for the voice. People often remember exactly how an instructor said som
+ ething.\n\nAll thirty questions\, printable: https://question-a-day.exampl
+ e/print/veteran.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe
+  from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who was in charge of you in training that you
+  still remember? What did they look and sound like?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d05-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Once training was over\, what did a normal day look like? Take me f
+ rom waking up to lights out.
+DESCRIPTION:Day 5 of 30\, 30 days with a veteran.\n\nAsk: Once training was
+  over\, what did a normal day look like? Take me from waking up to lights 
+ out.\n\nThen: What was the food like?\n\nTip: Ordinary days are safer grou
+ nd than big ones\, and they are the part nobody else will remember.\n\nAll
+  thirty questions\, printable: https://question-a-day.example/print/vetera
+ n.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Once training was over\, what did a normal da
+ y look like? Take me from waking up to lights out.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d06-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Who did you share quarters with? Tell me about one of them.
+DESCRIPTION:Day 6 of 30\, 30 days with a veteran.\n\nAsk: Who did you share
+  quarters with? Tell me about one of them.\n\nThen: Where were they from\,
+  and what were they like?\n\nTip: Write every name down. Names are threads
+  you can come back to.\n\nAll thirty questions\, printable: https://questi
+ on-a-day.example/print/veteran.html\n\nFrom PureTome. No sign-up\, nothing
+  to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who did you share quarters with? Tell me abou
+ t one of them.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d07-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:What did you keep with you\, in a pocket or a bag\, that you cared 
+ about?
+DESCRIPTION:Day 7 of 30\, 30 days with a veteran.\n\nAsk: What did you keep
+  with you\, in a pocket or a bag\, that you cared about?\n\nThen: Where is
+  it now?\n\nTip: If they still have it\, ask them to bring it out. Objects
+  make it easier to talk.\n\nAll thirty questions\, printable: https://ques
+ tion-a-day.example/print/veteran.html\n\nFrom PureTome. No sign-up\, nothi
+ ng to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did you keep with you\, in a pocket or a
+  bag\, that you cared about?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d08-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Tell me about a letter\, call or package from home that you remembe
+ r.
+DESCRIPTION:Day 8 of 30\, 30 days with a veteran.\n\nAsk: Tell me about a l
+ etter\, call or package from home that you remember.\n\nThen: Who wrote to
+  you most often?\n\nTip: If letters survive in a drawer\, ask before readi
+ ng any\, and let them choose which ones.\n\nAll thirty questions\, printab
+ le: https://question-a-day.example/print/veteran.html\n\nFrom PureTome. No
+  sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a letter\, call or package from
+  home that you remember.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d09-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:What is a place where you served that you can still picture? Descri
+ be it.
+DESCRIPTION:Day 9 of 30\, 30 days with a veteran.\n\nAsk: What is a place w
+ here you served that you can still picture? Describe it.\n\nThen: What was
+  the weather like\, and what did it smell like?\n\nTip: Let them pick the 
+ place. They may skip some\, and that is their choice.\n\nAll thirty questi
+ ons\, printable: https://question-a-day.example/print/veteran.html\n\nFrom
+  PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a place where you served that you can
+  still picture? Describe it.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d10-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Tell me about one day off that you remember. Where did you go?
+DESCRIPTION:Day 10 of 30\, 30 days with a veteran.\n\nAsk: Tell me about on
+ e day off that you remember. Where did you go?\n\nThen: Who were you with?
+ \n\nTip: Days off are where the friendships show.\n\nAll thirty questions\
+ , printable: https://question-a-day.example/print/veteran.html\n\nFrom Pur
+ eTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about one day off that you remember. 
+ Where did you go?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d11-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:What was your job day to day? Show me with your hands if it helps.
+DESCRIPTION:Day 11 of 30\, 30 days with a veteran.\n\nAsk: What was your jo
+ b day to day? Show me with your hands if it helps.\n\nThen: What part of i
+ t were you good at?\n\nTip: Asking what they were good at puts them in the
+  expert's chair.\n\nAll thirty questions\, printable: https://question-a-d
+ ay.example/print/veteran.html\n\nFrom PureTome. No sign-up\, nothing to un
+ subscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What was your job day to day? Show me with yo
+ ur hands if it helps.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d12-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Who do you still think about from your time in service? Tell me abo
+ ut them.
+DESCRIPTION:Day 12 of 30\, 30 days with a veteran.\n\nAsk: Who do you still
+  think about from your time in service? Tell me about them.\n\nThen: What 
+ would you say to them if they walked in?\n\nTip: This one can bring a long
+  pause. Do not fill it. Count to ten in your head.\n\nAll thirty questions
+ \, printable: https://question-a-day.example/print/veteran.html\n\nFrom Pu
+ reTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who do you still think about from your time i
+ n service? Tell me about them.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d13-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:What is the funniest thing you remember from your time in service?
+DESCRIPTION:Day 13 of 30\, 30 days with a veteran.\n\nAsk: What is the funn
+ iest thing you remember from your time in service?\n\nThen: Who was in on 
+ it?\n\nTip: Funny stories are a way in. More serious ones may come later\,
+  in their own time\, or not at all.\n\nAll thirty questions\, printable: h
+ ttps://question-a-day.example/print/veteran.html\n\nFrom PureTome. No sign
+ -up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is the funniest thing you remember from 
+ your time in service?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d14-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Tell me about a person you met in the service who was nothing like 
+ the people back home.
+DESCRIPTION:Day 14 of 30\, 30 days with a veteran.\n\nAsk: Tell me about a 
+ person you met in the service who was nothing like the people back home.\n
+ \nThen: What did you learn from them?\n\nTip: People from somewhere else o
+ ften explain a whole period of someone's life.\n\nAll thirty questions\, p
+ rintable: https://question-a-day.example/print/veteran.html\n\nFrom PureTo
+ me. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a person you met in the service
+  who was nothing like the people back home.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d15-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Tell me about a holiday you spent in the service. Where were you?
+DESCRIPTION:Day 15 of 30\, 30 days with a veteran.\n\nAsk: Tell me about a 
+ holiday you spent in the service. Where were you?\n\nThen: What did people
+  do to make it feel like a holiday?\n\nTip: Near Thanksgiving\, this is a 
+ gentle question for the table.\n\nAll thirty questions\, printable: https:
+ //question-a-day.example/print/veteran.html\n\nFrom PureTome. No sign-up\,
+  nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a holiday you spent in the serv
+ ice. Where were you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d16-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:What was the hardest part of being away? Answer as much or as littl
+ e as you like.
+DESCRIPTION:Day 16 of 30\, 30 days with a veteran.\n\nAsk: What was the har
+ dest part of being away? Answer as much or as little as you like.\n\nThen:
+  What helped?\n\nTip: A good day to remind them they can skip anything. "T
+ hat's fine" is all you need to say.\n\nAll thirty questions\, printable: h
+ ttps://question-a-day.example/print/veteran.html\n\nFrom PureTome. No sign
+ -up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What was the hardest part of being away? Answ
+ er as much or as little as you like.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d17-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:What do people who were not there tend to get wrong about it? Where
+  did you first notice?
+DESCRIPTION:Day 17 of 30\, 30 days with a veteran.\n\nAsk: What do people w
+ ho were not there tend to get wrong about it? Where did you first notice?\
+ n\nThen: What would you want them to understand instead?\n\nTip: People wh
+ o will not talk about themselves will often happily correct a movie.\n\nAl
+ l thirty questions\, printable: https://question-a-day.example/print/veter
+ an.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What do people who were not there tend to get
+  wrong about it? Where did you first notice?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d18-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Tell me about the day you found out you were going home\, or gettin
+ g out.
+DESCRIPTION:Day 18 of 30\, 30 days with a veteran.\n\nAsk: Tell me about th
+ e day you found out you were going home\, or getting out.\n\nThen: What di
+ d you do first?\n\nTip: Let them tell it in order. Do not jump ahead to ho
+ w they felt.\n\nAll thirty questions\, printable: https://question-a-day.e
+ xample/print/veteran.html\n\nFrom PureTome. No sign-up\, nothing to unsubs
+ cribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about the day you found out you were 
+ going home\, or getting out.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d19-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:What was coming home like? Tell me about the first day or the first
+  week.
+DESCRIPTION:Day 19 of 30\, 30 days with a veteran.\n\nAsk: What was coming 
+ home like? Tell me about the first day or the first week.\n\nThen: Who did
+  you see first?\n\nTip: Many veterans say nobody ever asked about this par
+ t. Take your time with it.\n\nAll thirty questions\, printable: https://qu
+ estion-a-day.example/print/veteran.html\n\nFrom PureTome. No sign-up\, not
+ hing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What was coming home like? Tell me about the 
+ first day or the first week.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d20-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:What did you do for work after you got out\, and how did you find t
+ hat first job?
+DESCRIPTION:Day 20 of 30\, 30 days with a veteran.\n\nAsk: What did you do 
+ for work after you got out\, and how did you find that first job?\n\nThen:
+  What from the service did you bring to it?\n\nTip: This connects the serv
+ ice years to the rest of their life. Ask about the bridge between them.\n\
+ nAll thirty questions\, printable: https://question-a-day.example/print/ve
+ teran.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did you do for work after you got out\, 
+ and how did you find that first job?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d21-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Who from your service did you see again years later? Tell me about 
+ that day.
+DESCRIPTION:Day 21 of 30\, 30 days with a veteran.\n\nAsk: Who from your se
+ rvice did you see again years later? Tell me about that day.\n\nThen: Who 
+ did you lose touch with that you still wonder about?\n\nTip: If a call or 
+ a letter still seems possible\, write the name down.\n\nAll thirty questio
+ ns\, printable: https://question-a-day.example/print/veteran.html\n\nFrom 
+ PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who from your service did you see again years
+  later? Tell me about that day.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d22-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:What did you keep from your service: papers\, photographs\, anythin
+ g at all? Tell me the story behind one thing.
+DESCRIPTION:Day 22 of 30\, 30 days with a veteran.\n\nAsk: What did you kee
+ p from your service: papers\, photographs\, anything at all? Tell me the s
+ tory behind one thing.\n\nThen: Who else has seen it?\n\nTip: Ask before h
+ andling anything. Let them hold it while they talk.\n\nAll thirty question
+ s\, printable: https://question-a-day.example/print/veteran.html\n\nFrom P
+ ureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did you keep from your service: papers\,
+  photographs\, anything at all? Tell me the story behind one thing.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d23-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Tell me about a conversation with your family about your service th
+ at you remember.
+DESCRIPTION:Day 23 of 30\, 30 days with a veteran.\n\nAsk: Tell me about a 
+ conversation with your family about your service that you remember.\n\nThe
+ n: What did you want them to understand?\n\nTip: If you were part of that 
+ conversation\, let them tell it their way first.\n\nAll thirty questions\,
+  printable: https://question-a-day.example/print/veteran.html\n\nFrom Pure
+ Tome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a conversation with your family
+  about your service that you remember.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d24-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:What music brings that time back? Where were you when you heard it?
+DESCRIPTION:Day 24 of 30\, 30 days with a veteran.\n\nAsk: What music bring
+ s that time back? Where were you when you heard it?\n\nThen: Who was with 
+ you?\n\nTip: If you can find the song\, play it\, then wait.\n\nAll thirty
+  questions\, printable: https://question-a-day.example/print/veteran.html\
+ n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What music brings that time back? Where were 
+ you when you heard it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d25-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:What is a habit from the service you still have? When did you notic
+ e you still had it?
+DESCRIPTION:Day 25 of 30\, 30 days with a veteran.\n\nAsk: What is a habit 
+ from the service you still have? When did you notice you still had it?\n\n
+ Then: Who teases you about it?\n\nTip: Habits are a light way to talk abou
+ t how the service stayed with them.\n\nAll thirty questions\, printable: h
+ ttps://question-a-day.example/print/veteran.html\n\nFrom PureTome. No sign
+ -up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a habit from the service you still ha
+ ve? When did you notice you still had it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d26-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Tell me about a Veterans Day or Memorial Day you remember from the 
+ years after. Where were you?
+DESCRIPTION:Day 26 of 30\, 30 days with a veteran.\n\nAsk: Tell me about a 
+ Veterans Day or Memorial Day you remember from the years after. Where were
+  you?\n\nThen: Who were you with?\n\nTip: Some veterans keep away from the
+ se days. If so\, ask how they spend them instead.\n\nAll thirty questions\
+ , printable: https://question-a-day.example/print/veteran.html\n\nFrom Pur
+ eTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a Veterans Day or Memorial Day 
+ you remember from the years after. Where were you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d27-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Tell me about a time someone younger asked you about your service. 
+ What did you tell them?
+DESCRIPTION:Day 27 of 30\, 30 days with a veteran.\n\nAsk: Tell me about a 
+ time someone younger asked you about your service. What did you tell them?
+ \n\nThen: What did you save for another time?\n\nTip: If a grandchild is w
+ illing\, let them ask today's questions.\n\nAll thirty questions\, printab
+ le: https://question-a-day.example/print/veteran.html\n\nFrom PureTome. No
+  sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a time someone younger asked yo
+ u about your service. What did you tell them?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d28-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Think of your first day in the service. What would you tell yoursel
+ f on that day?
+DESCRIPTION:Day 28 of 30\, 30 days with a veteran.\n\nAsk: Think of your fi
+ rst day in the service. What would you tell yourself on that day?\n\nThen:
+  Who gave you good advice back then?\n\nTip: Write down the advice in thei
+ r exact words.\n\nAll thirty questions\, printable: https://question-a-day
+ .example/print/veteran.html\n\nFrom PureTome. No sign-up\, nothing to unsu
+ bscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Think of your first day in the service. What 
+ would you tell yourself on that day?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d29-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:What are you proudest of from that time? Tell me about the day it h
+ appened.
+DESCRIPTION:Day 29 of 30\, 30 days with a veteran.\n\nAsk: What are you pro
+ udest of from that time? Tell me about the day it happened.\n\nThen: Who e
+ lse knows this story?\n\nTip: Write it down in their words\, not yours.\n\
+ nAll thirty questions\, printable: https://question-a-day.example/print/ve
+ teran.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What are you proudest of from that time? Tell
+  me about the day it happened.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-veteran-20270315-d30-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:What do you want the family to remember about your service? Tell me
+  the story you would want told.
+DESCRIPTION:Day 30 of 30\, 30 days with a veteran.\n\nAsk: What do you want
+  the family to remember about your service? Tell me the story you would wa
+ nt told.\n\nThen: What would you rather we kept to ourselves?\n\nTip: Read
+  back what you wrote and ask if you got it right. If they would like their
+  story kept for good\, the Library of Congress Veterans History Project co
+ llects interviews from families.\n\nAll thirty questions\, printable: http
+ s://question-a-day.example/print/veteran.html\n\nFrom PureTome. No sign-up
+ \, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/veteran.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What do you want the family to remember about
+  your service? Tell me the story you would want told.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

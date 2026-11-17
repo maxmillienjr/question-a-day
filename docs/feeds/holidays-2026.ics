@@ -1,0 +1,714 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PureTome//A Question a Day//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:A Question a Day: the holidays
+X-WR-CALNAME:A Question a Day: the holidays
+DESCRIPTION:Thirty questions about holidays\, food\, winters and the people
+  at the table\, one a day from Thanksgiving to December 25.
+X-WR-CALDESC:Thirty questions about holidays\, food\, winters and the peopl
+ e at the table\, one a day from Thanksgiving to December 25.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+SOURCE;VALUE=URI:https://question-a-day.example/feeds/holidays-2026.ics
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d01-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:What is a Thanksgiving\, or any big family meal\, from years ago th
+ at you can still picture? Where was it?
+DESCRIPTION:Day 1 of 30\, 30 days before the holidays.\n\nAsk: What is a Th
+ anksgiving\, or any big family meal\, from years ago that you can still pi
+ cture? Where was it?\n\nThen: Who was at the table\, and who did the cooki
+ ng?\n\nTip: Today everyone who remembers may be in the same room. Ask whil
+ e the plates are mostly empty and nobody has stood up yet.\n\nAll thirty q
+ uestions\, printable: https://question-a-day.example/print/holidays.html\n
+ \nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a Thanksgiving\, or any big family me
+ al\, from years ago that you can still picture? Where was it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d02-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Who hosted the big holiday meals when you were young\, and what was
+  their kitchen like?
+DESCRIPTION:Day 2 of 30\, 30 days before the holidays.\n\nAsk: Who hosted t
+ he big holiday meals when you were young\, and what was their kitchen like
+ ?\n\nThen: What job were you given once you were old enough to help?\n\nTi
+ p: Leftovers day. Ask over a plate of them. It is the easiest setting ther
+ e is.\n\nAll thirty questions\, printable: https://question-a-day.example/
+ print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe 
+ from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who hosted the big holiday meals when you wer
+ e young\, and what was their kitchen like?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d03-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:What dish showed up every year\, made the same way every time? Who 
+ made it?
+DESCRIPTION:Day 3 of 30\, 30 days before the holidays.\n\nAsk: What dish sh
+ owed up every year\, made the same way every time? Who made it?\n\nThen: W
+ here is that recipe now: on a card\, in a book\, or only in someone's head
+ ?\n\nTip: If the recipe lives only in their head\, offer to cook it with t
+ hem this month and write it down as you go.\n\nAll thirty questions\, prin
+ table: https://question-a-day.example/print/holidays.html\n\nFrom PureTome
+ . No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What dish showed up every year\, made the sam
+ e way every time? Who made it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d04-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:What holidays did the household you grew up in celebrate? Walk me t
+ hrough one of those days from the morning on.
+DESCRIPTION:Day 4 of 30\, 30 days before the holidays.\n\nAsk: What holiday
+ s did the household you grew up in celebrate? Walk me through one of those
+  days from the morning on.\n\nThen: What was the one rule everyone had to 
+ follow that day?\n\nTip: Do not assume you know the traditions. Ask\, even
+  if you think you know.\n\nAll thirty questions\, printable: https://quest
+ ion-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\, nothi
+ ng to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What holidays did the household you grew up i
+ n celebrate? Walk me through one of those days from the morning on.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d05-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:What is the first winter you remember clearly? Where were you livin
+ g?
+DESCRIPTION:Day 5 of 30\, 30 days before the holidays.\n\nAsk: What is the 
+ first winter you remember clearly? Where were you living?\n\nThen: How did
+  you keep warm\, and what did you wear outside?\n\nTip: Weather is an easy
+  way into a memory. Cold rooms and snowed-in days come back fast.\n\nAll t
+ hirty questions\, printable: https://question-a-day.example/print/holidays
+ .html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is the first winter you remember clearly
+ ? Where were you living?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d06-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Tell me about a gift you gave someone that you are still pleased ab
+ out.
+DESCRIPTION:Day 6 of 30\, 30 days before the holidays.\n\nAsk: Tell me abou
+ t a gift you gave someone that you are still pleased about.\n\nThen: How d
+ id you pay for it\, or how did you make it?\n\nTip: Asking about a gift th
+ ey gave\, not one they got\, takes them somewhere less expected.\n\nAll th
+ irty questions\, printable: https://question-a-day.example/print/holidays.
+ html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a gift you gave someone that yo
+ u are still pleased about.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d07-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:What is a gift you were given as a child that you remember\, even a
+  small one? Who gave it to you?
+DESCRIPTION:Day 7 of 30\, 30 days before the holidays.\n\nAsk: What is a gi
+ ft you were given as a child that you remember\, even a small one? Who gav
+ e it to you?\n\nThen: Where did you keep it?\n\nTip: Gifts were scarce in 
+ some homes. If that was true for them\, ask what the day felt like instead
+ .\n\nAll thirty questions\, printable: https://question-a-day.example/prin
+ t/holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from
+ .
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a gift you were given as a child that
+  you remember\, even a small one? Who gave it to you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d08-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:What did the house look like at the holidays when you were growing 
+ up? Who did the decorating\, if anyone?
+DESCRIPTION:Day 8 of 30\, 30 days before the holidays.\n\nAsk: What did the
+  house look like at the holidays when you were growing up? Who did the dec
+ orating\, if anyone?\n\nThen: What happened to those things?\n\nTip: If an
+ ything survived\, an ornament\, a candle holder\, a tablecloth\, ask them 
+ to bring it out.\n\nAll thirty questions\, printable: https://question-a-d
+ ay.example/print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to u
+ nsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did the house look like at the holidays 
+ when you were growing up? Who did the decorating\, if anyone?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d09-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Tell me about a holiday that went wrong. What happened?
+DESCRIPTION:Day 9 of 30\, 30 days before the holidays.\n\nAsk: Tell me abou
+ t a holiday that went wrong. What happened?\n\nThen: Who still brings it u
+ p?\n\nTip: Disasters make the best holiday stories\, and most of them are 
+ safe to laugh about now.\n\nAll thirty questions\, printable: https://ques
+ tion-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\, noth
+ ing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a holiday that went wrong. What
+  happened?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d10-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Where did people gather around the holidays when you were young: a 
+ church\, a temple\, a hall\, a neighbor's house? Describe walking in.
+DESCRIPTION:Day 10 of 30\, 30 days before the holidays.\n\nAsk: Where did p
+ eople gather around the holidays when you were young: a church\, a temple\
+ , a hall\, a neighbor's house? Describe walking in.\n\nThen: Who did you a
+ lways see there?\n\nTip: If the answer is nowhere\, ask where people gathe
+ red instead. For a lot of families it was the kitchen.\n\nAll thirty quest
+ ions\, printable: https://question-a-day.example/print/holidays.html\n\nFr
+ om PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Where did people gather around the holidays w
+ hen you were young: a church\, a temple\, a hall\, a neighbor's house? Des
+ cribe walking in.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d11-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:What songs or music do you connect with this time of year? Where di
+ d you hear them?
+DESCRIPTION:Day 11 of 30\, 30 days before the holidays.\n\nAsk: What songs 
+ or music do you connect with this time of year? Where did you hear them?\n
+ \nThen: Who sang along\, and who refused to?\n\nTip: Play one of the songs
+  tonight and see what it brings back.\n\nAll thirty questions\, printable:
+  https://question-a-day.example/print/holidays.html\n\nFrom PureTome. No s
+ ign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What songs or music do you connect with this 
+ time of year? Where did you hear them?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d12-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Tell me about a holiday you spent away from home. Where were you?
+DESCRIPTION:Day 12 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
+ ut a holiday you spent away from home. Where were you?\n\nThen: How did yo
+ u mark the day there?\n\nTip: Holidays away are often the ones people reme
+ mber best\, because they were different.\n\nAll thirty questions\, printab
+ le: https://question-a-day.example/print/holidays.html\n\nFrom PureTome. N
+ o sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a holiday you spent away from h
+ ome. Where were you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d13-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Tell me about the first holiday you hosted or planned yourself. Whe
+ re was it?
+DESCRIPTION:Day 13 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
+ ut the first holiday you hosted or planned yourself. Where was it?\n\nThen
+ : What did you get wrong\, and what did you get right?\n\nTip: Ask how it 
+ compared with the ones they grew up with. That comparison is a story in it
+ self.\n\nAll thirty questions\, printable: https://question-a-day.example/
+ print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe 
+ from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about the first holiday you hosted or
+  planned yourself. Where was it?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d14-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Who was the person at every holiday who told the stories? What was 
+ one they always told?
+DESCRIPTION:Day 14 of 30\, 30 days before the holidays.\n\nAsk: Who was the
+  person at every holiday who told the stories? What was one they always to
+ ld?\n\nThen: How did they start it?\n\nTip: Ask for the story the way that
+  person told it. A second-hand story is still worth keeping.\n\nAll thirty
+  questions\, printable: https://question-a-day.example/print/holidays.html
+ \n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who was the person at every holiday who told 
+ the stories? What was one they always told?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d15-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:What did you do on the long days off school in winter when you were
+  a kid?
+DESCRIPTION:Day 15 of 30\, 30 days before the holidays.\n\nAsk: What did yo
+ u do on the long days off school in winter when you were a kid?\n\nThen: W
+ ho did you spend those days with?\n\nTip: Children's games and chores tell
+  you a lot about a place and a time.\n\nAll thirty questions\, printable: 
+ https://question-a-day.example/print/holidays.html\n\nFrom PureTome. No si
+ gn-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did you do on the long days off school i
+ n winter when you were a kid?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d16-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:What is a tradition from your family that faded out? When do you re
+ member it happening last?
+DESCRIPTION:Day 16 of 30\, 30 days before the holidays.\n\nAsk: What is a t
+ radition from your family that faded out? When do you remember it happenin
+ g last?\n\nThen: Why do you think it ended?\n\nTip: If it is one worth bri
+ nging back\, this month is a good time to try it once together.\n\nAll thi
+ rty questions\, printable: https://question-a-day.example/print/holidays.h
+ tml\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a tradition from your family that fad
+ ed out? When do you remember it happening last?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d17-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:What is a holiday you remember because it was different from all th
+ e rest? What made it different?
+DESCRIPTION:Day 17 of 30\, 30 days before the holidays.\n\nAsk: What is a h
+ oliday you remember because it was different from all the rest? What made 
+ it different?\n\nThen: Who was missing that year\, or who was there for th
+ e first time?\n\nTip: Different years stick and ordinary years blur. Start
+  with the one that stands out.\n\nAll thirty questions\, printable: https:
+ //question-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\
+ , nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a holiday you remember because it was
+  different from all the rest? What made it different?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d18-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:What did you look forward to most in December when you were young\,
+  and where did it happen?
+DESCRIPTION:Day 18 of 30\, 30 days before the holidays.\n\nAsk: What did yo
+ u look forward to most in December when you were young\, and where did it 
+ happen?\n\nThen: Who made it happen?\n\nTip: Ask about the waiting. The an
+ ticipation is often remembered better than the day.\n\nAll thirty question
+ s\, printable: https://question-a-day.example/print/holidays.html\n\nFrom 
+ PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did you look forward to most in December
+  when you were young\, and where did it happen?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d19-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:What smell or taste means winter to you? Where does it take you?
+DESCRIPTION:Day 19 of 30\, 30 days before the holidays.\n\nAsk: What smell 
+ or taste means winter to you? Where does it take you?\n\nThen: Who was in 
+ that kitchen?\n\nTip: If you can make it this week\, make it\, and ask the
+  question again while it is cooking.\n\nAll thirty questions\, printable: 
+ https://question-a-day.example/print/holidays.html\n\nFrom PureTome. No si
+ gn-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What smell or taste means winter to you? Wher
+ e does it take you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d20-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Tell me about the most crowded holiday you remember. Where did ever
+ yone sleep?
+DESCRIPTION:Day 20 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
+ ut the most crowded holiday you remember. Where did everyone sleep?\n\nThe
+ n: Who snored\, who argued and who got up first?\n\nTip: Questions about l
+ ogistics get people laughing. Sleeping arrangements are a classic.\n\nAll 
+ thirty questions\, printable: https://question-a-day.example/print/holiday
+ s.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about the most crowded holiday you re
+ member. Where did everyone sleep?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d21-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:What is a letter or card you got around the holidays that you remem
+ ber? Who was it from?
+DESCRIPTION:Day 21 of 30\, 30 days before the holidays.\n\nAsk: What is a l
+ etter or card you got around the holidays that you remember? Who was it fr
+ om?\n\nThen: What did it say\, as near as you can remember?\n\nTip: If the
+ re is a box of old cards somewhere\, this is the week to open it together.
+ \n\nAll thirty questions\, printable: https://question-a-day.example/print
+ /holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is a letter or card you got around the h
+ olidays that you remember? Who was it from?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d22-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:What did your street or town look like at night this time of year w
+ hen you were growing up?
+DESCRIPTION:Day 22 of 30\, 30 days before the holidays.\n\nAsk: What did yo
+ ur street or town look like at night this time of year when you were growi
+ ng up?\n\nThen: Where did you walk\, and who walked with you?\n\nTip: Ask 
+ what they could see from the window. Small details carry a whole place.\n\
+ nAll thirty questions\, printable: https://question-a-day.example/print/ho
+ lidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did your street or town look like at nig
+ ht this time of year when you were growing up?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d23-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Who is someone you used to spend the holidays with who is not here 
+ anymore? Tell me about one holiday with them.
+DESCRIPTION:Day 23 of 30\, 30 days before the holidays.\n\nAsk: Who is some
+ one you used to spend the holidays with who is not here anymore? Tell me a
+ bout one holiday with them.\n\nThen: What would they be doing right now if
+  they were in the room?\n\nTip: This one can bring tears\, and that is all
+  right. Tears are not a reason to stop unless they say so.\n\nAll thirty q
+ uestions\, printable: https://question-a-day.example/print/holidays.html\n
+ \nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who is someone you used to spend the holidays
+  with who is not here anymore? Tell me about one holiday with them.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d24-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Tell me about a holiday in your twenties. Where were you living\, a
+ nd who were you with?
+DESCRIPTION:Day 24 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
+ ut a holiday in your twenties. Where were you living\, and who were you wi
+ th?\n\nThen: What did you think your life would look like by now?\n\nTip: 
+ Asking what they expected back then is a gentle way into how things turned
+  out.\n\nAll thirty questions\, printable: https://question-a-day.example/
+ print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe 
+ from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a holiday in your twenties. Whe
+ re were you living\, and who were you with?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d25-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:What is the best New Year's Eve you remember? Where were you?
+DESCRIPTION:Day 25 of 30\, 30 days before the holidays.\n\nAsk: What is the
+  best New Year's Eve you remember? Where were you?\n\nThen: What were you 
+ hoping for that year?\n\nTip: Some people never cared for New Year's. If s
+ o\, ask what they did instead.\n\nAll thirty questions\, printable: https:
+ //question-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\
+ , nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What is the best New Year's Eve you remember?
+  Where were you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d26-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Tell me about a time someone outside the family was kind to you aro
+ und the holidays. What happened?
+DESCRIPTION:Day 26 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
+ ut a time someone outside the family was kind to you around the holidays. 
+ What happened?\n\nThen: What would you say to them now?\n\nTip: Kindness s
+ tories are good ones to share with the whole table.\n\nAll thirty question
+ s\, printable: https://question-a-day.example/print/holidays.html\n\nFrom 
+ PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a time someone outside the fami
+ ly was kind to you around the holidays. What happened?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d27-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Who did you write to or call every year at this time? Tell me about
+  them.
+DESCRIPTION:Day 27 of 30\, 30 days before the holidays.\n\nAsk: Who did you
+  write to or call every year at this time? Tell me about them.\n\nThen: Wh
+ ere did they live\, and what did you talk about?\n\nTip: A name from an ol
+ d card list is a thread worth pulling.\n\nAll thirty questions\, printable
+ : https://question-a-day.example/print/holidays.html\n\nFrom PureTome. No 
+ sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Who did you write to or call every year at th
+ is time? Tell me about them.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d28-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:What did children do the night before a big holiday where you grew 
+ up? What did you do?
+DESCRIPTION:Day 28 of 30\, 30 days before the holidays.\n\nAsk: What did ch
+ ildren do the night before a big holiday where you grew up? What did you d
+ o?\n\nThen: How did you try to stay awake\, or how were you made to go to 
+ sleep?\n\nTip: If grandchildren are around\, let one of them ask this one.
+ \n\nAll thirty questions\, printable: https://question-a-day.example/print
+ /holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: What did children do the night before a big h
+ oliday where you grew up? What did you do?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d29-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Tell me about a holiday eve you remember clearly\, whatever your fa
+ mily celebrated. Where were you?
+DESCRIPTION:Day 29 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
+ ut a holiday eve you remember clearly\, whatever your family celebrated. W
+ here were you?\n\nThen: What did you eat\, and who was there?\n\nTip: If y
+ our family celebrates tonight\, ask between courses. If not\, a quiet even
+ ing is the best time of all.\n\nAll thirty questions\, printable: https://
+ question-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\, 
+ nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Tell me about a holiday eve you remember clea
+ rly\, whatever your family celebrated. Where were you?
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:puretome-question-a-day-holidays-20261126-d30-sub
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Which holiday tradition do you most want the family to keep? Tell m
+ e about the first time you remember it.
+DESCRIPTION:Day 30 of 30\, 30 days before the holidays.\n\nAsk: Which holid
+ ay tradition do you most want the family to keep? Tell me about the first 
+ time you remember it.\n\nThen: Who started it?\n\nTip: Write their answer 
+ down word for word and read it back at next year's table.\n\nAll thirty qu
+ estions\, printable: https://question-a-day.example/print/holidays.html\n\
+ nFrom PureTome. No sign-up\, nothing to unsubscribe from.
+URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Today's question: Which holiday tradition do you most want the 
+ family to keep? Tell me about the first time you remember it.
+TRIGGER;RELATED=START:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
