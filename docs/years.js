@@ -507,7 +507,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "news",
-    "question": "Where were you when you heard the Korean War was over, and who did you know who was serving?",
+    "question": "Where were you when you heard the Korean War was over, and who told you?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1953_in_the_United_States",
     "text": "The Korean War ended on July 27, 1953, when an armistice agreement was signed."
