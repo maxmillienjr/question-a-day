@@ -1,0 +1,62 @@
+{
+  "year": 2001,
+  "items": [
+    {
+      "category": "song",
+      "text": "Janet Jackson's \"All for You\" topped the Billboard Hot 100 for seven consecutive weeks, the longest-running single of 2001.",
+      "question": "Where were you living when Janet Jackson's \"All for You\" was on the radio, and who in your life danced to it?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2001",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-2001.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart that ranks the best-performing singles of the United States.",
+        "Janet Jackson's \"All for You\" was the longest-running single of 2001, topping the Hot 100 for seven consecutive weeks."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Apple released the first iPod in the United States on October 23, 2001.",
+      "question": "Who was the first person you knew with an iPod, and what music did they carry on it?",
+      "source_url": "https://en.wikipedia.org/wiki/2001_in_the_United_States",
+      "source_file": "sources/wikipedia/2001-in-the-united-states.txt",
+      "source_quote": "October 23 – Apple releases the first iPod in the United States, revolutionizing the way people listen to music.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The Arizona Diamondbacks defeated the New York Yankees in seven games to win their first World Series.",
+      "question": "Who did you watch the 2001 World Series with, and who were you rooting for?",
+      "source_url": "https://en.wikipedia.org/wiki/2001_in_the_United_States",
+      "source_file": "sources/wikipedia/2001-in-the-united-states.txt",
+      "source_quote": "November 4 – The Arizona Diamondbacks defeat the New York Yankees in seven games to win their first World Series in franchise history.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular unleaded gasoline was $1.461.",
+      "question": "What car was in your family when gas was about $1.46 a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "2001 NA NA 1.461 R 1.610"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The September 11 attacks took place on September 11, 2001.",
+      "question": "Where were you on September 11, 2001, and who told you what had happened?",
+      "source_url": "https://en.wikipedia.org/wiki/2001_in_the_United_States",
+      "source_file": "sources/wikipedia/2001-in-the-united-states.txt",
+      "source_quote": "September 11 – September 11 attacks:",
+      "checked": "2026-11-17",
+      "sombre": true
+    }
+  ]
+}

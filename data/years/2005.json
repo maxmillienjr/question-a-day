@@ -1,0 +1,77 @@
+{
+  "year": 2005,
+  "items": [
+    {
+      "category": "news",
+      "text": "The Office debuted on NBC on March 24, 2005.",
+      "question": "Who got you watching The Office, and where were you living when you started?",
+      "source_url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+      "source_file": "sources/wikipedia/2005-in-the-united-states.txt",
+      "source_quote": "March 24 – The Office debuts on NBC.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 37 cents for the first ounce.",
+      "question": "Where were you living when a stamp for a letter cost 37 cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "June 30, 2002 37 January 8, 2006 39",
+        "the prices listed in this table are for the first ounce"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Mariah Carey's \"We Belong Together\" was the longest-running single of 2005, topping the Billboard Hot 100 for 14 non-consecutive weeks.",
+      "question": "Where were you living when Mariah Carey's \"We Belong Together\" was on the radio, and who in your life sang along?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2005",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-2005.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart that ranks the best-performing singles of the United States.",
+        "Mariah Carey's \"We Belong Together\" is the longest-running single of 2005, topping the Billboard Hot 100 for 14 non-consecutive weeks."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular unleaded gasoline was $2.295.",
+      "question": "What car was in your family when gas was about $2.30 a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "2005 NA NA 2.295 2.295"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "The Internet site YouTube went online on February 14, 2005.",
+      "question": "Do you remember the first YouTube video you watched, and who sent it to you?",
+      "source_url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+      "source_file": "sources/wikipedia/2005-in-the-united-states.txt",
+      "source_quote": "February 14 – The Internet site YouTube goes online.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The Chicago White Sox beat the Houston Astros in four games to win their first World Series since 1917.",
+      "question": "Who did you watch the 2005 World Series with, and were you rooting for the White Sox or the Astros?",
+      "source_url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+      "source_file": "sources/wikipedia/2005-in-the-united-states.txt",
+      "source_quote": "The Chicago White Sox beat the Houston Astros in four games to win their first World Series since 1917.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

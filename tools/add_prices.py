@@ -14,11 +14,13 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 USPS = "sources/government/usps-domestic-letter-rates.txt"
 EIA = "sources/government/eia-retail-gasoline-prices.txt"
 CHECKED = "2026-11-17"
-# The table's header, whole: the first column pair is Leaded Regular (Nominal, Real), the
-# second Unleaded Regular (Nominal, Real), so a row's first number is leaded regular, nominal.
+# The table's header, whole: four grades with a (Nominal, Real) pair each, then three area
+# types and diesel with one Nominal each. So a row's first number is leaded regular, nominal,
+# and its third (after the leaded pair) is unleaded regular, nominal.
 HEADER = ("Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel "
           "Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 "
-          "Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6")
+          "Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 "
+          "Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5")
 WORDS = {2: "two", 3: "three", 4: "four", 5: "five", 6: "six", 8: "eight", 10: "ten",
          13: "thirteen", 15: "fifteen", 18: "eighteen", 20: "twenty", 22: "twenty-two"}
 
@@ -68,7 +70,7 @@ def gas_item(year):
     if num.fullmatch(row[0]):
         grade, header, value, quote_row = "regular leaded", "Leaded Regular", row[0], f"{year} {row[0]} {row[1]}"
     elif row[0] == "NA" and row[1] == "NA" and num.fullmatch(row[2]):
-        grade, header, value, quote_row = "regular unleaded", "Unleaded Regular", row[2], f"{year} NA NA {row[2]}"
+        grade, header, value, quote_row = "regular unleaded", "Unleaded Regular", row[2], f"{year} NA NA {row[2]} {row[3]}"
     else:
         return None
     dollars = float(value)

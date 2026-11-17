@@ -254,6 +254,62 @@ window.WORLD_AT_TWENTY = {
    "credit": "Wikipedia contributors, \"1991 in the United States\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
+  "https://en.wikipedia.org/wiki/1992_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1992 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1993_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1993 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1994_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1994 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1995_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1995 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1996_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1996 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1997_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1997 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1998_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1998 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1999_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1999 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/2000_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"2000 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/2001_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"2001 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/2002_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"2002 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/2003_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"2003 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/2004_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"2004 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/2005_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"2005 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1959": {
    "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1959\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
@@ -384,6 +440,62 @@ window.WORLD_AT_TWENTY = {
   },
   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1991": {
    "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1991\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1992": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1992\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1993": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1993\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1994": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1994\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1995": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1995\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1996": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1996\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1997": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1997\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1998": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1998\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1999": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1999\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2000": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 2000\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2001": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 2001\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2002": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 2002\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2003": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 2003\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2004": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 2004\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2005": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 2005\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
   "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1940": {
@@ -2771,6 +2883,580 @@ window.WORLD_AT_TWENTY = {
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1991_in_the_United_States",
     "text": "The Chicago Bulls won their first NBA championship by defeating the Los Angeles Lakers on June 12, 1991."
+   }
+  ],
+  "1992": [
+   {
+    "category": "news",
+    "question": "Who was the little one in your life who watched Barney & Friends, and where were you living then?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1992_in_the_United_States",
+    "text": "Barney & Friends debuted on PBS on April 6, 1992."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 29 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 29 cents for the first ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you when you first heard Whitney Houston sing \"I Will Always Love You\", and who were you with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1992",
+    "text": "Whitney Houston's \"I Will Always Love You\" was the longest-running number-one single of 1992 on the Billboard Hot 100, staying at the top of the chart for 14 weeks."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.13 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.127."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first compact disc you bought, and what did you play it on?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1992_in_the_United_States",
+    "text": "In 1992, compact discs outsold audiocassettes in the United States for the first time, in terms of units sold."
+   },
+   {
+    "category": "news",
+    "question": "Did you ever visit the Mall of America, and who did you go with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1992_in_the_United_States",
+    "text": "The Mall of America, the largest shopping mall in the U.S., opened in Bloomington, Minnesota, on August 11, 1992."
+   }
+  ],
+  "1993": [
+   {
+    "category": "news",
+    "question": "Where did you see Jurassic Park, and who sat beside you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1993_in_the_United_States",
+    "text": "Jurassic Park, directed by Steven Spielberg, was released in theaters on June 11, 1993."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 29 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 29 cents for the first ounce."
+   },
+   {
+    "category": "song",
+    "question": "Who in your life sang along to \"A Whole New World\", and where were you living then?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1993",
+    "text": "\"A Whole New World\" by Peabo Bryson and Regina Belle was a number-one single on the Billboard Hot 100 in 1993."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.11 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.108."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first computer in your home or at your work, and who used it most?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1993_in_the_United_States",
+    "text": "On March 22, 1993, the Intel Corporation shipped the first Pentium chips."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the Chicago Bulls with in those championship years, and where were you watching?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1993_in_the_United_States",
+    "text": "On June 20, 1993, John Paxson's 3-point shot in Game 6 of the NBA Finals helped the Chicago Bulls beat the Phoenix Suns for their third consecutive championship."
+   }
+  ],
+  "1994": [
+   {
+    "category": "news",
+    "question": "Who did you watch Friends with, and who was your favorite character?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1994_in_the_United_States",
+    "text": "The pilot episode of Friends aired on NBC on September 22, 1994."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 29 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 29 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Did you watch any of the 1994 World Cup games played in the United States, and who did you watch with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1994_in_the_United_States",
+    "text": "The 1994 FIFA World Cup began in the United States, with the opening match between Germany and Bolivia at Soldier Field in Chicago."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.11 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.112."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"I Swear\" by All-4-One was on the radio, and who did it make you think of?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1994",
+    "text": "\"I Swear\" by All-4-One was a number-one single on the Billboard Hot 100 in 1994."
+   }
+  ],
+  "1995": [
+   {
+    "category": "news",
+    "question": "Who did you take to see Toy Story, or who took you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1995_in_the_United_States",
+    "text": "Toy Story, the first full-length computer-animated feature film, was released by Pixar and Walt Disney Pictures on November 22, 1995."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Mariah Carey's \"Fantasy\" was on the radio, and who turned it up?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1995",
+    "text": "Mariah Carey's \"Fantasy\" was the longest-running number-one single of 1995 on the Billboard Hot 100, with eight weeks at the top of the chart."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first computer you used with Windows 95, and where was it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1995_in_the_United_States",
+    "text": "Microsoft released Windows 95 on August 24, 1995."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.15 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.147."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 1995 World Series with, and were you rooting for the Braves or the Indians?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1995_in_the_United_States",
+    "text": "On October 28, 1995, the Atlanta Braves defeated the Cleveland Indians, 4 games to 2, to win the World Series."
+   }
+  ],
+  "1996": [
+   {
+    "category": "song",
+    "question": "Where were you the first time you saw people dance the Macarena, and did you join in?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1996",
+    "text": "Los del Río's \"Macarena\" (Bayside Boys Mix) was the longest-running number-one single of 1996 on the Billboard Hot 100, staying at the top for 14 weeks."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 32 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 32 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 1996 Atlanta Olympics with, and which event do you remember?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1996_in_the_United_States",
+    "text": "The 1996 Summer Olympics began in Atlanta on July 19, 1996."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.23 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.231."
+   },
+   {
+    "category": "technology",
+    "question": "Who in your house played the Nintendo 64, and which game did they play most?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1996_in_the_United_States",
+    "text": "Nintendo released the Nintendo 64 in North America on September 29, 1996."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 1996 World Series with, and were you rooting for the Yankees or the Braves?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1996_in_the_United_States",
+    "text": "On October 26, 1996, the New York Yankees defeated the Atlanta Braves to win their first World Series in 18 years."
+   }
+  ],
+  "1997": [
+   {
+    "category": "song",
+    "question": "Where were you living when Elton John's \"Candle in the Wind 1997\" was on the radio, and who in your family bought the record?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1997",
+    "text": "Elton John's \"Candle in the Wind 1997\" and \"Something About the Way You Look Tonight\" spent 12 weeks at number one on the Billboard Hot 100 in 1997, the longest-running number-one single of the year."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 32 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 32 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Who did you go to see Titanic with, and how many times did you end up seeing it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1997_in_the_United_States",
+    "text": "James Cameron's Titanic premiered in the United States on December 19, 1997."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.23 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.234."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you that Fourth of July when NASA's Pathfinder landed on Mars, and who was with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1997_in_the_United_States",
+    "text": "NASA's Pathfinder space probe landed on the surface of Mars on July 4, 1997."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 1997 World Series with, and were you pulling for the Marlins or the Indians?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1997_in_the_United_States",
+    "text": "The Florida Marlins defeated the Cleveland Indians in the 1997 World Series."
+   }
+  ],
+  "1998": [
+   {
+    "category": "song",
+    "question": "Where were you living when Céline Dion's \"My Heart Will Go On\" was on the radio, and who in your house sang along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1998",
+    "text": "Céline Dion's \"My Heart Will Go On\" was one of the 16 singles that reached number one on the Billboard Hot 100 in 1998."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 32 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 32 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Where did you watch the last episode of Seinfeld, and who was on the couch with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1998_in_the_United_States",
+    "text": "Seinfeld aired its series finale on May 14, 1998."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.06 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.059."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when Mark McGwire hit his 62nd home run, and who were you watching or listening with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1998_in_the_United_States",
+    "text": "On September 8, 1998, Mark McGwire of the St. Louis Cardinals broke baseball's single-season home run record, held since 1961 by Roger Maris."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first time you searched for something on Google, and who showed you how?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1998_in_the_United_States",
+    "text": "Google, Inc. was founded in Menlo Park, California, on September 4, 1998, by Larry Page and Sergey Brin."
+   }
+  ],
+  "1999": [
+   {
+    "category": "song",
+    "question": "Where were you living when Cher's \"Believe\" was on the radio, and who in your life could not stop singing it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1999",
+    "text": "Cher's \"Believe\" reached number one on the Billboard Hot 100 in 1999, her first number-one single since 1974."
+   },
+   {
+    "category": "news",
+    "question": "Who was the first person in your family to watch SpongeBob SquarePants, and did you end up watching it too?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+    "text": "SpongeBob SquarePants debuted on Nickelodeon on May 1, 1999."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when Brandi Chastain scored the winning kick against China, and who was watching with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+    "text": "On July 10, 1999, Brandi Chastain scored the game winning penalty kick against China in the FIFA Women's World Cup."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.17 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.165."
+   },
+   {
+    "category": "technology",
+    "question": "Who was the first person you chatted with on MSN Messenger, and what was your screen name?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+    "text": "Microsoft released the first version of MSN Messenger on July 22, 1999."
+   }
+  ],
+  "2000": [
+   {
+    "category": "song",
+    "question": "Where were you living when Santana's \"Maria Maria\" was on the radio, and who in your life turned it up?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2000",
+    "text": "Santana and The Product G&B's \"Maria Maria\" topped the Billboard Hot 100 for 10 consecutive weeks, the longest-running single of 2000."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 33 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 33 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 2000 Subway Series with, and were you for the Yankees or the Mets?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2000_in_the_United_States",
+    "text": "The New York Yankees defeated the New York Mets to win the 2000 World Series, the first Subway Series between the two crosstown rivals."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.51 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.51."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first time you used GPS to find your way somewhere, and who was in the car with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2000_in_the_United_States",
+    "text": "On May 1, 2000, President Bill Clinton announced that accurate GPS access would no longer be restricted to the U.S. military."
+   }
+  ],
+  "2001": [
+   {
+    "category": "song",
+    "question": "Where were you living when Janet Jackson's \"All for You\" was on the radio, and who in your life danced to it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2001",
+    "text": "Janet Jackson's \"All for You\" topped the Billboard Hot 100 for seven consecutive weeks, the longest-running single of 2001."
+   },
+   {
+    "category": "technology",
+    "question": "Who was the first person you knew with an iPod, and what music did they carry on it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2001_in_the_United_States",
+    "text": "Apple released the first iPod in the United States on October 23, 2001."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 2001 World Series with, and who were you rooting for?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2001_in_the_United_States",
+    "text": "The Arizona Diamondbacks defeated the New York Yankees in seven games to win their first World Series."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.46 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.461."
+   },
+   {
+    "category": "news",
+    "question": "Where were you on September 11, 2001, and who told you what had happened?",
+    "sombre": true,
+    "source_url": "https://en.wikipedia.org/wiki/2001_in_the_United_States",
+    "text": "The September 11 attacks took place on September 11, 2001."
+   }
+  ],
+  "2002": [
+   {
+    "category": "news",
+    "question": "Who in your house watched the very first season of American Idol with you, and who did you want to win?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2002_in_the_United_States",
+    "text": "The first episode of American Idol aired on June 11, 2002."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Kelly Clarkson's \"A Moment Like This\" was on the radio, and who in your life knew all the words?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2002",
+    "text": "Kelly Clarkson's debut single \"A Moment Like This\" leapt from number 52 to number one on the Billboard Hot 100 in 2002."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the Salt Lake City Winter Olympics with, and which event do you remember best?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2002_in_the_United_States",
+    "text": "The Winter Olympics were held in Salt Lake City, Utah, from February 8 to 24, 2002."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.36 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.358."
+   },
+   {
+    "category": "news",
+    "question": "Who did you go to see Spider-Man with in 2002, and which theater did you go to?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2002_in_the_United_States",
+    "text": "Spider-Man was released in theaters on May 3, 2002, as the first film in the Spider-Man trilogy."
+   }
+  ],
+  "2003": [
+   {
+    "category": "news",
+    "question": "Who did you see Finding Nemo with, and do you remember where you watched it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2003_in_the_United_States",
+    "text": "Finding Nemo, Pixar Animation Studios' fifth feature film, was released in theaters on May 30, 2003."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 37 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 37 cents for the first ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Clay Aiken's \"This Is the Night\" was on the radio, and who in your house was watching American Idol that year?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2003",
+    "text": "American Idol contestant Clay Aiken's debut single \"This Is the Night\" debuted at number one on the Billboard Hot 100 in 2003."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.59 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.591."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when the power went out across the Northeast in August 2003, and who were you with when it came back on?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2003_in_the_United_States",
+    "text": "On August 14, 2003, a widespread power outage affected the northeastern United States and South-Central Canada."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember who first told you about Myspace, and who was in your top friends?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2003_in_the_United_States",
+    "text": "The social network Myspace launched on August 1, 2003."
+   }
+  ],
+  "2004": [
+   {
+    "category": "news",
+    "question": "Where were you when you watched the last episode of Friends, and who was on the couch with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2004_in_the_United_States",
+    "text": "The final episode of Friends aired on NBC on May 6, 2004."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 37 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 37 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when the Red Sox won the 2004 World Series, and who did you call or celebrate with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2004_in_the_United_States",
+    "text": "On October 27, 2004, the Boston Red Sox defeated the St. Louis Cardinals in four games to win the World Series for the first time since 1918."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.88 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.88."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Usher's \"Yeah!\" was playing everywhere, and who in your life was always turning it up?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2004",
+    "text": "Usher's \"Yeah!\" was the longest-running number-one single of 2004 on the Billboard Hot 100, staying on top for 12 straight weeks."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember when you first joined Facebook, and who was your first friend on it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2004_in_the_United_States",
+    "text": "On February 4, 2004, Mark Zuckerberg launched \"TheFacebook\", later renamed Facebook, as a social networking website for Harvard University students."
+   }
+  ],
+  "2005": [
+   {
+    "category": "news",
+    "question": "Who got you watching The Office, and where were you living when you started?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+    "text": "The Office debuted on NBC on March 24, 2005."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 37 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 37 cents for the first ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Mariah Carey's \"We Belong Together\" was on the radio, and who in your life sang along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2005",
+    "text": "Mariah Carey's \"We Belong Together\" was the longest-running single of 2005, topping the Billboard Hot 100 for 14 non-consecutive weeks."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $2.30 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $2.295."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first YouTube video you watched, and who sent it to you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+    "text": "The Internet site YouTube went online on February 14, 2005."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 2005 World Series with, and were you rooting for the White Sox or the Astros?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/2005_in_the_United_States",
+    "text": "The Chicago White Sox beat the Houston Astros in four games to win their first World Series since 1917."
    }
   ]
  }
