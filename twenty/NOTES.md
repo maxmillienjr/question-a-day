@@ -81,9 +81,9 @@ What changed:
   one a year at most, never first, no detail, and the question asks only where the person was or
   who told them.
 
-Printed sheets: `docs/print/<birth year>.pdf`, one per birth year, each one US Letter page. Opened
-from the file system they say the sources are under Sources on the page; once the page has a
-public address, set it in `<meta name="site-url">` and re-run `tools/make-pdfs.sh`.
+Printed sheets: `../docs/twenty/print/<birth year>.pdf`, one per birth year, each one US Letter
+page. Their footer gives the published address, https://questions.puretome.com/twenty/, taken from
+`<meta name="site-url">`; after changing it, re-run `tools/make-pdfs.sh`.
 
 ## Not yet verified
 
