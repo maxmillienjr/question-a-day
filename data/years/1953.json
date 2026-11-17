@@ -1,0 +1,76 @@
+{
+  "year": 1953,
+  "items": [
+    {
+      "category": "news",
+      "text": "On January 19, 1953, 68% of all television sets in the United States were tuned to I Love Lucy.",
+      "question": "Where were you living when I Love Lucy was on, and whose television did you watch it on?",
+      "source_url": "https://en.wikipedia.org/wiki/1953_in_the_United_States",
+      "source_file": "sources/wikipedia/1953-in-the-united-states.txt",
+      "source_quote": "January 19 – 68% of all television sets in the United States are tuned into I Love Lucy to watch Lucille Ball give birth.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Patti Page's \"The Doggie in the Window\" was a number-one song in the United States in 1953, according to Billboard magazine.",
+      "question": "Who in your house sang along to Patti Page's \"The Doggie in the Window\"?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1953",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1953.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1953 according to Billboard magazine.",
+        "\"The Doggie in the Window\" Patti Page with Orchestra Conducted by Jack Rael"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 28.7 cents.",
+      "question": "What car was in your family when gas was about 29 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Leaded Regular",
+        "1953 .287 R 1.774"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Assembly of the first Chevrolet Corvette was completed in Flint, Michigan, on June 30, 1953.",
+      "question": "Do you remember the first time you saw a Chevrolet Corvette, and who was driving it?",
+      "source_url": "https://en.wikipedia.org/wiki/1953_in_the_United_States",
+      "source_file": "sources/wikipedia/1953-in-the-united-states.txt",
+      "source_quote": "June 30 – Assembly of the first Chevrolet Corvette is completed in Flint, Michigan.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The Korean War ended on July 27, 1953, when an armistice agreement was signed.",
+      "question": "Where were you when you heard the Korean War was over, and who did you know who was serving?",
+      "source_url": "https://en.wikipedia.org/wiki/1953_in_the_United_States",
+      "source_file": "sources/wikipedia/1953-in-the-united-states.txt",
+      "source_quote": "July 27 – The Korean War ends: The United States, the People's Republic of China, North Korea and South Korea sign an armistice agreement.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

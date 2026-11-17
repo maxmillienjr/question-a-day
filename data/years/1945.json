@@ -1,0 +1,62 @@
+{
+  "year": 1945,
+  "items": [
+    {
+      "category": "technology",
+      "text": "On October 29, the first ballpoint pens went on sale at Gimbel's Department Store in New York City, at $12.50 each.",
+      "question": "Do you remember the first ballpoint pen you used, and who in your family had one first?",
+      "source_url": "https://en.wikipedia.org/wiki/1945_in_the_United_States",
+      "source_file": "sources/wikipedia/1945-in-the-united-states.txt",
+      "source_quote": "October 29 – At Gimbel's Department Store in New York City, the first ballpoint pens go on sale at $12.50 each.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Sentimental Journey, by Les Brown and His Orchestra with Doris Day, was a number-one single on The Billboard's national singles charts in 1945.",
+      "question": "Where were you living when Doris Day was singing Sentimental Journey on the radio, and who had the radio or record player?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1945",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1945.txt",
+      "source_quote": [
+        "Prior to the introduction of the Hot 100, The Billboard compiled multiple weekly record charts ranking the performance of singles in the United States. In 1945, the magazine published the following four all-genre national singles charts:",
+        "\"Sentimental Journey\" Les Brown and His Orchestra with Doris Day"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On August 14, Emperor Hirohito announced Japan's surrender on the radio, and the United States called the day V-J Day, Victory over Japan.",
+      "question": "Where were you on V-J Day when the news of Japan's surrender came, and who were you with?",
+      "source_url": "https://en.wikipedia.org/wiki/1945_in_the_United_States",
+      "source_file": "sources/wikipedia/1945-in-the-united-states.txt",
+      "source_quote": "August 14 (August 15 in Japan) – Emperor Hirohito announces Japan's surrender on the radio. The United States calls this day V-J Day (Victory over Japan).",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On April 12, President Franklin D. Roosevelt died, and Vice President Harry S. Truman became president.",
+      "question": "Where were you when you heard that President Roosevelt had died, and who told you?",
+      "source_url": "https://en.wikipedia.org/wiki/1945_in_the_United_States",
+      "source_file": "sources/wikipedia/1945-in-the-united-states.txt",
+      "source_quote": "April 12 – President Franklin D. Roosevelt dies suddenly at Warm Springs, Georgia; Vice President Harry S. Truman becomes the 33rd president.",
+      "checked": "2026-11-17",
+      "sombre": true
+    }
+  ]
+}

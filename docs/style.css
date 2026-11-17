@@ -1,0 +1,83 @@
+/* The World at Twenty. System fonts only; light and dark on screen, black on white in print. */
+:root {
+  --bg: #FAF9F5; --bg-soft: #FFFFFF; --fg: #141414; --body: #26262A; --accent: #3D5A00;
+  --btn-bg: #3D5A00; --btn-fg: #FFFFFF; --muted: #5C5C64; --border: #D9D7CF; --rule: #B5B3AA;
+  --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --serif: ui-serif, Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0A0A0B; --bg-soft: #131316; --fg: #F5F4F0; --body: #E9E8E2; --accent: #D4FF4F;
+    --btn-bg: #D4FF4F; --btn-fg: #0A0A0B; --muted: #A3A3AB; --border: #2A2A31; --rule: #3A3A42;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--body); font-family: var(--serif); font-size: 1.125rem; line-height: 1.6; }
+main, .top, footer { max-width: 44rem; margin: 0 auto; padding: 0 16px; }
+.top { padding-top: 20px; }
+.brand { font-family: var(--sans); font-weight: 600; letter-spacing: 0.02em; color: var(--fg); margin: 0; }
+h1, h2, h3 { font-family: var(--sans); color: var(--fg); letter-spacing: -0.01em; line-height: 1.2; font-weight: 600; }
+h1 { font-size: clamp(2rem, 7vw, 3rem); margin: 1.2rem 0 1rem; }
+h2 { font-size: 1.45rem; margin: 0 0 0.4rem; }
+h3 { font-size: 1.1rem; margin: 1.6rem 0 0.4rem; padding-bottom: 0.2rem; border-bottom: 2px solid var(--fg); }
+p { margin: 0 0 0.9rem; }
+a { color: var(--accent); text-underline-offset: 3px; }
+a:focus-visible, .btn:focus-visible, select:focus-visible, summary:focus-visible, h2:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.lede { font-size: 1.25rem; color: var(--fg); }
+section { margin: 0 0 2.2rem; }
+.pick label { display: block; font-family: var(--sans); font-size: 1rem; color: var(--fg); margin-bottom: 0.35rem; }
+.pick .row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+select {
+  font: inherit; font-family: var(--sans); font-size: 1.1rem; padding: 0.6rem 0.8rem; min-width: 8rem;
+  border-radius: 8px; border: 1px solid var(--border); background: var(--bg-soft); color: var(--fg);
+}
+.btn {
+  display: inline-block; font-family: var(--sans); font-size: 1rem; font-weight: 600; line-height: 1.2;
+  padding: 0.75rem 1.1rem; border-radius: 999px; border: 1px solid var(--btn-bg);
+  background: var(--btn-bg); color: var(--btn-fg); cursor: pointer;
+}
+.btn-quiet { background: transparent; color: var(--accent); border-color: var(--accent); }
+.small { font-size: 0.95rem; color: var(--muted); margin-top: 0.6rem; }
+.note { font-style: italic; }
+.sheet { background: var(--bg-soft); border: 1px solid var(--border); border-radius: 14px; padding: 1.2rem 1.1rem 0.6rem; }
+.sheet-head h2:focus { outline: none; }
+.us { font-family: var(--sans); font-size: 0.95rem; color: var(--muted); }
+.items { list-style: none; padding: 0; margin: 0; }
+.item { padding: 0.6rem 0 0.2rem; border-bottom: 1px solid var(--border); }
+.item:last-child { border-bottom: 0; }
+.fact { margin: 0 0 0.2rem; }
+.q { font-family: var(--sans); font-weight: 600; color: var(--fg); margin: 0 0 0.2rem; }
+.lines { display: none; }
+.coming { color: var(--muted); font-style: italic; }
+.print-credit { display: none; }
+.how p { margin: 0 0 0.3rem; }
+.sources summary { font-family: var(--sans); font-weight: 600; color: var(--fg); cursor: pointer; padding: 0.4rem 0; }
+.sources ol { padding-left: 1.3rem; font-size: 0.95rem; }
+.sources li { margin: 0 0 0.5rem; overflow-wrap: anywhere; }
+.lic { color: var(--muted); }
+footer { color: var(--muted); font-family: var(--sans); font-size: 0.85rem; padding-bottom: 2.5rem; border-top: 1px solid var(--border); padding-top: 1rem; }
+
+@page { size: letter; margin: 0.4in 0.5in; }
+@media print {
+  :root { --fg: #000; --body: #000; --muted: #333; --border: #999; --accent: #000; }
+  body { background: #fff; color: #000; font-size: 9.5pt; line-height: 1.22; }
+  main { max-width: none; padding: 0; }
+  .top, .intro, .how, .sources, footer, #print { display: none !important; }
+  section { margin: 0; }
+  .sheet { border: 0; padding: 0; background: #fff; }
+  h2 { font-size: 14pt; margin: 0 0 1pt; }
+  .us { font-size: 9pt; margin: 0 0 2pt; }
+  h3 { font-size: 10.5pt; margin: 6pt 0 0; padding-bottom: 1pt; border-bottom: 1pt solid #000; }
+  .item { padding: 3pt 0 0; border: 0; break-inside: avoid; page-break-inside: avoid; }
+  .fact { margin: 0; font-size: 9pt; }
+  .q { margin: 1pt 0 0; font-size: 10pt; color: #000; }
+  .lines {
+    display: block; height: 26pt;
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    background-image: linear-gradient(to bottom, transparent calc(100% - 0.6pt), #777 calc(100% - 0.6pt));
+    background-size: 100% 13pt;
+  }
+  .coming { font-size: 9.5pt; margin: 3pt 0 0; }
+  .print-credit { display: block; font-size: 7.5pt; color: #333; margin: 8pt 0 0; overflow-wrap: anywhere; }
+}

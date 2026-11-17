@@ -1,0 +1,76 @@
+{
+  "year": 1954,
+  "items": [
+    {
+      "category": "song",
+      "text": "The Chordettes' \"Mr. Sandman\" was a number-one song in the United States in 1954, according to Billboard magazine.",
+      "question": "Where were you living when the Chordettes' \"Mr. Sandman\" was on the radio, and who had the record?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1954",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1954.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1954 according to Billboard magazine.",
+        "\"Mr. Sandman\" The Chordettes with Orchestra Conducted by Archie Bleyer"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The words \"under God\" were added to the Pledge of Allegiance on June 14, 1954.",
+      "question": "Do you remember saying the Pledge of Allegiance with the new words \"under God\", and which school or room you were in?",
+      "source_url": "https://en.wikipedia.org/wiki/1954_in_the_United_States",
+      "source_file": "sources/wikipedia/1954-in-the-united-states.txt",
+      "source_quote": "June 14 – The words \"under God\" are added to the United States Pledge of Allegiance.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 29.0 cents.",
+      "question": "What car was in your family when gas was about 29 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Leaded Regular",
+        "1954 .290 R 1.777"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "In Game 1 of the 1954 World Series at the Polo Grounds, New York Giants center fielder Willie Mays made the play known as The Catch, on a ball hit by Vic Wertz of the Cleveland Indians.",
+      "question": "Who did you follow the 1954 World Series with, and do you remember hearing about Willie Mays and The Catch?",
+      "source_url": "https://en.wikipedia.org/wiki/1954_in_the_United_States",
+      "source_file": "sources/wikipedia/1954-in-the-united-states.txt",
+      "source_quote": "September 29 – The Catch (baseball): A notable defensive play is made by New York Giants center fielder Willie Mays on a ball hit by Cleveland Indians batter Vic Wertz during Game 1 of the 1954 World Series at the Polo Grounds in Upper Manhattan.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Texas Instruments announced the development of the first transistor radio on October 18, 1954.",
+      "question": "Who was the first person you knew to own a transistor radio, and what did they listen to on it?",
+      "source_url": "https://en.wikipedia.org/wiki/1954_in_the_United_States",
+      "source_file": "sources/wikipedia/1954-in-the-united-states.txt",
+      "source_quote": "October 18 – Texas Instruments announces the development of the first transistor radio.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

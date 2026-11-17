@@ -1,0 +1,62 @@
+{
+  "year": 1947,
+  "items": [
+    {
+      "category": "technology",
+      "text": "In October, World Series games were broadcast on television for the first time, and the New York Yankees beat the Brooklyn Dodgers, 4 games to 3.",
+      "question": "Where did you see or hear the Yankees and Dodgers World Series that fall, and whose television or radio was it?",
+      "source_url": "https://en.wikipedia.org/wiki/1947_in_the_United_States",
+      "source_file": "sources/wikipedia/1947-in-the-united-states.txt",
+      "source_quote": "October 6 – World Series games are broadcast on television for the first time. The New York Yankees defeat the Brooklyn Dodgers, 4 games to 3, to win their 11th World Series Title.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Peg o' My Heart, by The Harmonicats, was a number-one single on The Billboard's national singles charts in 1947.",
+      "question": "Who in your house played Peg o' My Heart by The Harmonicats, and did anyone you knew play the harmonica?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1947",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1947.txt",
+      "source_quote": [
+        "Prior to the introduction of the Hot 100, The Billboard compiled multiple weekly record charts ranking the performance of singles in the United States. In 1947, the magazine published the following four all-genre national singles charts:",
+        "\"Peg o' My Heart\" The Harmonicats"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On April 15, Jackie Robinson became the first African American to play Major League Baseball since the 1880s.",
+      "question": "Who in your family talked about Jackie Robinson playing for the Brooklyn Dodgers, and where were you living then?",
+      "source_url": "https://en.wikipedia.org/wiki/1947_in_the_United_States",
+      "source_file": "sources/wikipedia/1947-in-the-united-states.txt",
+      "source_quote": "April 15 – Jackie Robinson becomes the first African American to play Major League Baseball since the 1880s.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "On October 14, Air Force test pilot Captain Chuck Yeager flew the Bell X-1 rocket plane faster than the speed of sound.",
+      "question": "Do you remember hearing that a plane had flown faster than the speed of sound, and who told you about it?",
+      "source_url": "https://en.wikipedia.org/wiki/1947_in_the_United_States",
+      "source_file": "sources/wikipedia/1947-in-the-united-states.txt",
+      "source_quote": "October 14 – The United States Air Force test pilot Captain Chuck Yeager flies a Bell X-1 rocket plane faster than the speed of sound",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

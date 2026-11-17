@@ -1,0 +1,76 @@
+{
+  "year": 1951,
+  "items": [
+    {
+      "category": "song",
+      "text": "Patti Page's \"The Tennessee Waltz\" was a number-one song in the United States in 1951, according to Billboard magazine.",
+      "question": "Where were you living when Patti Page's \"The Tennessee Waltz\" was on the radio, and who did you dance with to it?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1951",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1951.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1951 according to Billboard magazine.",
+        "\"The Tennessee Waltz\" Patti Page with Orchestra conducted by Jack Rael"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "I Love Lucy, starring Lucille Ball and her husband Desi Arnaz, made its television debut on CBS on October 15, 1951.",
+      "question": "Whose television did you first watch I Love Lucy on, and who watched it with you?",
+      "source_url": "https://en.wikipedia.org/wiki/1951_in_the_United_States",
+      "source_file": "sources/wikipedia/1951-in-the-united-states.txt",
+      "source_quote": "October 15 – Sitcom I Love Lucy, starring Lucille Ball and her husband Desi Arnaz, makes its television debut on CBS.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 27.2 cents.",
+      "question": "What car was in your family when gas was about 27 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Leaded Regular",
+        "1951 .272 R 1.731"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Direct dial coast-to-coast telephone service began on November 10, 1951.",
+      "question": "Do you remember the first long-distance telephone call you made, and who was on the other end?",
+      "source_url": "https://en.wikipedia.org/wiki/1951_in_the_United_States",
+      "source_file": "sources/wikipedia/1951-in-the-united-states.txt",
+      "source_quote": "November 10 – Direct dial coast-to-coast telephone service begins.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "Bobby Thomson of the New York Giants hit a game-winning home run in the bottom of the 9th inning off Brooklyn Dodgers pitcher Ralph Branca to win the National League pennant, the \"Shot Heard 'Round the World\".",
+      "question": "Where were you when Bobby Thomson hit the Shot Heard 'Round the World, and who told you about it?",
+      "source_url": "https://en.wikipedia.org/wiki/1951_in_the_United_States",
+      "source_file": "sources/wikipedia/1951-in-the-united-states.txt",
+      "source_quote": "\"Shot Heard 'Round the World\": One of the greatest moments in Major League Baseball history occurs when the New York Giants' Bobby Thomson hits a game winning home run in the bottom of the 9th inning off of Brooklyn Dodgers pitcher Ralph Branca, to win the National League pennant",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

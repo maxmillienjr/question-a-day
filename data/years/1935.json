@@ -1,0 +1,63 @@
+{
+  "year": 1935,
+  "items": [
+    {
+      "category": "news",
+      "text": "On April 16, Fibber McGee and Molly made its debut on NBC Radio.",
+      "question": "Who in your house listened to Fibber McGee and Molly, and where did the radio sit?",
+      "source_url": "https://en.wikipedia.org/wiki/1935_in_the_United_States",
+      "source_file": "sources/wikipedia/1935-in-the-united-states.txt",
+      "source_quote": "April 16 – Fibber McGee and Molly debuts on NBC Radio.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Fred Astaire introduced Cheek to Cheek in the film Top Hat, and his record of it was listed among the top popular records of 1935 in the United States.",
+      "question": "Did you see Top Hat at the pictures or hear Fred Astaire sing Cheek to Cheek on the radio, and who were you with?",
+      "source_url": "https://en.wikipedia.org/wiki/1935_in_music",
+      "source_file": "sources/wikipedia/1935-in-music.txt",
+      "source_quote": [
+        "\"Cheek to Cheek\" w.m. Irving Berlin. Introduced by Fred Astaire in the film Top Hat",
+        "The top popular records of 1935 listed below",
+        "Fred Astaire \"Cheek to Cheek\" Brunswick 7486 June 26, 1935 (1935-06-26) August 1935 (1935-08) US Billboard 1935 #1, US #1 for 11 weeks"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On May 24, the first nighttime Major League Baseball game was played, between the Cincinnati Reds and the Philadelphia Phillies at Crosley Field in Cincinnati.",
+      "question": "Do you remember the first ball game you saw or heard played at night under the lights, and who took you?",
+      "source_url": "https://en.wikipedia.org/wiki/1935_in_the_United_States",
+      "source_file": "sources/wikipedia/1935-in-the-united-states.txt",
+      "source_quote": "May 24 – The first nighttime Major League Baseball game is played, between the Cincinnati Reds and Philadelphia Phillies at Crosley Field in Cincinnati.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On January 11, Amelia Earhart became the first person to fly solo from Hawaii to California.",
+      "question": "Who first told you about Amelia Earhart, and where were you living when her flights were in the news?",
+      "source_url": "https://en.wikipedia.org/wiki/1935_in_the_United_States",
+      "source_file": "sources/wikipedia/1935-in-the-united-states.txt",
+      "source_quote": "January 11 – Amelia Earhart becomes the first person to fly solo from Hawaii to California.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}
