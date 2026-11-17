@@ -11,7 +11,7 @@ X-WR-CALDESC:Thirty questions about holidays\, food\, winters and the peopl
  e at the table\, one a day from Thanksgiving to December 25.
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
-SOURCE;VALUE=URI:https://question-a-day.example/feeds/holidays-2026.ics
+SOURCE;VALUE=URI:https://questions.puretome.com/feeds/holidays-2026.ics
 BEGIN:VEVENT
 UID:puretome-question-a-day-holidays-20261126-d01-sub
 DTSTAMP:20261116T120000Z
@@ -24,9 +24,9 @@ DESCRIPTION:Day 1 of 30\, 30 days before the holidays.\n\nAsk: What is a Th
  cture? Where was it?\n\nThen: Who was at the table\, and who did the cooki
  ng?\n\nTip: Today everyone who remembers may be in the same room. Ask whil
  e the plates are mostly empty and nobody has stood up yet.\n\nAll thirty q
- uestions\, printable: https://question-a-day.example/print/holidays.html\n
+ uestions\, printable: https://questions.puretome.com/print/holidays.html\n
  \nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -47,10 +47,10 @@ DESCRIPTION:Day 2 of 30\, 30 days before the holidays.\n\nAsk: Who hosted t
  he big holiday meals when you were young\, and what was their kitchen like
  ?\n\nThen: What job were you given once you were old enough to help?\n\nTi
  p: Leftovers day. Ask over a plate of them. It is the easiest setting ther
- e is.\n\nAll thirty questions\, printable: https://question-a-day.example/
+ e is.\n\nAll thirty questions\, printable: https://questions.puretome.com/
  print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe 
  from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -72,9 +72,9 @@ DESCRIPTION:Day 3 of 30\, 30 days before the holidays.\n\nAsk: What dish sh
  here is that recipe now: on a card\, in a book\, or only in someone's head
  ?\n\nTip: If the recipe lives only in their head\, offer to cook it with t
  hem this month and write it down as you go.\n\nAll thirty questions\, prin
- table: https://question-a-day.example/print/holidays.html\n\nFrom PureTome
+ table: https://questions.puretome.com/print/holidays.html\n\nFrom PureTome
  . No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -96,9 +96,9 @@ DESCRIPTION:Day 4 of 30\, 30 days before the holidays.\n\nAsk: What holiday
   days from the morning on.\n\nThen: What was the one rule everyone had to 
  follow that day?\n\nTip: Do not assume you know the traditions. Ask\, even
   if you think you know.\n\nAll thirty questions\, printable: https://quest
- ion-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\, nothi
+ ions.puretome.com/print/holidays.html\n\nFrom PureTome. No sign-up\, nothi
  ng to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -119,9 +119,9 @@ DESCRIPTION:Day 5 of 30\, 30 days before the holidays.\n\nAsk: What is the
  first winter you remember clearly? Where were you living?\n\nThen: How did
   you keep warm\, and what did you wear outside?\n\nTip: Weather is an easy
   way into a memory. Cold rooms and snowed-in days come back fast.\n\nAll t
- hirty questions\, printable: https://question-a-day.example/print/holidays
+ hirty questions\, printable: https://questions.puretome.com/print/holidays
  .html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -142,9 +142,9 @@ DESCRIPTION:Day 6 of 30\, 30 days before the holidays.\n\nAsk: Tell me abou
  t a gift you gave someone that you are still pleased about.\n\nThen: How d
  id you pay for it\, or how did you make it?\n\nTip: Asking about a gift th
  ey gave\, not one they got\, takes them somewhere less expected.\n\nAll th
- irty questions\, printable: https://question-a-day.example/print/holidays.
+ irty questions\, printable: https://questions.puretome.com/print/holidays.
  html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -165,10 +165,10 @@ DESCRIPTION:Day 7 of 30\, 30 days before the holidays.\n\nAsk: What is a gi
  ft you were given as a child that you remember\, even a small one? Who gav
  e it to you?\n\nThen: Where did you keep it?\n\nTip: Gifts were scarce in 
  some homes. If that was true for them\, ask what the day felt like instead
- .\n\nAll thirty questions\, printable: https://question-a-day.example/prin
+ .\n\nAll thirty questions\, printable: https://questions.puretome.com/prin
  t/holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from
  .
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -189,10 +189,10 @@ DESCRIPTION:Day 8 of 30\, 30 days before the holidays.\n\nAsk: What did the
   house look like at the holidays when you were growing up? Who did the dec
  orating\, if anyone?\n\nThen: What happened to those things?\n\nTip: If an
  ything survived\, an ornament\, a candle holder\, a tablecloth\, ask them 
- to bring it out.\n\nAll thirty questions\, printable: https://question-a-d
- ay.example/print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to u
+ to bring it out.\n\nAll thirty questions\, printable: https://questions.pu
+ retome.com/print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to u
  nsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -212,9 +212,9 @@ DESCRIPTION:Day 9 of 30\, 30 days before the holidays.\n\nAsk: Tell me abou
  t a holiday that went wrong. What happened?\n\nThen: Who still brings it u
  p?\n\nTip: Disasters make the best holiday stories\, and most of them are 
  safe to laugh about now.\n\nAll thirty questions\, printable: https://ques
- tion-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\, noth
+ tions.puretome.com/print/holidays.html\n\nFrom PureTome. No sign-up\, noth
  ing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -236,9 +236,9 @@ DESCRIPTION:Day 10 of 30\, 30 days before the holidays.\n\nAsk: Where did p
  , a hall\, a neighbor's house? Describe walking in.\n\nThen: Who did you a
  lways see there?\n\nTip: If the answer is nowhere\, ask where people gathe
  red instead. For a lot of families it was the kitchen.\n\nAll thirty quest
- ions\, printable: https://question-a-day.example/print/holidays.html\n\nFr
+ ions\, printable: https://questions.puretome.com/print/holidays.html\n\nFr
  om PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -260,9 +260,9 @@ DESCRIPTION:Day 11 of 30\, 30 days before the holidays.\n\nAsk: What songs
  or music do you connect with this time of year? Where did you hear them?\n
  \nThen: Who sang along\, and who refused to?\n\nTip: Play one of the songs
   tonight and see what it brings back.\n\nAll thirty questions\, printable:
-  https://question-a-day.example/print/holidays.html\n\nFrom PureTome. No s
+  https://questions.puretome.com/print/holidays.html\n\nFrom PureTome. No s
  ign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -282,9 +282,9 @@ DESCRIPTION:Day 12 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
  ut a holiday you spent away from home. Where were you?\n\nThen: How did yo
  u mark the day there?\n\nTip: Holidays away are often the ones people reme
  mber best\, because they were different.\n\nAll thirty questions\, printab
- le: https://question-a-day.example/print/holidays.html\n\nFrom PureTome. N
+ le: https://questions.puretome.com/print/holidays.html\n\nFrom PureTome. N
  o sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -305,10 +305,10 @@ DESCRIPTION:Day 13 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
  ut the first holiday you hosted or planned yourself. Where was it?\n\nThen
  : What did you get wrong\, and what did you get right?\n\nTip: Ask how it 
  compared with the ones they grew up with. That comparison is a story in it
- self.\n\nAll thirty questions\, printable: https://question-a-day.example/
+ self.\n\nAll thirty questions\, printable: https://questions.puretome.com/
  print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe 
  from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -329,9 +329,9 @@ DESCRIPTION:Day 14 of 30\, 30 days before the holidays.\n\nAsk: Who was the
   person at every holiday who told the stories? What was one they always to
  ld?\n\nThen: How did they start it?\n\nTip: Ask for the story the way that
   person told it. A second-hand story is still worth keeping.\n\nAll thirty
-  questions\, printable: https://question-a-day.example/print/holidays.html
+  questions\, printable: https://questions.puretome.com/print/holidays.html
  \n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -352,9 +352,9 @@ DESCRIPTION:Day 15 of 30\, 30 days before the holidays.\n\nAsk: What did yo
  u do on the long days off school in winter when you were a kid?\n\nThen: W
  ho did you spend those days with?\n\nTip: Children's games and chores tell
   you a lot about a place and a time.\n\nAll thirty questions\, printable: 
- https://question-a-day.example/print/holidays.html\n\nFrom PureTome. No si
+ https://questions.puretome.com/print/holidays.html\n\nFrom PureTome. No si
  gn-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -375,9 +375,9 @@ DESCRIPTION:Day 16 of 30\, 30 days before the holidays.\n\nAsk: What is a t
  radition from your family that faded out? When do you remember it happenin
  g last?\n\nThen: Why do you think it ended?\n\nTip: If it is one worth bri
  nging back\, this month is a good time to try it once together.\n\nAll thi
- rty questions\, printable: https://question-a-day.example/print/holidays.h
+ rty questions\, printable: https://questions.puretome.com/print/holidays.h
  tml\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -399,9 +399,9 @@ DESCRIPTION:Day 17 of 30\, 30 days before the holidays.\n\nAsk: What is a h
  it different?\n\nThen: Who was missing that year\, or who was there for th
  e first time?\n\nTip: Different years stick and ordinary years blur. Start
   with the one that stands out.\n\nAll thirty questions\, printable: https:
- //question-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\
+ //questions.puretome.com/print/holidays.html\n\nFrom PureTome. No sign-up\
  , nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -422,9 +422,9 @@ DESCRIPTION:Day 18 of 30\, 30 days before the holidays.\n\nAsk: What did yo
  u look forward to most in December when you were young\, and where did it 
  happen?\n\nThen: Who made it happen?\n\nTip: Ask about the waiting. The an
  ticipation is often remembered better than the day.\n\nAll thirty question
- s\, printable: https://question-a-day.example/print/holidays.html\n\nFrom 
+ s\, printable: https://questions.puretome.com/print/holidays.html\n\nFrom 
  PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -444,9 +444,9 @@ DESCRIPTION:Day 19 of 30\, 30 days before the holidays.\n\nAsk: What smell
  or taste means winter to you? Where does it take you?\n\nThen: Who was in 
  that kitchen?\n\nTip: If you can make it this week\, make it\, and ask the
   question again while it is cooking.\n\nAll thirty questions\, printable: 
- https://question-a-day.example/print/holidays.html\n\nFrom PureTome. No si
+ https://questions.puretome.com/print/holidays.html\n\nFrom PureTome. No si
  gn-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -467,9 +467,9 @@ DESCRIPTION:Day 20 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
  ut the most crowded holiday you remember. Where did everyone sleep?\n\nThe
  n: Who snored\, who argued and who got up first?\n\nTip: Questions about l
  ogistics get people laughing. Sleeping arrangements are a classic.\n\nAll 
- thirty questions\, printable: https://question-a-day.example/print/holiday
+ thirty questions\, printable: https://questions.puretome.com/print/holiday
  s.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -490,9 +490,9 @@ DESCRIPTION:Day 21 of 30\, 30 days before the holidays.\n\nAsk: What is a l
  etter or card you got around the holidays that you remember? Who was it fr
  om?\n\nThen: What did it say\, as near as you can remember?\n\nTip: If the
  re is a box of old cards somewhere\, this is the week to open it together.
- \n\nAll thirty questions\, printable: https://question-a-day.example/print
+ \n\nAll thirty questions\, printable: https://questions.puretome.com/print
  /holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -513,9 +513,9 @@ DESCRIPTION:Day 22 of 30\, 30 days before the holidays.\n\nAsk: What did yo
  ur street or town look like at night this time of year when you were growi
  ng up?\n\nThen: Where did you walk\, and who walked with you?\n\nTip: Ask 
  what they could see from the window. Small details carry a whole place.\n\
- nAll thirty questions\, printable: https://question-a-day.example/print/ho
+ nAll thirty questions\, printable: https://questions.puretome.com/print/ho
  lidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -537,9 +537,9 @@ DESCRIPTION:Day 23 of 30\, 30 days before the holidays.\n\nAsk: Who is some
  bout one holiday with them.\n\nThen: What would they be doing right now if
   they were in the room?\n\nTip: This one can bring tears\, and that is all
   right. Tears are not a reason to stop unless they say so.\n\nAll thirty q
- uestions\, printable: https://question-a-day.example/print/holidays.html\n
+ uestions\, printable: https://questions.puretome.com/print/holidays.html\n
  \nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -560,10 +560,10 @@ DESCRIPTION:Day 24 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
  ut a holiday in your twenties. Where were you living\, and who were you wi
  th?\n\nThen: What did you think your life would look like by now?\n\nTip: 
  Asking what they expected back then is a gentle way into how things turned
-  out.\n\nAll thirty questions\, printable: https://question-a-day.example/
+  out.\n\nAll thirty questions\, printable: https://questions.puretome.com/
  print/holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe 
  from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -583,9 +583,9 @@ DESCRIPTION:Day 25 of 30\, 30 days before the holidays.\n\nAsk: What is the
   best New Year's Eve you remember? Where were you?\n\nThen: What were you 
  hoping for that year?\n\nTip: Some people never cared for New Year's. If s
  o\, ask what they did instead.\n\nAll thirty questions\, printable: https:
- //question-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\
+ //questions.puretome.com/print/holidays.html\n\nFrom PureTome. No sign-up\
  , nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -606,9 +606,9 @@ DESCRIPTION:Day 26 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
  ut a time someone outside the family was kind to you around the holidays. 
  What happened?\n\nThen: What would you say to them now?\n\nTip: Kindness s
  tories are good ones to share with the whole table.\n\nAll thirty question
- s\, printable: https://question-a-day.example/print/holidays.html\n\nFrom 
+ s\, printable: https://questions.puretome.com/print/holidays.html\n\nFrom 
  PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -629,9 +629,9 @@ DESCRIPTION:Day 27 of 30\, 30 days before the holidays.\n\nAsk: Who did you
   write to or call every year at this time? Tell me about them.\n\nThen: Wh
  ere did they live\, and what did you talk about?\n\nTip: A name from an ol
  d card list is a thread worth pulling.\n\nAll thirty questions\, printable
- : https://question-a-day.example/print/holidays.html\n\nFrom PureTome. No 
+ : https://questions.puretome.com/print/holidays.html\n\nFrom PureTome. No 
  sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -652,9 +652,9 @@ DESCRIPTION:Day 28 of 30\, 30 days before the holidays.\n\nAsk: What did ch
  ildren do the night before a big holiday where you grew up? What did you d
  o?\n\nThen: How did you try to stay awake\, or how were you made to go to 
  sleep?\n\nTip: If grandchildren are around\, let one of them ask this one.
- \n\nAll thirty questions\, printable: https://question-a-day.example/print
+ \n\nAll thirty questions\, printable: https://questions.puretome.com/print
  /holidays.html\n\nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -676,9 +676,9 @@ DESCRIPTION:Day 29 of 30\, 30 days before the holidays.\n\nAsk: Tell me abo
  here were you?\n\nThen: What did you eat\, and who was there?\n\nTip: If y
  our family celebrates tonight\, ask between courses. If not\, a quiet even
  ing is the best time of all.\n\nAll thirty questions\, printable: https://
- question-a-day.example/print/holidays.html\n\nFrom PureTome. No sign-up\, 
+ questions.puretome.com/print/holidays.html\n\nFrom PureTome. No sign-up\, 
  nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM
@@ -699,9 +699,9 @@ DESCRIPTION:Day 30 of 30\, 30 days before the holidays.\n\nAsk: Which holid
  ay tradition do you most want the family to keep? Tell me about the first 
  time you remember it.\n\nThen: Who started it?\n\nTip: Write their answer 
  down word for word and read it back at next year's table.\n\nAll thirty qu
- estions\, printable: https://question-a-day.example/print/holidays.html\n\
+ estions\, printable: https://questions.puretome.com/print/holidays.html\n\
  nFrom PureTome. No sign-up\, nothing to unsubscribe from.
-URL;VALUE=URI:https://question-a-day.example/print/holidays.html
+URL;VALUE=URI:https://questions.puretome.com/print/holidays.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 BEGIN:VALARM

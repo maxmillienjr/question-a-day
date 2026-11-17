@@ -1,6 +1,6 @@
 {
-  "_comment": "baseUrl is a PLACEHOLDER. Set it to the absolute address the docs/ folder will be served from (ending in /), then run: node build.js",
-  "baseUrl": "https://question-a-day.example/",
+  "_comment": "baseUrl is the absolute address the docs/ folder is served from (ending in /). It is written into every subscription, so changing it breaks people who already subscribed. After any change run: sh tools/check.sh",
+  "baseUrl": "https://questions.puretome.com/",
   "evergreenFirstStart": "2026-11-17",
   "evergreenLastStart": "2027-06-30",
   "dtstamp": "20261116T120000Z",
