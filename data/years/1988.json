@@ -1,0 +1,48 @@
+{
+  "year": 1988,
+  "items": [
+    {
+      "category": "song",
+      "text": "Whitney Houston's \"So Emotional\" and \"Where Do Broken Hearts Go\" both reached number one on the Billboard Hot 100 in 1988, giving her seven consecutive number-one hits.",
+      "question": "Where were you living when Whitney Houston's \"Where Do Broken Hearts Go\" was on the radio, and who did you know who could sing like her?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1988",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1988.txt",
+      "source_quote": [
+        "These are the Billboard magazine Hot 100 number one hits of 1988. The Billboard Hot 100 is a chart that ranks the best-performing singles of the United States.",
+        "R&B/pop megastar Whitney Houston's two singles released from her second studio album Whitney, \"So Emotional\" and \"Where Do Broken Hearts Go\", both peaked at number one, which gave her a total of seven consecutive number one hits"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The movie Who Framed Roger Rabbit, which mixed animation with live action, was released on June 22, 1988.",
+      "question": "Who did you go see Who Framed Roger Rabbit with, and which theater was it?",
+      "source_url": "https://en.wikipedia.org/wiki/1988_in_the_United_States",
+      "source_file": "sources/wikipedia/1988-in-the-united-states.txt",
+      "source_quote": "June 22 – Animation/live action crossover movie Who Framed Roger Rabbit is released through Touchstone Pictures.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "NASA resumed Space Shuttle flights on September 29, 1988, when Space Shuttle Discovery went back into orbit.",
+      "question": "Where were you when the Space Shuttle Discovery went back up in September 1988, and who did you watch the launch with?",
+      "source_url": "https://en.wikipedia.org/wiki/1988_in_the_United_States",
+      "source_file": "sources/wikipedia/1988-in-the-united-states.txt",
+      "source_quote": "September 29 – STS-26: NASA resumes Space Shuttle flights, grounded after the 1986 Space Shuttle Challenger disaster, with Space Shuttle Discovery going back into orbit",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On October 15, 1988, Kirk Gibson hit a home run to win Game 1 of the World Series for the Los Angeles Dodgers over the Oakland Athletics.",
+      "question": "Do you remember Kirk Gibson's home run in the 1988 World Series, and who was in the room when it happened?",
+      "source_url": "https://en.wikipedia.org/wiki/1988_in_the_United_States",
+      "source_file": "sources/wikipedia/1988-in-the-united-states.txt",
+      "source_quote": "October 15 – Kirk Gibson hits a dramatic home run to win Game 1 of the World Series for the Los Angeles Dodgers, over the Oakland Athletics, by a score of 5–4.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

@@ -46,7 +46,7 @@
       "source_file": "sources/government/eia-retail-gasoline-prices.txt",
       "source_quote": [
         "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
-        "Leaded Regular",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6",
         "1954 .290 R 1.777"
       ],
       "checked": "2026-11-17",

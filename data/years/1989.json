@@ -1,0 +1,60 @@
+{
+  "year": 1989,
+  "items": [
+    {
+      "category": "song",
+      "text": "Janet Jackson's \"Miss You Much\" spent four weeks at number one on the Billboard Hot 100, one of the two longest-running number-one singles of 1989.",
+      "question": "Where were you living when Janet Jackson's \"Miss You Much\" was on the radio, and who in your life knew the dance?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1989",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1989.txt",
+      "source_quote": "These are the Billboard Hot 100 number-one singles of 1989. The two longest running number-one singles of 1989 are \"Miss You Much\" by Janet Jackson and \"Another Day in Paradise\" by Phil Collins, which each charted at number one for four weeks.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 25 cents for the first ounce.",
+      "question": "Where were you living when a stamp for a letter cost 25 cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "April 3, 1988 25 February 3, 1991 29",
+        "the prices listed in this table are for the first ounce"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Nintendo's Game Boy was released in North America on July 31, 1989.",
+      "question": "Who was the first person you knew to own a Game Boy, and which game did they play on it?",
+      "source_url": "https://en.wikipedia.org/wiki/1989_in_the_United_States",
+      "source_file": "sources/wikipedia/1989-in-the-united-states.txt",
+      "source_quote": "July 31 – Nintendo's Game Boy is released in North America.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The Simpsons premiered on Fox on December 17, 1989, with the episode \"Simpsons Roasting on an Open Fire\".",
+      "question": "Who did you watch The Simpsons with when it first came on, and which character reminded you of someone you knew?",
+      "source_url": "https://en.wikipedia.org/wiki/1989_in_the_United_States",
+      "source_file": "sources/wikipedia/1989-in-the-united-states.txt",
+      "source_quote": "December 17 – The television show The Simpsons premiered on FOX with the episode \"Simpsons Roasting on an Open Fire\".",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The Berlin Wall was brought down on November 9, 1989.",
+      "question": "Where were you when you heard the Berlin Wall had come down, and who told you?",
+      "source_url": "https://en.wikipedia.org/wiki/1989_in_the_United_States",
+      "source_file": "sources/wikipedia/1989-in-the-united-states.txt",
+      "source_quote": "November 9 – The Berlin Wall is brought down.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

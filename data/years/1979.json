@@ -1,0 +1,77 @@
+{
+  "year": 1979,
+  "items": [
+    {
+      "category": "news",
+      "text": "The Susan B. Anthony dollar was introduced in the U.S. on July 2, 1979.",
+      "question": "Do you remember the first Susan B. Anthony dollar you got, and did you keep it or spend it?",
+      "source_url": "https://en.wikipedia.org/wiki/1979_in_the_United_States",
+      "source_file": "sources/wikipedia/1979-in-the-united-states.txt",
+      "source_quote": "July 2 – The Susan B. Anthony dollar is introduced in the U.S.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 15 cents for the first ounce.",
+      "question": "Where were you living when a stamp for a letter cost fifteen cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "May 29, 1978 15 March 22, 1981 18",
+        "the prices listed in this table are for the first ounce"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "Nickelodeon began on cable television on April 1, 1979, playing children's television shows 24 hours a day.",
+      "question": "Who was the first family you knew with cable television, and what did the children watch on it?",
+      "source_url": "https://en.wikipedia.org/wiki/1979_in_the_United_States",
+      "source_file": "sources/wikipedia/1979-in-the-united-states.txt",
+      "source_quote": "April 1 – Nickelodeon debuts on cable television, playing children's television shows 24 hours a day.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 85.7 cents.",
+      "question": "What car was in your family when gas was about 86 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6",
+        "1979 .857 R 1.957"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "The Knack's \"My Sharona\" spent six consecutive weeks at number one on the Billboard Hot 100 beginning with the chart dated August 25, 1979, the year's longest-running number one.",
+      "question": "Where were you living when \"My Sharona\" by the Knack was on the radio, and what were you driving?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1979",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1979.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1979, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations, respectively. During the year, 23 different singles spent time at number one.",
+        "The year's longest-running number one was \"My Sharona\" by the Knack, which spent six consecutive weeks atop the Hot 100 beginning with the chart dated August 25."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "On March 4, 1979, photos from the U.S. Voyager I space probe revealed Jupiter's rings.",
+      "question": "Do you remember seeing the Voyager pictures of Jupiter in the newspaper or on television, and where were you living then?",
+      "source_url": "https://en.wikipedia.org/wiki/1979_in_the_United_States",
+      "source_file": "sources/wikipedia/1979-in-the-united-states.txt",
+      "source_quote": "March 4 – The U.S. Voyager I space probe photos reveal Jupiter's rings.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

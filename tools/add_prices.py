@@ -14,6 +14,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 USPS = "sources/government/usps-domestic-letter-rates.txt"
 EIA = "sources/government/eia-retail-gasoline-prices.txt"
 CHECKED = "2026-11-17"
+# The table's header, whole: the first column pair is Leaded Regular (Nominal, Real), the
+# second Unleaded Regular (Nominal, Real), so a row's first number is leaded regular, nominal.
+HEADER = ("Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel "
+          "Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 "
+          "Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6")
 WORDS = {2: "two", 3: "three", 4: "four", 5: "five", 6: "six", 8: "eight", 10: "ten",
          13: "thirteen", 15: "fifteen", 18: "eighteen", 20: "twenty", 22: "twenty-two"}
 
@@ -52,23 +57,36 @@ def letter_item(year):
 
 
 def gas_item(year):
+    """Leaded regular while the table has it, unleaded regular after (first two columns)."""
     url, lines = load(EIA)
     try:
         i = lines.index(str(year))
     except ValueError:
         return None
-    value, real = lines[i + 1], lines[i + 2]
-    if not re.fullmatch(r"0?\.\d{3}", value):
+    row = lines[i + 1:i + 5]
+    num = re.compile(r"\d?\.\d{3}")
+    if num.fullmatch(row[0]):
+        grade, header, value, quote_row = "regular leaded", "Leaded Regular", row[0], f"{year} {row[0]} {row[1]}"
+    elif row[0] == "NA" and row[1] == "NA" and num.fullmatch(row[2]):
+        grade, header, value, quote_row = "regular unleaded", "Unleaded Regular", row[2], f"{year} NA NA {row[2]}"
+    else:
         return None
-    cents = float(value) * 100
+    dollars = float(value)
+    if dollars < 1:
+        cents = dollars * 100
+        exact, rough = f"{cents:.1f} cents", f"about {round(cents)} cents"
+    else:
+        from decimal import Decimal, ROUND_HALF_UP
+        two = Decimal(value).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+        exact, rough = f"${dollars:.3f}".rstrip("0").rstrip("."), f"about ${two}"
     return {
         "category": "price",
-        "text": f"The retail price of a gallon of regular leaded gasoline was {cents:.1f} cents.",
-        "question": f"What car was in your family when gas was about {round(cents)} cents a gallon, and who did the driving?",
+        "text": f"The retail price of a gallon of {grade} gasoline was {exact}.",
+        "question": f"What car was in your family when gas was {rough} a gallon, and who did the driving?",
         "source_url": url,
         "source_file": EIA,
         "source_quote": ["Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
-                         "Leaded Regular", f"{year} {value} {real}"],
+                         HEADER, quote_row],
         "checked": CHECKED,
         "sombre": False,
     }

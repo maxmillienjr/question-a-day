@@ -1,0 +1,63 @@
+{
+  "year": 1983,
+  "items": [
+    {
+      "category": "news",
+      "text": "The final episode of M*A*S*H aired on February 28, 1983, setting a new record for the most-watched television broadcast in American history.",
+      "question": "Where were you when you watched the last episode of M*A*S*H, and who was in the room with you?",
+      "source_url": "https://en.wikipedia.org/wiki/1983_in_the_United_States",
+      "source_file": "sources/wikipedia/1983-in-the-united-states.txt",
+      "source_quote": "February 28 – The final episode of M*A*S*H airs, setting a new record for most-watched television broadcast in American history.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 20 cents for the first ounce.",
+      "question": "Where were you living when a stamp for a letter cost twenty cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "November 1, 1981 20 February 17, 1985 22",
+        "the prices listed in this table are for the first ounce"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Chrysler introduced the Dodge Caravan in 1983, the first \"minivan\".",
+      "question": "Who was the first person you knew to own a minivan, and where did you ride in it?",
+      "source_url": "https://en.wikipedia.org/wiki/1983_in_the_United_States",
+      "source_file": "sources/wikipedia/1983-in-the-united-states.txt",
+      "source_quote": "Chrysler introduces the Dodge Caravan, the first \"minivan\".",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "The Police's \"Every Breath You Take\" spent eight weeks at number one on the Billboard Hot 100 in 1983, the year's longest run at the top.",
+      "question": "Where were you living when \"Every Breath You Take\" was on the radio, and who in your house played it most?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1983",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1983.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1983, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations, respectively. During the year, 17 different singles spent time at number one.",
+        "Another British group, the Police, reached number one in the United States for the first time with \"Every Breath You Take\", which spent eight weeks in the peak position, the year's longest run atop the Hot 100."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "On June 18, 1983, Sally Ride became the first American woman in space, aboard the Space Shuttle Challenger.",
+      "question": "Do you remember hearing that Sally Ride had gone into space, and where were you when you heard?",
+      "source_url": "https://en.wikipedia.org/wiki/1983_in_the_United_States",
+      "source_file": "sources/wikipedia/1983-in-the-united-states.txt",
+      "source_quote": "June 18 – STS-7: Sally Ride becomes the first American woman in space, on the Space Shuttle Challenger.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

@@ -194,6 +194,66 @@ window.WORLD_AT_TWENTY = {
    "credit": "Wikipedia contributors, \"1976 in the United States\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
+  "https://en.wikipedia.org/wiki/1977_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1977 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1978_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1978 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1979_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1979 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1980_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1980 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1981_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1981 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1982_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1982 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1983_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1983 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1984_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1984 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1985_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1985 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1986_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1986 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1987_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1987 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1988_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1988 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1989_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1989 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1990_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1990 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1991_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1991 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1959": {
    "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1959\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
@@ -264,6 +324,66 @@ window.WORLD_AT_TWENTY = {
   },
   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1976": {
    "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1976\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1977": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1977\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1978": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1978\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1979": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1979\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1980": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1980\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1981": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1981\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1982": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1982\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1983": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1983\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1984": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1984\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1985": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1985\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1986": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1986\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1987": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1987\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1988": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1988\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1989": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1989\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1990": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1990\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1991": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1991\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
   "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1940": {
@@ -2054,6 +2174,603 @@ window.WORLD_AT_TWENTY = {
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1976_in_the_United_States",
     "text": "On September 3, 1976, the Viking 2 spacecraft landed on Mars."
+   }
+  ],
+  "1977": [
+   {
+    "category": "news",
+    "question": "Who did you watch Roots with in January 1977, and did your family stay home every night it was on?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1977_in_the_United_States",
+    "text": "Roots began its run on ABC on January 23, 1977."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost thirteen cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 13 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Where did you first see Star Wars, and who did you go with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1977_in_the_United_States",
+    "text": "The movie Star Wars, directed by George Lucas, was released on May 25, 1977, opening in 32 movie theaters across the United States."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 62 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 62.2 cents."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Debby Boone's \"You Light Up My Life\" was on the radio, and who in your house sang along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1977",
+    "text": "Debby Boone's \"You Light Up My Life\" reached number one on the Billboard Hot 100 in October 1977 and stayed there ten consecutive weeks, a new record for the longest unbroken run."
+   },
+   {
+    "category": "technology",
+    "question": "Who was the first person you knew with an Atari, and which game did everyone want to play?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1977_in_the_United_States",
+    "text": "The Atari 2600, which played games from cartridges, was released in October 1977."
+   }
+  ],
+  "1978": [
+   {
+    "category": "news",
+    "question": "Where did you see Grease, and who did you go with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1978_in_the_United_States",
+    "text": "The musical film Grease, starring John Travolta and Olivia Newton-John, was released on June 16, 1978."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when the Bee Gees' \"Stayin' Alive\" was on the radio, and where did you go dancing?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1978",
+    "text": "The Bee Gees' \"Stayin' Alive\" reached number one on the Billboard Hot 100 in the issue dated February 4, 1978, and held the top spot for four weeks."
+   },
+   {
+    "category": "news",
+    "question": "Who in your house watched Dallas, and which character did they love to hate?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1978_in_the_United_States",
+    "text": "The CBS soap opera Dallas began on April 2, 1978."
+   },
+   {
+    "category": "news",
+    "question": "Where did you watch or listen to the 1978 World Series, and who were you rooting for?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1978_in_the_United_States",
+    "text": "On October 17, 1978, the New York Yankees beat the Dodgers in Los Angeles to win the World Series, four games to two."
+   }
+  ],
+  "1979": [
+   {
+    "category": "news",
+    "question": "Do you remember the first Susan B. Anthony dollar you got, and did you keep it or spend it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1979_in_the_United_States",
+    "text": "The Susan B. Anthony dollar was introduced in the U.S. on July 2, 1979."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost fifteen cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 15 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Who was the first family you knew with cable television, and what did the children watch on it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1979_in_the_United_States",
+    "text": "Nickelodeon began on cable television on April 1, 1979, playing children's television shows 24 hours a day."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 86 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 85.7 cents."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"My Sharona\" by the Knack was on the radio, and what were you driving?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1979",
+    "text": "The Knack's \"My Sharona\" spent six consecutive weeks at number one on the Billboard Hot 100 beginning with the chart dated August 25, 1979, the year's longest-running number one."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember seeing the Voyager pictures of Jupiter in the newspaper or on television, and where were you living then?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1979_in_the_United_States",
+    "text": "On March 4, 1979, photos from the U.S. Voyager I space probe revealed Jupiter's rings."
+   }
+  ],
+  "1980": [
+   {
+    "category": "technology",
+    "question": "Where was the first Pac-Man machine you played, and who did you play with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1980_in_the_United_States",
+    "text": "The arcade game Pac-Man was released on May 22, 1980."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost fifteen cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 15 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when the U.S. hockey team beat the Soviet Union at Lake Placid, and who did you watch it with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1980_in_the_United_States",
+    "text": "On February 22, 1980, at the Winter Olympics in Lake Placid, New York, the United States Olympic hockey team defeated the Soviet Union in the Miracle on Ice."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.19 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was $1.191."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Kenny Rogers's \"Lady\" was on the radio, and who did you dance with to it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1980",
+    "text": "Kenny Rogers's \"Lady\", written by Lionel Richie, reached number one on the Billboard Hot 100 in November 1980 and stayed there six weeks, tied for the year's longest run."
+   },
+   {
+    "category": "technology",
+    "question": "Who in your house was the first to keep CNN on all day, and where were you living then?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1980_in_the_United_States",
+    "text": "The Cable News Network, CNN, launched on June 1, 1980."
+   }
+  ],
+  "1981": [
+   {
+    "category": "news",
+    "question": "Who did you watch Luke and Laura's wedding on General Hospital with, or who told you about it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1981_in_the_United_States",
+    "text": "On November 16, 1981, Luke and Laura married on the soap opera General Hospital, the highest-rated hour in daytime television history."
+   },
+   {
+    "category": "news",
+    "question": "When did you first see MTV, and whose house were you at?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1981_in_the_United_States",
+    "text": "MTV (Music Television) launched on cable television in the United States on August 1, 1981."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"Endless Love\" was on the radio, and was it anyone's song in your life?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1981",
+    "text": "\"Endless Love\" by Diana Ross and Lionel Richie spent nine weeks at number one on the Billboard Hot 100 in 1981, the longest run at number one wholly within the year."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.31 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was $1.311."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you when Space Shuttle Columbia went up in April 1981, and did you see it on television?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1981_in_the_United_States",
+    "text": "On April 12, 1981, Space Shuttle Columbia, with John Young and Robert Crippen aboard, launched on the STS-1 mission, returning to Earth on April 14."
+   }
+  ],
+  "1982": [
+   {
+    "category": "news",
+    "question": "Did you ever make the trip to EPCOT Center, and who went with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1982_in_the_United_States",
+    "text": "On October 1, 1982, Walt Disney World in Orlando, Florida, opened EPCOT Center to the public for the first time."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost twenty cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 20 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Who in your house stayed up for Late Night with David Letterman, and where was the television?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1982_in_the_United_States",
+    "text": "Late Night with David Letterman made its debut on NBC on February 1, 1982, with Bill Murray as the first guest."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.22 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was $1.222."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"Eye of the Tiger\" was on the radio, and did you see Rocky III in a theater?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1982",
+    "text": "Survivor's \"Eye of the Tiger\", from the film Rocky III, had a six-week run at number one on the Billboard Hot 100 in 1982."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch or listen to the 1982 World Series with, and which team were you rooting for?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1982_in_the_United_States",
+    "text": "The St. Louis Cardinals beat the Milwaukee Brewers, 4 games to 3, to win the 1982 World Series on October 20."
+   }
+  ],
+  "1983": [
+   {
+    "category": "news",
+    "question": "Where were you when you watched the last episode of M*A*S*H, and who was in the room with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1983_in_the_United_States",
+    "text": "The final episode of M*A*S*H aired on February 28, 1983, setting a new record for the most-watched television broadcast in American history."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost twenty cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 20 cents for the first ounce."
+   },
+   {
+    "category": "technology",
+    "question": "Who was the first person you knew to own a minivan, and where did you ride in it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1983_in_the_United_States",
+    "text": "Chrysler introduced the Dodge Caravan in 1983, the first \"minivan\"."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"Every Breath You Take\" was on the radio, and who in your house played it most?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1983",
+    "text": "The Police's \"Every Breath You Take\" spent eight weeks at number one on the Billboard Hot 100 in 1983, the year's longest run at the top."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember hearing that Sally Ride had gone into space, and where were you when you heard?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1983_in_the_United_States",
+    "text": "On June 18, 1983, Sally Ride became the first American woman in space, aboard the Space Shuttle Challenger."
+   }
+  ],
+  "1984": [
+   {
+    "category": "news",
+    "question": "Who did you watch the 1984 Los Angeles Olympics with, and which event do you still remember?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+    "text": "The 1984 Summer Olympics were held in Los Angeles, California, from July 28 to August 12."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost twenty cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 20 cents for the first ounce."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first compact disc you bought or were given, and who had the CD player?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+    "text": "Bruce Springsteen released Born in the U.S.A. on June 4, 1984, and its CD was the first CD to be manufactured in the United States."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.13 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was $1.129."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Prince's \"When Doves Cry\" was on the radio, and who did you hear it with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1984",
+    "text": "Prince spent seven weeks at number one on the Billboard Hot 100 in 1984 with \"When Doves Cry\" and \"Let's Go Crazy\", the most weeks of any act that year."
+   },
+   {
+    "category": "news",
+    "question": "Who did you see Ghostbusters or Gremlins with, and which theater did you go to?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
+    "text": "The films Ghostbusters and Gremlins were released in 1984."
+   }
+  ],
+  "1985": [
+   {
+    "category": "news",
+    "question": "Who did you go to see Back to the Future with, and where was the theater?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1985_in_the_United_States",
+    "text": "Back to the Future opened in American theaters on July 3, 1985, and became the highest-grossing film of 1985 in the United States."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when Live Aid was on television, and who watched it with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1985_in_the_United_States",
+    "text": "On July 13, 1985, the Live Aid pop concerts in Philadelphia and London raised money for famine relief in Ethiopia."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"We Are the World\" was on the radio, and which of the singers could you pick out?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1985",
+    "text": "\"We Are the World\" by USA for Africa spent four weeks at number one on the Billboard Hot 100, tied for the longest run of 1985."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.12 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was $1.115."
+   },
+   {
+    "category": "technology",
+    "question": "Who was the first person you knew to have a Nintendo, and which game did everyone play?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1985_in_the_United_States",
+    "text": "The Nintendo Entertainment System was released in U.S. stores on October 18, 1985."
+   }
+  ],
+  "1986": [
+   {
+    "category": "news",
+    "question": "Have you ever visited the Statue of Liberty, and who was with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1986_in_the_United_States",
+    "text": "The Statue of Liberty reopened to the public on July 5, 1986, after an extensive refurbishing."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost twenty-two cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 22 cents for the first ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"Sledgehammer\" was on the radio, and do you remember seeing its video?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1986",
+    "text": "Peter Gabriel's \"Sledgehammer\" reached number one on the Billboard Hot 100 in 1986, his first number one."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 86 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 85.7 cents."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when you heard about the Challenger, and who told you?",
+    "sombre": true,
+    "source_url": "https://en.wikipedia.org/wiki/1986_in_the_United_States",
+    "text": "The Space Shuttle Challenger was lost shortly after launch on January 28, 1986."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 1986 World Series with, and were you pulling for the Mets or the Red Sox?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1986_in_the_United_States",
+    "text": "The New York Mets beat the Boston Red Sox in seven games to win the 1986 World Series."
+   }
+  ],
+  "1987": [
+   {
+    "category": "song",
+    "question": "Where were you living when Bon Jovi's \"Livin' on a Prayer\" was on the radio, and who in your life turned it up?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1987",
+    "text": "Bon Jovi's \"Livin' on a Prayer\" spent four weeks at number one on the Billboard Hot 100, one of the two longest-running number-one singles of 1987."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost twenty-two cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 22 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember the first time you saw the Simpsons, and who were you watching with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1987_in_the_United_States",
+    "text": "The Simpsons first appeared on April 19, 1987, as a series of cartoon shorts on The Tracey Ullman Show."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 90 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 89.7 cents."
+   },
+   {
+    "category": "technology",
+    "question": "When the Fox Network started showing evening programs, which Fox show did your household watch first?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1987_in_the_United_States",
+    "text": "The Fox Network made its primetime debut on April 5, 1987."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch the 1987 World Series with, and were you rooting for the Twins or the Cardinals?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1987_in_the_United_States",
+    "text": "In October 1987, the Minnesota Twins defeated the St. Louis Cardinals to win the World Series."
+   }
+  ],
+  "1988": [
+   {
+    "category": "song",
+    "question": "Where were you living when Whitney Houston's \"Where Do Broken Hearts Go\" was on the radio, and who did you know who could sing like her?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1988",
+    "text": "Whitney Houston's \"So Emotional\" and \"Where Do Broken Hearts Go\" both reached number one on the Billboard Hot 100 in 1988, giving her seven consecutive number-one hits."
+   },
+   {
+    "category": "news",
+    "question": "Who did you go see Who Framed Roger Rabbit with, and which theater was it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1988_in_the_United_States",
+    "text": "The movie Who Framed Roger Rabbit, which mixed animation with live action, was released on June 22, 1988."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you when the Space Shuttle Discovery went back up in September 1988, and who did you watch the launch with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1988_in_the_United_States",
+    "text": "NASA resumed Space Shuttle flights on September 29, 1988, when Space Shuttle Discovery went back into orbit."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember Kirk Gibson's home run in the 1988 World Series, and who was in the room when it happened?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1988_in_the_United_States",
+    "text": "On October 15, 1988, Kirk Gibson hit a home run to win Game 1 of the World Series for the Los Angeles Dodgers over the Oakland Athletics."
+   }
+  ],
+  "1989": [
+   {
+    "category": "song",
+    "question": "Where were you living when Janet Jackson's \"Miss You Much\" was on the radio, and who in your life knew the dance?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1989",
+    "text": "Janet Jackson's \"Miss You Much\" spent four weeks at number one on the Billboard Hot 100, one of the two longest-running number-one singles of 1989."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 25 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 25 cents for the first ounce."
+   },
+   {
+    "category": "technology",
+    "question": "Who was the first person you knew to own a Game Boy, and which game did they play on it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1989_in_the_United_States",
+    "text": "Nintendo's Game Boy was released in North America on July 31, 1989."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch The Simpsons with when it first came on, and which character reminded you of someone you knew?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1989_in_the_United_States",
+    "text": "The Simpsons premiered on Fox on December 17, 1989, with the episode \"Simpsons Roasting on an Open Fire\"."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when you heard the Berlin Wall had come down, and who told you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1989_in_the_United_States",
+    "text": "The Berlin Wall was brought down on November 9, 1989."
+   }
+  ],
+  "1990": [
+   {
+    "category": "song",
+    "question": "Where were you living when Mariah Carey's \"Vision of Love\" was on the radio, and who tried to hit her high notes?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1990",
+    "text": "Mariah Carey's \"Vision of Love\" spent four weeks at number one on the Billboard Hot 100, one of the three longest-running number-one singles of 1990."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost 25 cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 25 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch The Fresh Prince of Bel-Air with, and where were you living then?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1990_in_the_United_States",
+    "text": "The sitcom The Fresh Prince of Bel-Air premiered on NBC on September 10, 1990."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.15 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was $1.149."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first Hubble picture you saw, and where were you when you saw it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1990_in_the_United_States",
+    "text": "The Hubble Space Telescope was launched aboard Space Shuttle Discovery on April 20, 1990."
+   },
+   {
+    "category": "news",
+    "question": "Did anyone in your family come to America through Ellis Island, and who told you their story?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1990_in_the_United_States",
+    "text": "Ellis Island reopened as an immigration museum in 1990, after six years of renovations."
+   }
+  ],
+  "1991": [
+   {
+    "category": "song",
+    "question": "Where were you living when \"(Everything I Do) I Do It for You\" was on the radio, and was it anyone's special song?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1991",
+    "text": "Bryan Adams's \"(Everything I Do) I Do It for You\" spent seven weeks at number one on the Billboard Hot 100, the longest-running number-one single of 1991."
+   },
+   {
+    "category": "technology",
+    "question": "Who in your house played the Super Nintendo, and which game do you remember hearing from the next room?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1991_in_the_United_States",
+    "text": "The Super Nintendo Entertainment System was first released in the United States on August 23, 1991."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch Home Improvement with, and who in your family was the Tim Taylor of the house?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1991_in_the_United_States",
+    "text": "The sitcom Home Improvement premiered on ABC on September 17, 1991."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about $1.14 a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular unleaded gasoline was $1.14."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when the Bulls won their first championship, and who were you watching with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1991_in_the_United_States",
+    "text": "The Chicago Bulls won their first NBA championship by defeating the Los Angeles Lakers on June 12, 1991."
    }
   ]
  }

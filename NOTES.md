@@ -18,11 +18,12 @@
 - Letter postage: from the USPS table, given only for years with no rate change inside the year (a
   rate is shown for a year only when it was in force from January 1 to December 31). From 1976 the
   item says "for the first ounce", after the table's footnote.
-- Gasoline: from EIA Annual Energy Review 2011 Table 5.24, the first column (leaded regular, nominal
-  dollars), 1949 onward. The table's notes say 1949 to 1973 come from Platt's Oil Price Handbook and
-  Oilmanac, so the item says "the retail price", not "the average". The figure is read from the
-  saved table by position (year, then the leaded regular value); the cold read noted that the column
-  is implied by position, not named on the row.
+- Gasoline: from EIA Annual Energy Review 2011 Table 5.24, leaded regular (nominal dollars) from 1949
+  while the table has it, unleaded regular from 1991 when leaded is "NA". Each item quotes the table's
+  whole header with its row, so the column can be read off. Prices of a dollar or more are given as
+  the table has them ("$1.311") and rounded half up in the question ("about $1.31"). The table's
+  notes say 1949 to 1973 come from Platt's Oil Price Handbook and Oilmanac and only later years are
+  annual averages, so the item says "the retail price", not "the average".
 
 ## Sources that failed
 
