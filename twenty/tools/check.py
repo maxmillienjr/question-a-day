@@ -26,7 +26,7 @@ FIELDS = {"category": str, "text": str, "question": str, "source_url": str,
           "source_file": str, "source_quote": (str, list), "checked": str, "sombre": bool}
 DASH = re.compile("[\u2012\u2013\u2014\u2015\u2E3A\u2E3B\uFE58\uFE63\uFF0D]")
 EMOJI = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\uFE0F\u200D\u2B00-\u2BFF]")
-SITE_FILES = ["docs/*.html", "docs/*.js", "docs/*.css", "README.md", "NOTES.md", "data/*.json"]
+SITE_FILES = ["../docs/twenty/*.html", "../docs/twenty/*.js", "../docs/twenty/*.css", "README.md", "NOTES.md", "data/*.json"]
 
 errors, warnings = [], []
 _cache = {}

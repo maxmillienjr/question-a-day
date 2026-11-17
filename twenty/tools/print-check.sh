@@ -6,11 +6,11 @@ cd "$(dirname "$0")/.."
 CHROME=${CHROME:-google-chrome}
 tmp=$(mktemp -d)
 trap 'rm -rf "$tmp"' EXIT
-url="file://$PWD/docs/index.html"
+url="file://$(cd ../docs/twenty && pwd)/index.html"
 years=$(node -e '
 const fs=require("fs"),vm=require("vm"),ctx={window:{}};
-vm.runInNewContext(fs.readFileSync("docs/years.js","utf8"),ctx);
-console.log(require("./docs/sheet.js").offered(ctx.window.WORLD_AT_TWENTY).join(" "));')
+vm.runInNewContext(fs.readFileSync("../docs/twenty/years.js","utf8"),ctx);
+console.log(require("../docs/twenty/sheet.js").offered(ctx.window.WORLD_AT_TWENTY).join(" "));')
 bad=0
 for y in $years; do
   rm -rf "$tmp/profile"

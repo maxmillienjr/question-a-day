@@ -6,9 +6,9 @@ const path = require("path");
 const vm = require("vm");
 const root = path.join(__dirname, "..");
 const ctx = { window: {} };
-vm.runInNewContext(fs.readFileSync(path.join(root, "docs", "years.js"), "utf8"), ctx);
+vm.runInNewContext(fs.readFileSync(path.join(root, "..", "docs", "twenty", "years.js"), "utf8"), ctx);
 const data = ctx.window.WORLD_AT_TWENTY;
-const S = require(path.join(root, "docs", "sheet.js"));
+const S = require(path.join(root, "..", "docs", "twenty", "sheet.js"));
 const share = { 10: 3, 20: 4, 30: 3 };
 let errors = 0, full = [];
 function fail(msg) { console.log("error:", msg); errors++; }
