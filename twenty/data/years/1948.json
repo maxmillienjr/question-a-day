@@ -1,0 +1,62 @@
+{
+  "year": 1948,
+  "items": [
+    {
+      "category": "song",
+      "text": "Dinah Shore's \"Buttons and Bows\" was a number-one song in the United States in 1948, according to Billboard magazine.",
+      "question": "Where were you living when Dinah Shore's \"Buttons and Bows\" was number one, and who in your house sang along?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1948",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1948.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1948 according to Billboard magazine.",
+        "\"Buttons and Bows\" Dinah Shore and her Happy Valley Boys"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "The ABC television network began broadcasting on April 19, 1948.",
+      "question": "Who was the first person you knew to own a television set when the ABC network began broadcasting, and what did you watch at their house?",
+      "source_url": "https://en.wikipedia.org/wiki/1948_in_the_United_States",
+      "source_file": "sources/wikipedia/1948-in-the-united-states.txt",
+      "source_quote": "April 19 – The ABC television network begins broadcasting.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The Cleveland Indians beat the Boston Braves, 4 games to 2, to win the World Series.",
+      "question": "Who in your family followed the World Series between Cleveland and Boston, and how did you hear the games?",
+      "source_url": "https://en.wikipedia.org/wiki/1948_in_the_United_States",
+      "source_file": "sources/wikipedia/1948-in-the-united-states.txt",
+      "source_quote": "October 11 – The Cleveland Indians defeat the Boston Braves to win the World Series in baseball, 4 games to 2.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "Harry S. Truman defeated Thomas E. Dewey and Strom Thurmond to win the 1948 presidential election.",
+      "question": "Where were you when you heard that Truman had beaten Dewey, and who in your house had been for which man?",
+      "source_url": "https://en.wikipedia.org/wiki/1948_in_the_United_States",
+      "source_file": "sources/wikipedia/1948-in-the-united-states.txt",
+      "source_quote": "1948 United States presidential election: Democratic incumbent Harry S. Truman defeats Republican Thomas E. Dewey and 'Dixiecrat' Strom Thurmond.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "year": 1939,
+  "items": [
+    {
+      "category": "news",
+      "text": "The Wizard of Oz, starring Judy Garland as Dorothy, premiered in Hollywood on August 15 and opened in movie theaters throughout the United States on August 25.",
+      "question": "Who took you to see The Wizard of Oz, and where did you see it?",
+      "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
+      "source_file": "sources/wikipedia/1939-in-the-united-states.txt",
+      "source_quote": "August 15 – MGM's classic color musical film The Wizard of Oz, based on L. Frank Baum's famous novel, and starring Judy Garland as Dorothy, premieres at Grauman's Chinese Theatre in Hollywood. On August 25 it is released in movie theaters throughout the United States.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Glenn Miller and his Orchestra's In the Mood was listed among the popular records of 1939 in the United States.",
+      "question": "Where were you when you first heard Glenn Miller's In the Mood, and who did you dance to it with?",
+      "source_url": "https://en.wikipedia.org/wiki/1939_in_music",
+      "source_file": "sources/wikipedia/1939-in-music.txt",
+      "source_quote": [
+        "The twenty-five popular records listed below",
+        "Glenn Miller and his Orchestra \"In the Mood\" Bluebird 10416 August 1, 1939 (1939-08-01) September 15, 1939 (1939-09-15) US Billboard 1939 #1, US #1 for 12 weeks, 30 total weeks, National Recording Registry 2004"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The New York World's Fair opened on April 30.",
+      "question": "Did you or anyone you knew go to the New York World's Fair, and what did they bring home or tell you about?",
+      "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
+      "source_file": "sources/wikipedia/1939-in-the-united-states.txt",
+      "source_quote": "April 30 – The 1939 New York World's Fair opens.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On July 4, Lou Gehrig gave his Farewell to Baseball speech at Yankee Stadium, saying he considered himself the luckiest man on the face of the earth.",
+      "question": "Who in your house followed baseball, and where were you when you heard about Lou Gehrig's farewell speech?",
+      "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
+      "source_file": "sources/wikipedia/1939-in-the-united-states.txt",
+      "source_quote": "July 4 – Lou Gehrig gives his \"Farewell to Baseball\" speech at Yankee Stadium. In it, he says, \"Today, I consider myself the luckiest man on the face of the earth.\"",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

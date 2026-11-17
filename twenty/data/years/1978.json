@@ -1,0 +1,48 @@
+{
+  "year": 1978,
+  "items": [
+    {
+      "category": "news",
+      "text": "The musical film Grease, starring John Travolta and Olivia Newton-John, was released on June 16, 1978.",
+      "question": "Where did you see Grease, and who did you go with?",
+      "source_url": "https://en.wikipedia.org/wiki/1978_in_the_United_States",
+      "source_file": "sources/wikipedia/1978-in-the-united-states.txt",
+      "source_quote": "June 16 – The musical film Grease is released, starring 24-year-old New Jersey born actor John Travolta and 29-year-old British-Australian actress and singer Olivia Newton-John.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "The Bee Gees' \"Stayin' Alive\" reached number one on the Billboard Hot 100 in the issue dated February 4, 1978, and held the top spot for four weeks.",
+      "question": "Where were you living when the Bee Gees' \"Stayin' Alive\" was number one, and where did you go dancing?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1978",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1978.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1978, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations, respectively. During the year, 20 different singles spent time at number one.",
+        "in the issue dated February 4, the Bee Gees returned to the top spot with \"Stayin' Alive\", which held the number-one position for four weeks."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The CBS soap opera Dallas began on April 2, 1978.",
+      "question": "Who in your house watched Dallas, and which character did they love to hate?",
+      "source_url": "https://en.wikipedia.org/wiki/1978_in_the_United_States",
+      "source_file": "sources/wikipedia/1978-in-the-united-states.txt",
+      "source_quote": "April 2 – The CBS soap opera Dallas is launched.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On October 17, 1978, the New York Yankees beat the Dodgers in Los Angeles to win the World Series, four games to two.",
+      "question": "Where did you watch or listen to the 1978 World Series, and who were you rooting for?",
+      "source_url": "https://en.wikipedia.org/wiki/1978_in_the_United_States",
+      "source_file": "sources/wikipedia/1978-in-the-united-states.txt",
+      "source_quote": "October 17 – The New York Yankees clinch their 22nd World Series championship, defeating the Dodgers 7–2 in Los Angeles and winning the Series 4 games to 2.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

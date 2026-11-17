@@ -1,0 +1,64 @@
+{
+  "year": 1999,
+  "items": [
+    {
+      "category": "song",
+      "text": "Cher's \"Believe\" reached number one on the Billboard Hot 100 in 1999, her first number-one single since 1974.",
+      "question": "Where were you living when Cher's \"Believe\" was number one, and who in your life could not stop singing it?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1999",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1999.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart that ranks the best singles of the United States. Published by Billboard magazine, the data are compiled by Nielsen SoundScan based collectively on each single's weekly physical sales and airplays. There were 15 singles that topped the chart this year.",
+        "Pop singer Cher earned her first number-one single since 1974 and fifth overall when \"Believe\" topped the chart.",
+        "Indicates best-performing single of 1999",
+        "840 March 13 \"Believe\"† Cher"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "SpongeBob SquarePants debuted on Nickelodeon on May 1, 1999.",
+      "question": "Who was the first person in your family to watch SpongeBob SquarePants, and did you end up watching it too?",
+      "source_url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+      "source_file": "sources/wikipedia/1999-in-the-united-states.txt",
+      "source_quote": "May 1 – The animated children's television series SpongeBob SquarePants debuts on the cable network Nickelodeon.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On July 10, 1999, Brandi Chastain scored the game winning penalty kick against China in the FIFA Women's World Cup.",
+      "question": "Where were you when Brandi Chastain scored the winning kick against China, and who was watching with you?",
+      "source_url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+      "source_file": "sources/wikipedia/1999-in-the-united-states.txt",
+      "source_quote": "July 10 – U.S. soccer player Brandi Chastain scores the game winning penalty kick against China in the FIFA Women's World Cup.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular unleaded gasoline was $1.165.",
+      "question": "What car was in your family when gas was about $1.17 a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "1999 NA NA 1.165 R 1.342"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "Microsoft released the first version of MSN Messenger on July 22, 1999.",
+      "question": "Who was the first person you chatted with on MSN Messenger, and what was your screen name?",
+      "source_url": "https://en.wikipedia.org/wiki/1999_in_the_United_States",
+      "source_file": "sources/wikipedia/1999-in-the-united-states.txt",
+      "source_quote": "July 22 – The first version of MSN Messenger is released by Microsoft.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

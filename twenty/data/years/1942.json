@@ -1,0 +1,65 @@
+{
+  "year": 1942,
+  "items": [
+    {
+      "category": "song",
+      "text": "Bing Crosby's \"White Christmas\" was a number-one song in the United States in 1942, according to The Billboard.",
+      "question": "Where were you living when Bing Crosby's \"White Christmas\" was number one, and who in your house sang it?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1942",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1942.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1942 according to The Billboard.",
+        "\"White Christmas\" Bing Crosby with the Ken Darby Singers and John Scott Trotter and His Orchestra"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On November 26, the movie Casablanca premiered at the Hollywood Theater in New York City.",
+      "question": "Do you remember where you first saw Casablanca, and who you went to the pictures with?",
+      "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
+      "source_file": "sources/wikipedia/1942-in-the-united-states.txt",
+      "source_quote": "November 26 – The movie Casablanca premieres at the Hollywood Theater in New York City.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "Coffee rationing began in the United States on November 29, and gasoline rationing began on December 1.",
+      "question": "Who in your family kept track of the rationing once coffee and gasoline were rationed, and what did your house cut back on?",
+      "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
+      "source_file": "sources/wikipedia/1942-in-the-united-states.txt",
+      "source_quote": [
+        "November 29 – Coffee rationing begins in the United States.",
+        "December 1 – Gasoline rationing begins in the United States."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The St. Louis Cardinals beat the New York Yankees, 4 games to 1, to win the World Series.",
+      "question": "Who in your family followed the World Series between St. Louis and New York, and which team were they for?",
+      "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
+      "source_file": "sources/wikipedia/1942-in-the-united-states.txt",
+      "source_quote": "October 5 – The St. Louis Cardinals defeat the New York Yankees, 4 games to 1, to win their 4th World Series Title.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

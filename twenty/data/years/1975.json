@@ -1,0 +1,62 @@
+{
+  "year": 1975,
+  "items": [
+    {
+      "category": "news",
+      "text": "NBC aired the first episode of Saturday Night Live on October 11, 1975, with George Carlin as the first host.",
+      "question": "Do you remember watching Saturday Night Live in its early years, and who stayed up late with you?",
+      "source_url": "https://en.wikipedia.org/wiki/1975_in_the_United_States",
+      "source_file": "sources/wikipedia/1975-in-the-united-states.txt",
+      "source_quote": "October 11 – NBC airs the first episode of Saturday Night Live (George Carlin is the first host; Billy Preston and Janis Ian the first musical guests).",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Captain & Tennille's \"Love Will Keep Us Together\" was the longest-running number one on the Billboard Hot 100 in 1975, with four weeks at the top in June and July.",
+      "question": "Where were you living when Captain & Tennille's \"Love Will Keep Us Together\" was number one that summer, and who sang along with it?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1975",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1975.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1975, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations respectively. During the year, 35 different singles spent time at number one.",
+        "the year's longest-running number one, \"Love Will Keep Us Together\" by Captain & Tennille, which spent four weeks in the top spot in June and July."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On October 21, 1975, the Boston Red Sox beat the Cincinnati Reds in Game 6 of the World Series on Carlton Fisk's 12th-inning home run, and the Reds won the series in Game 7 the next day.",
+      "question": "Who in your family watched the 1975 World Series between Boston and Cincinnati, and where did you see Carlton Fisk's home run?",
+      "source_url": "https://en.wikipedia.org/wiki/1975_in_the_United_States",
+      "source_file": "sources/wikipedia/1975-in-the-united-states.txt",
+      "source_quote": "October 21 – 1975 World Series: US baseball team the Boston Red Sox defeat the Cincinnati Reds in Game 6 off Carlton Fisk's 12th-inning home run in one of the most famous World Series games ever played. The following day, the series ends with Game 7 victory by the Reds",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 56.7 cents.",
+      "question": "What car was in your family when gas was about 57 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Year Motor Gasoline by Grade Regular Motor Gasoline by Area Type On-Highway Diesel Fuel Leaded Regular Unleaded Regular Unleaded Premium All Grades Conventional Gasoline Areas 1,2 Reformulated Gasoline Areas 3,4 All Areas Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Real 6 Nominal 5 Nominal 5 Nominal 5 Nominal 5",
+        "1975 .567 R 1.688"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "technology",
+      "text": "On July 17, 1975, an American Apollo and a Soviet Soyuz spacecraft docked in orbit, the first such link-up between spacecraft from the two nations.",
+      "question": "Do you remember the Apollo and Soyuz spacecraft meeting in orbit, and where you saw the news?",
+      "source_url": "https://en.wikipedia.org/wiki/1975_in_the_United_States",
+      "source_file": "sources/wikipedia/1975-in-the-united-states.txt",
+      "source_quote": "July 17 – Apollo–Soyuz Test Project: An American Apollo and Soviet Soyuz spacecraft dock in orbit, marking the first such link-up between spacecraft from the two nations.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

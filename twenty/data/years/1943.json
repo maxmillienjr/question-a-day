@@ -1,0 +1,62 @@
+{
+  "year": 1943,
+  "items": [
+    {
+      "category": "song",
+      "text": "The Mills Brothers' \"Paper Doll\" was a number-one song in the United States in 1943, according to The Billboard.",
+      "question": "Where were you living when the Mills Brothers' \"Paper Doll\" was number one, and who in your house sang along?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1943",
+      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1943.txt",
+      "source_quote": [
+        "This is a list of number-one songs in the United States during the year 1943 according to The Billboard.",
+        "\"Paper Doll\" The Mills Brothers"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 3 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost three cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "July 6, 1932 3 August 1, 1958 4"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "Rodgers and Hammerstein's Oklahoma! opened on Broadway on March 31.",
+      "question": "When did you first hear the songs from Oklahoma!, and who in your house sang them?",
+      "source_url": "https://en.wikipedia.org/wiki/1943_in_the_United_States",
+      "source_file": "sources/wikipedia/1943-in-the-united-states.txt",
+      "source_quote": "March 31 – Rodgers and Hammerstein's Oklahoma! opens on Broadway",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On June 6, the first game of the All-American Girls Professional Baseball League was played.",
+      "question": "Do you remember hearing about the women's professional baseball league, and did any girl you knew play ball?",
+      "source_url": "https://en.wikipedia.org/wiki/1943_in_the_United_States",
+      "source_file": "sources/wikipedia/1943-in-the-united-states.txt",
+      "source_quote": "June 6 – The first game of the All-American Girls Professional Baseball League is played",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On February 7, it was announced that shoe rationing would go into effect in the United States two days later.",
+      "question": "Who in your family needed new shoes once shoes were rationed, and how did you make the old ones last?",
+      "source_url": "https://en.wikipedia.org/wiki/1943_in_the_United_States",
+      "source_file": "sources/wikipedia/1943-in-the-united-states.txt",
+      "source_quote": "February 7 – WWII: It is announced that shoe rationing will go into effect in the US in two days.",
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}
