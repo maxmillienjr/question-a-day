@@ -28,7 +28,8 @@ A year with nothing gentle in a category leaves that category empty rather than 
 - `docs/`: the site, ready to serve as static files. `docs/sheet.js` holds the rule that picks a
   sheet: the year at 20 takes four items, then the years at 10 and 30 take three each; within a year
   it takes the first item of each category in file order, then the rest in order, and skips any fact
-  already on the sheet. Same birth year, same sheet. A short year gives a short group; nothing is padded.
+  already on the sheet. Each price series (letter postage, gasoline) appears at most once per sheet,
+  in the first age that takes it (20, then 10, then 30). Same birth year, same sheet. A short year gives a short group; nothing is padded.
 - `NOTES.md`: what is verified, what is not, and which sources failed.
 
 ## Check

@@ -134,6 +134,66 @@ window.WORLD_AT_TWENTY = {
    "credit": "Wikipedia contributors, \"1961 in the United States\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
+  "https://en.wikipedia.org/wiki/1962_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1962 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1963_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1963 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1964_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1964 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1965_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1965 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1966_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1966 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1967_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1967 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1968_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1968 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1969_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1969 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1970_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1970 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1971_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1971 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1972_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1972 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1973_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1973 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1974_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1974 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1975_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1975 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1976_in_the_United_States": {
+   "credit": "Wikipedia contributors, \"1976 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1959": {
    "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1959\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
@@ -144,6 +204,66 @@ window.WORLD_AT_TWENTY = {
   },
   "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1961": {
    "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1961\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1962": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1962\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1963": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1963\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1964": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1964\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1965": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1965\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1966": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1966\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1967": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1967\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1968": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1968\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1969": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1969\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1970": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1970\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1971": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1971\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1972": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1972\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1973": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1973\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1974": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1974\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1975": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1975\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1976": {
+   "credit": "Wikipedia contributors, \"List of Billboard Hot 100 number ones of 1976\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
   "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1940": {
@@ -1309,6 +1429,631 @@ window.WORLD_AT_TWENTY = {
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
     "text": "Roger Maris of the New York Yankees hit his 61st home run on October 1, 1961, in the last game of the season, beating the record held by Babe Ruth."
+   }
+  ],
+  "1962": [
+   {
+    "category": "news",
+    "question": "Who watched The Jetsons with you, and which of their gadgets did you wish you had?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1962_in_the_United_States",
+    "text": "The cartoon sitcom The Jetsons premiered on ABC on September 23, 1962."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost four cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 4 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Who taught you to do the twist, and where were you dancing it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1962",
+    "text": "Chubby Checker took \"The Twist\", a number one in 1960, back to number one on the Billboard Hot 100 in 1962."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 31 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 30.6 cents."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you when John Glenn went around the Earth, and were you watching on television or listening on the radio?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1962_in_the_United_States",
+    "text": "On February 20, 1962, aboard Friendship 7, John Glenn became the first American to orbit the Earth."
+   },
+   {
+    "category": "news",
+    "question": "Where did your family go to shop for everyday things in those years, and who did the shopping?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1962_in_the_United_States",
+    "text": "The first Wal-Mart store opened for business in Rogers, Arkansas, on July 2, 1962."
+   }
+  ],
+  "1963": [
+   {
+    "category": "technology",
+    "question": "Do you remember the first push-button telephone you used, and whose house was it in?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1963_in_the_United_States",
+    "text": "The first push-button telephone was made available to AT&T customers in the United States on November 18, 1963."
+   },
+   {
+    "category": "news",
+    "question": "What was the address and ZIP code of the place you were living then, and do you still know it by heart?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1963_in_the_United_States",
+    "text": "ZIP codes were introduced in the United States on July 1, 1963."
+   },
+   {
+    "category": "song",
+    "question": "Where were you when \"Sugar Shack\" was on the radio, and who were you riding around with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1963",
+    "text": "Jimmy Gilmer and the Fireballs' \"Sugar Shack\" spent five weeks at number one on the Billboard Hot 100, the longest run at the top in 1963."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 30 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 30.4 cents."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when you heard that President Kennedy had died, and who told you?",
+    "sombre": true,
+    "source_url": "https://en.wikipedia.org/wiki/1963_in_the_United_States",
+    "text": "President Kennedy was assassinated on November 22, 1963."
+   }
+  ],
+  "1964": [
+   {
+    "category": "news",
+    "question": "Where were you the night the Beatles were on Ed Sullivan, and who was in the room watching with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1964_in_the_United_States",
+    "text": "The Beatles appeared on The Ed Sullivan Show on February 9, 1964, their first live performance on American television."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost five cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 5 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Who in your house bought the first Beatles record, and where did you play it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1964",
+    "text": "The Beatles' \"I Want to Hold Your Hand\", their first number one on the Billboard Hot 100, reached the top in the issue dated February 1, 1964, and spent seven weeks there."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 30 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 30.4 cents."
+   },
+   {
+    "category": "technology",
+    "question": "Who was the first person you knew to own a Mustang, and did you ever get a ride in it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1964_in_the_United_States",
+    "text": "The Ford Mustang was unveiled to the public on April 17, 1964."
+   },
+   {
+    "category": "news",
+    "question": "Who did you watch Rudolph the Red-Nosed Reindeer with, and did it become a Christmas tradition in your house?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1964_in_the_United_States",
+    "text": "The stop-motion special Rudolph the Red-Nosed Reindeer was broadcast for the first time on NBC on December 6, 1964."
+   }
+  ],
+  "1965": [
+   {
+    "category": "news",
+    "question": "Who did you watch A Charlie Brown Christmas with the first time, and where were you living?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1965_in_the_United_States",
+    "text": "A Charlie Brown Christmas, the first Peanuts television special, debuted on CBS on December 9, 1965."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost five cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 5 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Were you a Rolling Stones person or a Beatles person in 1965, and who did you argue about it with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1965",
+    "text": "The Rolling Stones' \"(I Can't Get No) Satisfaction\" and the Beatles' \"Yesterday\" each spent four weeks at number one on the Billboard Hot 100 in 1965, tied for the year's longest-running number one."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 31 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 31.2 cents."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember seeing the pictures of Ed White floating outside his spacecraft, and where did you see them?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1965_in_the_United_States",
+    "text": "On June 3, 1965, during the Gemini 4 flight, astronaut Ed White made the first U.S. space walk."
+   },
+   {
+    "category": "news",
+    "question": "Who were you rooting for in the 1965 World Series, and where did you follow the games?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1965_in_the_United_States",
+    "text": "The Los Angeles Dodgers beat the Minnesota Twins, 4 games to 3, to win the World Series on October 14, 1965."
+   }
+  ],
+  "1966": [
+   {
+    "category": "news",
+    "question": "Who in your house watched Star Trek from the start, and which character was their favorite?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1966_in_the_United_States",
+    "text": "Star Trek premiered on NBC on September 8, 1966."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost five cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 5 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Did you watch The Monkees on television, and who did you know who had their record?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1966",
+    "text": "The Monkees, a band put together for the NBC TV comedy series The Monkees, reached number one on the Billboard Hot 100 in November 1966 with their debut single, \"Last Train to Clarksville\"."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 32 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 32.1 cents."
+   },
+   {
+    "category": "technology",
+    "question": "What car were you or your friends driving in 1966, and who did you know who wanted a Camaro?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1966_in_the_United_States",
+    "text": "The Chevrolet Camaro was introduced on September 29, 1966."
+   },
+   {
+    "category": "news",
+    "question": "Where were you living when How the Grinch Stole Christmas first came on television, and who watched it with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1966_in_the_United_States",
+    "text": "How the Grinch Stole Christmas, narrated by Boris Karloff, was shown for the first time on CBS on December 18, 1966."
+   }
+  ],
+  "1967": [
+   {
+    "category": "news",
+    "question": "Who did you watch The Carol Burnett Show with, and which sketch do you still remember?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1967_in_the_United_States",
+    "text": "The Carol Burnett Show premiered on CBS on September 11, 1967."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost five cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 5 cents an ounce."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember your first Big Mac, and who were you with when you ate it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1967_in_the_United_States",
+    "text": "McDonald's introduced the Big Mac hamburger on April 22, 1967, in Uniontown, Pennsylvania."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 33 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 33.2 cents."
+   },
+   {
+    "category": "news",
+    "question": "Who in your family watched the first Super Bowl between Green Bay and Kansas City, and where did you see it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1967_in_the_United_States",
+    "text": "The Green Bay Packers beat the Kansas City Chiefs, 35 to 10, in Super Bowl I on January 15, 1967."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Aretha Franklin's \"Respect\" was on the radio, and who in your house sang along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1967",
+    "text": "Aretha Franklin's \"Respect\" reached number one on the Billboard Hot 100 in June 1967."
+   }
+  ],
+  "1968": [
+   {
+    "category": "news",
+    "question": "Do you remember the first time you saw Mister Rogers' Neighborhood, and who was watching it in your house?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1968_in_the_United_States",
+    "text": "NET televised the very first episode of Mister Rogers' Neighborhood in 1968."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when the Beatles' \"Hey Jude\" was on the radio, and who in your house sang along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1968",
+    "text": "The Beatles' \"Hey Jude\" reached number one on the Billboard Hot 100 in September 1968 and spent nine weeks there."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you on Christmas Eve 1968 when the Apollo 8 crew read from Genesis on television, and who was watching with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1968_in_the_United_States",
+    "text": "Apollo 8 went into orbit around the Moon on December 24, 1968, and its crew read from the Book of Genesis in a live television broadcast."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 34 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 33.7 cents."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when you heard that Martin Luther King Jr. had been killed, and who told you?",
+    "sombre": true,
+    "source_url": "https://en.wikipedia.org/wiki/1968_in_the_United_States",
+    "text": "Martin Luther King Jr. was killed on April 4, 1968."
+   }
+  ],
+  "1969": [
+   {
+    "category": "news",
+    "question": "Do you remember the first time you saw Sesame Street, and who in your house watched it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1969_in_the_United_States",
+    "text": "The children's television show Sesame Street premiered on NET, now PBS, on November 10, 1969."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost six cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 6 cents an ounce."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you when Neil Armstrong stepped onto the Moon, and who was watching the television with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1969_in_the_United_States",
+    "text": "On July 20, 1969, Apollo 11's Lunar Module Eagle landed on the Moon, and Neil Armstrong took the first steps by a human on its surface."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 35 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 34.8 cents."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember hearing about Woodstock that August, and did you know anyone who went?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1969_in_the_United_States",
+    "text": "The Woodstock Festival was held in upstate New York from August 15 to 18, 1969, featuring some of the era's top rock musicians."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"Sugar, Sugar\" by the Archies was on the radio, and who in your house sang along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1969",
+    "text": "\"Sugar, Sugar\" by the Archies, a made-up group of characters from the animated television series The Archie Show, reached number one on the Billboard Hot 100 in September 1969."
+   }
+  ],
+  "1970": [
+   {
+    "category": "news",
+    "question": "Do you remember the first Earth Day, and did your school, church or town do anything for it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+    "text": "The first Earth Day was celebrated in the United States on April 22, 1970."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost six cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 6 cents an ounce."
+   },
+   {
+    "category": "technology",
+    "question": "Did anyone you knew buy a Vega or a Pinto, and where do you remember riding in it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+    "text": "The Chevrolet Vega and the Ford Pinto were introduced in September 1970."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 36 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 35.7 cents."
+   },
+   {
+    "category": "news",
+    "question": "Who in your house watched Monday Night Football, and where did everyone sit for it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1970_in_the_United_States",
+    "text": "Monday Night Football debuted on ABC on September 21, 1970."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when the Jackson 5 were on the radio, and which of their songs did you know by heart?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1970",
+    "text": "The Jackson 5 had four number ones on the Billboard Hot 100 in 1970: \"I Want You Back\", \"ABC\", \"The Love You Save\" and \"I'll Be There\"."
+   }
+  ],
+  "1971": [
+   {
+    "category": "news",
+    "question": "Who was the first person you knew to go to Walt Disney World, and what did they tell you about it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1971_in_the_United_States",
+    "text": "Walt Disney World opened in Orlando, Florida, on October 1, 1971."
+   },
+   {
+    "category": "news",
+    "question": "Who in your house watched All in the Family, and who laughed hardest at Archie Bunker?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1971_in_the_United_States",
+    "text": "The television sitcom All in the Family, starring Carroll O'Connor as Archie Bunker, debuted on CBS on January 12, 1971."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember seeing the astronauts drive the lunar rover on the Moon, and where were you watching?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1971_in_the_United_States",
+    "text": "On July 31, 1971, Apollo 15 astronauts David Scott and James Irwin became the first to ride in a lunar rover, a day after landing on the Moon."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 36 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 36.4 cents."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when \"Joy to the World\" by Three Dog Night was on the radio, and who in your house sang along?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1971",
+    "text": "Three Dog Night's \"Joy to the World\" reached number one on the Billboard Hot 100 in April 1971 and spent six weeks there, the longest run at number one that year."
+   }
+  ],
+  "1972": [
+   {
+    "category": "news",
+    "question": "Who did you watch M*A*S*H with, and which character was the favorite in your house?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1972_in_the_United_States",
+    "text": "The television series M*A*S*H began its run on CBS on September 17, 1972."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost eight cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 8 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Don McLean's \"American Pie\" was on the radio, and who could sing all the words?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1972",
+    "text": "Don McLean's \"American Pie\" reached number one on the Billboard Hot 100 in January 1972, his first number one."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 36 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 36.1 cents."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the first time you played Pong, and where the machine was?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1972_in_the_United_States",
+    "text": "On November 29, 1972, Atari released the arcade version of Pong, the first video game to achieve commercial success."
+   },
+   {
+    "category": "technology",
+    "question": "Where were you when the last Apollo astronauts walked on the Moon, and who did you watch it with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1972_in_the_United_States",
+    "text": "On December 14, 1972, Eugene Cernan and Harrison Schmitt finished the final moonwalk of Apollo 17, the last crewed mission to the Moon of the 20th century."
+   }
+  ],
+  "1973": [
+   {
+    "category": "news",
+    "question": "Who did you watch A Charlie Brown Thanksgiving with, and where was your family having Thanksgiving that year?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1973_in_the_United_States",
+    "text": "The animated special A Charlie Brown Thanksgiving premiered on CBS on November 20, 1973."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost eight cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 8 cents an ounce."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Roberta Flack's \"Killing Me Softly with His Song\" was on the radio, and who in your house had the record?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1973",
+    "text": "Roberta Flack's \"Killing Me Softly with His Song\" was the longest-running number one on the Billboard Hot 100 in 1973, with five weeks at the top."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 39 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 38.8 cents."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when Secretariat won the Belmont Stakes, and who did you watch the race with?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1973_in_the_United_States",
+    "text": "On June 9, 1973, Secretariat won the Belmont Stakes by 31 lengths and became a Triple Crown winner, the first since 1948."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember seeing Skylab in the news, and who in your family followed the space program?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1973_in_the_United_States",
+    "text": "Skylab, the United States' first space station, was launched on May 14, 1973."
+   }
+  ],
+  "1974": [
+   {
+    "category": "news",
+    "question": "Who did you watch Happy Days with, and where were you living when it started?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1974_in_the_United_States",
+    "text": "Happy Days, a sitcom about life in the 1950s, debuted on ABC on January 15, 1974."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Barbra Streisand's \"The Way We Were\" was on the radio, and did you see the film, and with whom?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1974",
+    "text": "Barbra Streisand's \"The Way We Were\", from the film of the same name in which she starred, spent three weeks at number one on the Billboard Hot 100 in 1974."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when Hank Aaron hit his 715th home run, and who did you hear about it from?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1974_in_the_United_States",
+    "text": "On April 8, 1974, Hank Aaron of the Atlanta Braves broke Babe Ruth's home run record with his 715th career home run."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 53 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 53.2 cents."
+   },
+   {
+    "category": "news",
+    "question": "Where were you when you heard that President Nixon had resigned, and who told you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1974_in_the_United_States",
+    "text": "On August 9, 1974, Richard Nixon resigned as President, and Vice President Gerald R. Ford became the 38th president."
+   }
+  ],
+  "1975": [
+   {
+    "category": "news",
+    "question": "Do you remember watching Saturday Night Live in its early years, and who stayed up late with you?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1975_in_the_United_States",
+    "text": "NBC aired the first episode of Saturday Night Live on October 11, 1975, with George Carlin as the first host."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Captain & Tennille's \"Love Will Keep Us Together\" was on the radio that summer, and who sang along with it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1975",
+    "text": "Captain & Tennille's \"Love Will Keep Us Together\" was the longest-running number one on the Billboard Hot 100 in 1975, with four weeks at the top in June and July."
+   },
+   {
+    "category": "news",
+    "question": "Who in your family watched the 1975 World Series between Boston and Cincinnati, and where did you see Carlton Fisk's home run?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1975_in_the_United_States",
+    "text": "On October 21, 1975, the Boston Red Sox beat the Cincinnati Reds in Game 6 of the World Series on Carlton Fisk's 12th-inning home run, and the Reds won the series in Game 7 the next day."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 57 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 56.7 cents."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember the Apollo and Soyuz spacecraft meeting in orbit, and where you saw the news?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1975_in_the_United_States",
+    "text": "On July 17, 1975, an American Apollo and a Soviet Soyuz spacecraft docked in orbit, the first such link-up between spacecraft from the two nations."
+   }
+  ],
+  "1976": [
+   {
+    "category": "news",
+    "question": "Where did you spend the Fourth of July in 1976, and who was with you for the Bicentennial?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1976_in_the_United_States",
+    "text": "On July 4, 1976, the United States celebrated the Bicentennial, the 200th anniversary of the Declaration of Independence, from coast to coast."
+   },
+   {
+    "category": "price",
+    "question": "Where were you living when a stamp for a letter cost thirteen cents, and who did you write to?",
+    "sombre": false,
+    "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+    "text": "Postage for a domestic letter was 13 cents for the first ounce."
+   },
+   {
+    "category": "news",
+    "question": "Do you remember getting your first new two-dollar bill, and did you spend it or keep it?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1976_in_the_United_States",
+    "text": "On April 13, 1976, the Treasury Department reintroduced the two-dollar bill, as part of the United States Bicentennial celebration."
+   },
+   {
+    "category": "price",
+    "question": "What car was in your family when gas was about 59 cents a gallon, and who did the driving?",
+    "sombre": false,
+    "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+    "text": "The retail price of a gallon of regular leaded gasoline was 59.0 cents."
+   },
+   {
+    "category": "song",
+    "question": "Where were you living when Rod Stewart's \"Tonight's the Night\" was on the radio, and who played it most?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1976",
+    "text": "Rod Stewart's \"Tonight's the Night (Gonna Be Alright)\" was the longest-running number one on the Billboard Hot 100 in 1976, with seven weeks at the top to close the year."
+   },
+   {
+    "category": "technology",
+    "question": "Do you remember Viking 2 landing on Mars, and where you saw the news?",
+    "sombre": false,
+    "source_url": "https://en.wikipedia.org/wiki/1976_in_the_United_States",
+    "text": "On September 3, 1976, the Viking 2 spacecraft landed on Mars."
    }
   ]
  }

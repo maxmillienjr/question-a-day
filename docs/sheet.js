@@ -8,10 +8,14 @@
 
   // Walk the year's items in file order: first one item of each category not yet
   // used in this group, then the rest in order, until the group's share is full.
-  // An item whose text is already on the sheet (the same stamp price in two years)
-  // is skipped. A short year gives a short group; nothing is padded.
+  // A price series (letter postage, gasoline) appears once per sheet, so an item
+  // whose series is already on the sheet is skipped; so is any repeated fact.
+  // A short year gives a short group; nothing is padded.
+  function key(it) {
+    return it.category === "price" ? "price: " + it.text.split(" ").slice(0, 5).join(" ") : it.text;
+  }
   function pickGroup(items, n, taken) {
-    var pool = items.filter(function (it) { return !taken[it.text]; });
+    var pool = items.filter(function (it) { return !taken[key(it)]; });
     var out = [], cats = {};
     pool.forEach(function (it) {
       if (out.length < n && !cats[it.category]) { cats[it.category] = true; out.push(it); }
@@ -23,7 +27,7 @@
       if (a.sombre !== b.sombre) return a.sombre ? 1 : -1; // a sombre item is never first
       return items.indexOf(a) - items.indexOf(b);
     });
-    out.forEach(function (it) { taken[it.text] = true; });
+    out.forEach(function (it) { taken[key(it)] = true; });
     return out;
   }
 
@@ -46,7 +50,7 @@
     return out;
   }
 
-  var api = { sheet: sheet, offered: offered, FIRST: FIRST, LAST: LAST };
+  var api = { sheet: sheet, offered: offered, key: key, FIRST: FIRST, LAST: LAST };
   if (typeof module !== "undefined" && module.exports) module.exports = api;
   else root.WorldSheet = api;
 })(this);

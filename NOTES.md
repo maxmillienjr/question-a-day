@@ -47,6 +47,12 @@ Where two Wikipedia pages disagree (the TV dinner: Swanson on the 1953 page, Ger
   disputed and not something to read aloud as fact. 1941: Pearl Harbor is the year's one sombre item,
   worded "Pearl Harbor in Hawaii was attacked, and the United States was drawn into World War II".
 - 1943's "Oklahoma!" keeps its exclamation mark because it is the title.
+- Sombre items so far: 1941 Pearl Harbor, 1945 President Roosevelt's death, 1950 the start of the
+  Korean War, 1963 President Kennedy, 1968 Martin Luther King Jr. (worded "was killed on April 4,
+  1968", without the place or the manner the source gives). Each is last in its year and its question
+  asks where the person was and who told them.
+- Each price series (postage, gasoline) appears once per sheet, so a sheet never asks the stamp
+  question three times.
 
 ## Not yet verified
 

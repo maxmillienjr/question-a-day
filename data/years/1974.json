@@ -1,0 +1,66 @@
+{
+  "year": 1974,
+  "items": [
+    {
+      "category": "news",
+      "text": "Happy Days, a sitcom about life in the 1950s, debuted on ABC on January 15, 1974.",
+      "question": "Who did you watch Happy Days with, and where were you living when it started?",
+      "source_url": "https://en.wikipedia.org/wiki/1974_in_the_United_States",
+      "source_file": "sources/wikipedia/1974-in-the-united-states.txt",
+      "source_quote": "January 15 – Happy Days, a sitcom about life in the 1950s, debuts on ABC.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Barbra Streisand's \"The Way We Were\", from the film of the same name in which she starred, spent three weeks at number one on the Billboard Hot 100 in 1974.",
+      "question": "Where were you living when Barbra Streisand's \"The Way We Were\" was on the radio, and did you see the film, and with whom?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1974",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1974.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1974, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations, respectively. During the year, 36 different singles spent time at number one, the most in the chart's history to that point.",
+        "it was a further ten years before she reached the peak position on the Hot 100 with \"The Way We Were\". The song was taken from the soundtrack of the film of the same name, in which she starred.",
+        "\"The Way We Were\" spent three non-consecutive weeks at number one"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On April 8, 1974, Hank Aaron of the Atlanta Braves broke Babe Ruth's home run record with his 715th career home run.",
+      "question": "Where were you when Hank Aaron hit his 715th home run, and who did you hear about it from?",
+      "source_url": "https://en.wikipedia.org/wiki/1974_in_the_United_States",
+      "source_file": "sources/wikipedia/1974-in-the-united-states.txt",
+      "source_quote": "April 8 – Hank Aaron of the Atlanta Braves breaks Babe Ruth's home run record, by hitting his 715th career home run",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 53.2 cents.",
+      "question": "What car was in your family when gas was about 53 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Leaded Regular",
+        "1974 .532 R 1.733"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "On August 9, 1974, Richard Nixon resigned as President, and Vice President Gerald R. Ford became the 38th president.",
+      "question": "Where were you when you heard that President Nixon had resigned, and who told you?",
+      "source_url": "https://en.wikipedia.org/wiki/1974_in_the_United_States",
+      "source_file": "sources/wikipedia/1974-in-the-united-states.txt",
+      "source_quote": [
+        "August 9 – Richard Nixon becomes the first president of the United States to resign from office",
+        "Vice President Gerald R. Ford becomes the 38th president upon Nixon's resignation"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

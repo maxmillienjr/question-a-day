@@ -1,0 +1,76 @@
+{
+  "year": 1967,
+  "items": [
+    {
+      "category": "news",
+      "text": "The Carol Burnett Show premiered on CBS on September 11, 1967.",
+      "question": "Who did you watch The Carol Burnett Show with, and which sketch do you still remember?",
+      "source_url": "https://en.wikipedia.org/wiki/1967_in_the_United_States",
+      "source_file": "sources/wikipedia/1967-in-the-united-states.txt",
+      "source_quote": "September 11 – Sketch comedy series The Carol Burnett Show premieres on CBS.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "Postage for a domestic letter was 5 cents an ounce.",
+      "question": "Where were you living when a stamp for a letter cost five cents, and who did you write to?",
+      "source_url": "https://about.usps.com/who/profile/history/domestic-letter-rates-since-1863.htm",
+      "source_file": "sources/government/usps-domestic-letter-rates.txt",
+      "source_quote": [
+        "Rates for Domestic Letters Since 1863",
+        "Postage in Cents, per Ounce",
+        "January 7, 1963 5 January 7, 1968 6"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "McDonald's introduced the Big Mac hamburger on April 22, 1967, in Uniontown, Pennsylvania.",
+      "question": "Do you remember your first Big Mac, and who were you with when you ate it?",
+      "source_url": "https://en.wikipedia.org/wiki/1967_in_the_United_States",
+      "source_file": "sources/wikipedia/1967-in-the-united-states.txt",
+      "source_quote": "April 22 – The McDonald's fast food restaurant chain introduces the Big Mac hamburger, in Uniontown, Pennsylvania.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "price",
+      "text": "The retail price of a gallon of regular leaded gasoline was 33.2 cents.",
+      "question": "What car was in your family when gas was about 33 cents a gallon, and who did the driving?",
+      "source_url": "https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0524",
+      "source_file": "sources/government/eia-retail-gasoline-prices.txt",
+      "source_quote": [
+        "Retail Motor Gasoline and On-Highway Diesel Fuel Prices, 1949-2011 (Dollars per Gallon)",
+        "Leaded Regular",
+        "1967 .332 R 1.571"
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "news",
+      "text": "The Green Bay Packers beat the Kansas City Chiefs, 35 to 10, in Super Bowl I on January 15, 1967.",
+      "question": "Who in your family watched the first Super Bowl between Green Bay and Kansas City, and where did you see it?",
+      "source_url": "https://en.wikipedia.org/wiki/1967_in_the_United_States",
+      "source_file": "sources/wikipedia/1967-in-the-united-states.txt",
+      "source_quote": "January 15 – Super Bowl I: The Green Bay Packers defeat the Kansas City Chiefs 35–10 in football at the Los Angeles Memorial Coliseum.",
+      "checked": "2026-11-17",
+      "sombre": false
+    },
+    {
+      "category": "song",
+      "text": "Aretha Franklin's \"Respect\" reached number one on the Billboard Hot 100 in June 1967.",
+      "question": "Where were you living when Aretha Franklin's \"Respect\" was on the radio, and who in your house sang along?",
+      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1967",
+      "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1967.txt",
+      "source_quote": [
+        "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1967, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations respectively, and 19 different singles spent time at number one.",
+        "In June, Aretha Franklin, known as the \"Queen of Soul\", gained the only solo Hot 100 number one of her career with \"Respect\"."
+      ],
+      "checked": "2026-11-17",
+      "sombre": false
+    }
+  ]
+}

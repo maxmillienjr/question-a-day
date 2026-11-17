@@ -22,8 +22,8 @@ for (let b = S.FIRST; b <= S.LAST; b++) {
     if (g.items.length && g.items[0].sombre) fail(`${b} at ${g.age}: sombre item first`);
     if (g.items.filter((i) => i.sombre).length > 1) fail(`${b} at ${g.age}: two sombre items`);
     for (const it of g.items) {
-      if (seen.has(it.text)) fail(`${b}: repeated item ${it.text}`);
-      seen.add(it.text);
+      if (seen.has(S.key(it))) fail(`${b}: repeated item or price series ${S.key(it)}`);
+      seen.add(S.key(it));
       if (!/^https:\/\//.test(it.source_url) || !data.sources[it.source_url]) fail(`${b}: item without a credited source`);
       count++;
     }
