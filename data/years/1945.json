@@ -27,13 +27,14 @@
     },
     {
       "category": "song",
-      "text": "Sentimental Journey, by Les Brown and His Orchestra with Doris Day, was a number-one single on The Billboard's national singles charts in 1945.",
-      "question": "Where were you living when Doris Day was singing Sentimental Journey on the radio, and who had the radio or record player?",
-      "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1945",
-      "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1945.txt",
+      "text": "Sentimental Journey, by Les Brown and his Orchestra with Doris Day singing, was listed among the top popular records of 1945 in the United States.",
+      "question": "Where were you living when Sentimental Journey with Doris Day was a popular record, and who had the record?",
+      "source_url": "https://en.wikipedia.org/wiki/1945_in_music",
+      "source_file": "sources/wikipedia/1945-in-music.txt",
       "source_quote": [
-        "Prior to the introduction of the Hot 100, The Billboard compiled multiple weekly record charts ranking the performance of singles in the United States. In 1945, the magazine published the following four all-genre national singles charts:",
-        "\"Sentimental Journey\" Les Brown and His Orchestra with Doris Day"
+        "US charts 1945",
+        "The following songs appeared in The Billboard's 'Best Selling Retail Records', 'Records Most-Played On the Air' and 'Most Played Juke Box Records' charts during 1945.",
+        "Les Brown and his Orchestra (Vocal Chorus by Doris Day) \"Sentimental Journey\" Columbia 36769 November 20, 1944 (1944-11-20) January 22, 1945 (1945-01-22) US 1945 #3"
       ],
       "checked": "2026-11-17",
       "sombre": false

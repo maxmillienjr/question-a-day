@@ -53,7 +53,7 @@
     {
       "category": "song",
       "text": "The Knack's \"My Sharona\" spent six consecutive weeks at number one on the Billboard Hot 100 beginning with the chart dated August 25, 1979, the year's longest-running number one.",
-      "question": "Where were you living when \"My Sharona\" by the Knack was on the radio, and what were you driving?",
+      "question": "Where were you living when \"My Sharona\" by the Knack was number one, and what were you driving?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1979",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1979.txt",
       "source_quote": [
@@ -66,7 +66,7 @@
     {
       "category": "technology",
       "text": "On March 4, 1979, photos from the U.S. Voyager I space probe revealed Jupiter's rings.",
-      "question": "Do you remember seeing the Voyager pictures of Jupiter in the newspaper or on television, and where were you living then?",
+      "question": "Do you remember seeing the Voyager photos of Jupiter, and where were you living then?",
       "source_url": "https://en.wikipedia.org/wiki/1979_in_the_United_States",
       "source_file": "sources/wikipedia/1979-in-the-united-states.txt",
       "source_quote": "March 4 – The U.S. Voyager I space probe photos reveal Jupiter's rings.",

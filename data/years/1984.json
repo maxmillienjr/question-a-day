@@ -53,7 +53,7 @@
     {
       "category": "song",
       "text": "Prince spent seven weeks at number one on the Billboard Hot 100 in 1984 with \"When Doves Cry\" and \"Let's Go Crazy\", the most weeks of any act that year.",
-      "question": "Where were you living when Prince's \"When Doves Cry\" was on the radio, and who did you hear it with?",
+      "question": "Where were you living when Prince's \"When Doves Cry\" was number one, and who did you hear it with?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1984",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1984.txt",
       "source_quote": [
@@ -65,8 +65,8 @@
     },
     {
       "category": "news",
-      "text": "The films Ghostbusters and Gremlins were released in 1984.",
-      "question": "Who did you see Ghostbusters or Gremlins with, and which theater did you go to?",
+      "text": "Ghostbusters and Gremlins were released in 1984.",
+      "question": "Who did you see Ghostbusters or Gremlins with, and where were you living then?",
       "source_url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
       "source_file": "sources/wikipedia/1984-in-the-united-states.txt",
       "source_quote": "Ghostbusters and Gremlins are released.",

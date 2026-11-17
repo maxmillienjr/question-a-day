@@ -52,13 +52,13 @@
     },
     {
       "category": "song",
-      "text": "Debby Boone's \"You Light Up My Life\" reached number one on the Billboard Hot 100 in October 1977 and stayed there ten consecutive weeks, a new record for the longest unbroken run.",
-      "question": "Where were you living when Debby Boone's \"You Light Up My Life\" was on the radio, and who in your house sang along?",
+      "text": "Debby Boone's \"You Light Up My Life\" reached number one on the Billboard Hot 100 in October 1977 and stayed there ten consecutive weeks, a new record for the longest unbroken run atop the Hot 100.",
+      "question": "Where were you living when Debby Boone's \"You Light Up My Life\" was number one, and who in your house sang along?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1977",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1977.txt",
       "source_quote": [
         "The Billboard Hot 100 is a chart published since August 1958 by Billboard magazine which ranks the best-performing singles in the United States. In 1977, it was compiled based on a combination of sales and airplay data sourced from surveys of retail outlets and playlists submitted by radio stations, respectively. During the year, 29 different singles spent time at number one.",
-        "In October, Debby Boone gained her first number one with \"You Light Up My Life\". The single occupied the top spot for ten consecutive weeks, setting new records for both the longest unbroken run"
+        "In October, Debby Boone gained her first number one with \"You Light Up My Life\". The single occupied the top spot for ten consecutive weeks, setting new records for both the longest unbroken run and the highest total number of weeks spent by a single atop the Hot 100"
       ],
       "checked": "2026-11-17",
       "sombre": false

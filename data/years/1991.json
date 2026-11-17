@@ -4,7 +4,7 @@
     {
       "category": "song",
       "text": "Bryan Adams's \"(Everything I Do) I Do It for You\" spent seven weeks at number one on the Billboard Hot 100, the longest-running number-one single of 1991.",
-      "question": "Where were you living when \"(Everything I Do) I Do It for You\" was on the radio, and was it anyone's special song?",
+      "question": "Where were you living when \"(Everything I Do) I Do It for You\" was number one, and was it anyone's special song?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1991",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1991.txt",
       "source_quote": "This is a list of the U.S. Billboard magazine Hot 100 number-ones of 1991. The longest running number-one single of 1991 is \"(Everything I Do) I Do It for You\" by Bryan Adams, which attained seven weeks at number-one.",
@@ -23,8 +23,8 @@
     },
     {
       "category": "news",
-      "text": "The sitcom Home Improvement premiered on ABC on September 17, 1991.",
-      "question": "Who did you watch Home Improvement with, and who in your family was the Tim Taylor of the house?",
+      "text": "Home Improvement premiered on ABC on September 17, 1991.",
+      "question": "Who did you watch Home Improvement with, and where were you living then?",
       "source_url": "https://en.wikipedia.org/wiki/1991_in_the_United_States",
       "source_file": "sources/wikipedia/1991-in-the-united-states.txt",
       "source_quote": "September 17 – Home Improvement premieres on ABC.",

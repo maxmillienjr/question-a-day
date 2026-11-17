@@ -28,7 +28,7 @@
     {
       "category": "song",
       "text": "A-Tisket, A-Tasket by the Chick Webb Orchestra, with Ella Fitzgerald singing, was listed among the popular records of 1938 in the United States.",
-      "question": "Where were you living when Ella Fitzgerald's A-Tisket, A-Tasket was on the radio, and who did you dance or sing it with?",
+      "question": "Where were you living when Ella Fitzgerald's A-Tisket, A-Tasket was a popular record, and who did you dance or sing it with?",
       "source_url": "https://en.wikipedia.org/wiki/1938_in_music",
       "source_file": "sources/wikipedia/1938-in-music.txt",
       "source_quote": [
@@ -41,7 +41,7 @@
     {
       "category": "news",
       "text": "On June 22, heavyweight boxing champion Joe Louis knocked out Max Schmeling in the first round of their rematch at Yankee Stadium in New York City.",
-      "question": "Where were you the night Joe Louis fought Max Schmeling, and whose radio did you listen to it on?",
+      "question": "Where were you when Joe Louis knocked out Max Schmeling, and how did you hear about it?",
       "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
       "source_file": "sources/wikipedia/1938-in-the-united-states.txt",
       "source_quote": "June 22 – Heavyweight boxing champion Joe Louis knocks out Max Schmeling in the first round of their rematch at Yankee Stadium in New York City.",
@@ -51,7 +51,7 @@
     {
       "category": "news",
       "text": "On October 30, Orson Welles's radio adaptation of The War of the Worlds was broadcast.",
-      "question": "Where were you the night The War of the Worlds was on the radio, and who in your house heard it?",
+      "question": "Where were you when The War of the Worlds was broadcast on the radio, and who in your house heard it?",
       "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
       "source_file": "sources/wikipedia/1938-in-the-united-states.txt",
       "source_quote": "October 30 – Orson Welles's radio adaptation of The War of the Worlds (with script by Howard Koch) is broadcast, causing panic in various parts of the United States.",

@@ -30,6 +30,7 @@
     list.textContent = "";
     var used = {};
     document.getElementById("sheet-title").textContent = "Born in " + birth + ": the world at 10, 20 and 30";
+    document.getElementById("pdf").href = "print/" + birth + ".pdf";
     groups.forEach(function (g) {
       var sec = el("section", "group");
       var h = el("h3", "", "At " + g.age + ", in " + g.year);
@@ -63,8 +64,19 @@
     var from = [];
     if (used.w) from.push("English Wikipedia (CC BY-SA 4.0)");
     if (used.g) from.push("public tables of the US Postal Service and the US Energy Information Administration");
-    document.getElementById("print-credit").textContent = credit + (from.length ? ", from " + from.join(" and ") : "") + ". Every source is listed at " + location.href.replace(/#.*$/, "") + "#" + birth + ".";
+    document.getElementById("print-credit").textContent = credit + (from.length ? ", from " + from.join(" and ") : "") + ". " + where(birth);
     ["sheet", "how", "sources"].forEach(function (id) { document.getElementById(id).hidden = false; });
+  }
+
+  // Where the printed sheet says its sources are. A page served over the web gives its own address;
+  // opened from the file system (or printed to the PDFs in docs/print/) it gives the published
+  // address from <meta name="site-url"> when one is set, and never a local file path.
+  function where(birth) {
+    var base = /^https?:$/.test(location.protocol) ? location.href.replace(/#.*$/, "") : "";
+    var meta = document.querySelector('meta[name="site-url"]');
+    if (!base && meta && meta.content) base = meta.content;
+    return base ? "Every source is listed at " + base + "#" + birth + "."
+      : "Every source is listed under Sources for this sheet on the page.";
   }
 
   function fromHash() {

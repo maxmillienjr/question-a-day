@@ -4,7 +4,7 @@
     {
       "category": "song",
       "text": "Bing Crosby's \"White Christmas\" was a number-one song in the United States in 1942, according to The Billboard.",
-      "question": "Where were you living when Bing Crosby's \"White Christmas\" was on the radio, and who in your house sang it?",
+      "question": "Where were you living when Bing Crosby's \"White Christmas\" was number one, and who in your house sang it?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1942",
       "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1942.txt",
       "source_quote": [
@@ -41,7 +41,7 @@
     {
       "category": "news",
       "text": "Coffee rationing began in the United States on November 29, and gasoline rationing began on December 1.",
-      "question": "Who in your family kept the ration books once coffee and gasoline were rationed, and what did your house cut back on?",
+      "question": "Who in your family kept track of the rationing once coffee and gasoline were rationed, and what did your house cut back on?",
       "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
       "source_file": "sources/wikipedia/1942-in-the-united-states.txt",
       "source_quote": [
@@ -54,7 +54,7 @@
     {
       "category": "news",
       "text": "The St. Louis Cardinals beat the New York Yankees, 4 games to 1, to win the World Series.",
-      "question": "Who in your family followed the World Series between St. Louis and New York, and where did you listen to the games?",
+      "question": "Who in your family followed the World Series between St. Louis and New York, and which team were they for?",
       "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
       "source_file": "sources/wikipedia/1942-in-the-united-states.txt",
       "source_quote": "October 5 – The St. Louis Cardinals defeat the New York Yankees, 4 games to 1, to win their 4th World Series Title.",

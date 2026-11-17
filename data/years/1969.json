@@ -28,7 +28,7 @@
     {
       "category": "technology",
       "text": "On July 20, 1969, Apollo 11's Lunar Module Eagle landed on the Moon, and Neil Armstrong took the first steps by a human on its surface.",
-      "question": "Where were you when Neil Armstrong stepped onto the Moon, and who was watching the television with you?",
+      "question": "Where were you when Neil Armstrong stepped onto the Moon, and who was with you?",
       "source_url": "https://en.wikipedia.org/wiki/1969_in_the_United_States",
       "source_file": "sources/wikipedia/1969-in-the-united-states.txt",
       "source_quote": "July 20 – Apollo program Moon landing: At 3:17 pm ET (20:17 UTC) Apollo 11's Lunar Module Eagle lands on the Moon's surface. At 10:56 pm ET (02:56 UTC July 21), an estimated 650 million people worldwide watch in awe as Neil Armstrong takes the first historic steps by a human on the surface.",
@@ -62,7 +62,7 @@
     {
       "category": "song",
       "text": "\"Sugar, Sugar\" by the Archies, a made-up group of characters from the animated television series The Archie Show, reached number one on the Billboard Hot 100 in September 1969.",
-      "question": "Where were you living when \"Sugar, Sugar\" by the Archies was on the radio, and who in your house sang along?",
+      "question": "Where were you living when \"Sugar, Sugar\" by the Archies was number one, and who in your house sang along?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1969",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1969.txt",
       "source_quote": [

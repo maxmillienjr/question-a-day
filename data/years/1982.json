@@ -29,7 +29,7 @@
     {
       "category": "news",
       "text": "Late Night with David Letterman made its debut on NBC on February 1, 1982, with Bill Murray as the first guest.",
-      "question": "Who in your house stayed up for Late Night with David Letterman, and where was the television?",
+      "question": "Who in your house stayed up for Late Night with David Letterman when it began, and where were you living?",
       "source_url": "https://en.wikipedia.org/wiki/1982_in_the_United_States",
       "source_file": "sources/wikipedia/1982-in-the-united-states.txt",
       "source_quote": "February 1 – Late Night with David Letterman makes its debut on NBC. The first guest is Bill Murray, who, 33 years later, will be the last guest David Letterman has on.",
@@ -53,7 +53,7 @@
     {
       "category": "song",
       "text": "Survivor's \"Eye of the Tiger\", from the film Rocky III, had a six-week run at number one on the Billboard Hot 100 in 1982.",
-      "question": "Where were you living when \"Eye of the Tiger\" was on the radio, and did you see Rocky III in a theater?",
+      "question": "Where were you living when \"Eye of the Tiger\" was number one, and did you see Rocky III in a theater?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1982",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1982.txt",
       "source_quote": [

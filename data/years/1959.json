@@ -28,7 +28,7 @@
     {
       "category": "song",
       "text": "Bobby Darin's \"Mack the Knife\" spent nine weeks at number one on the Billboard Hot 100 in October and November 1959, the year's longest-running number one.",
-      "question": "Where were you living when Bobby Darin's \"Mack the Knife\" was on the radio, and who in your house knew the words?",
+      "question": "Where were you living when Bobby Darin's \"Mack the Knife\" was number one, and who in your house knew the words?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1959",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1959.txt",
       "source_quote": [
@@ -65,7 +65,7 @@
     {
       "category": "technology",
       "text": "On April 9, 1959, NASA announced the Mercury Seven, seven military pilots chosen to become the first U.S. astronauts.",
-      "question": "Do you remember seeing the first seven astronauts in the newspaper or on television, and which one did you follow?",
+      "question": "Do you remember hearing about the first seven astronauts, and which one did you follow?",
       "source_url": "https://en.wikipedia.org/wiki/1959_in_the_United_States",
       "source_file": "sources/wikipedia/1959-in-the-united-states.txt",
       "source_quote": "April 9 — NASA announces its selection of the \"Mercury Seven\", seven military pilots to become the first U.S. astronauts.",

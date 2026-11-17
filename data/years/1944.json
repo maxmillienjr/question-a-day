@@ -28,7 +28,7 @@
     {
       "category": "song",
       "text": "Bing Crosby's \"Swinging on a Star\" was a number-one song in the United States in 1944, according to The Billboard.",
-      "question": "Where were you living when Bing Crosby's \"Swinging on a Star\" was on the radio or the jukebox, and who sang along with it?",
+      "question": "Where were you living when Bing Crosby's \"Swinging on a Star\" was number one, and who sang along with it?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1944",
       "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1944.txt",
       "source_quote": [

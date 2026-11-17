@@ -14,7 +14,7 @@
     {
       "category": "news",
       "text": "On July 13, 1985, the Live Aid pop concerts in Philadelphia and London raised money for famine relief in Ethiopia.",
-      "question": "Where were you when Live Aid was on television, and who watched it with you?",
+      "question": "Where were you on the day of Live Aid, and who was with you?",
       "source_url": "https://en.wikipedia.org/wiki/1985_in_the_United_States",
       "source_file": "sources/wikipedia/1985-in-the-united-states.txt",
       "source_quote": [
@@ -27,7 +27,7 @@
     {
       "category": "song",
       "text": "\"We Are the World\" by USA for Africa spent four weeks at number one on the Billboard Hot 100, tied for the longest run of 1985.",
-      "question": "Where were you living when \"We Are the World\" was on the radio, and which of the singers could you pick out?",
+      "question": "Where were you living when \"We Are the World\" was number one, and who did you hear it with?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1985",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1985.txt",
       "source_quote": [

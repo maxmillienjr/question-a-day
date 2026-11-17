@@ -38,6 +38,8 @@ select {
   background: var(--btn-bg); color: var(--btn-fg); cursor: pointer;
 }
 .btn-quiet { background: transparent; color: var(--accent); border-color: var(--accent); }
+a.btn { text-decoration: none; }
+#pdf { margin: 0.4rem 0 0 0.3rem; }
 .small { font-size: 0.95rem; color: var(--muted); margin-top: 0.6rem; }
 .note { font-style: italic; }
 .sheet { background: var(--bg-soft); border: 1px solid var(--border); border-radius: 14px; padding: 1.2rem 1.1rem 0.6rem; }
@@ -63,7 +65,7 @@ footer { color: var(--muted); font-family: var(--sans); font-size: 0.85rem; padd
   :root { --fg: #000; --body: #000; --muted: #333; --border: #999; --accent: #000; }
   body { background: #fff; color: #000; font-size: 9.5pt; line-height: 1.22; }
   main { max-width: none; padding: 0; }
-  .top, .intro, .how, .sources, footer, #print { display: none !important; }
+  .top, .intro, .how, .sources, footer, #print, #pdf { display: none !important; }
   section { margin: 0; }
   .sheet { border: 0; padding: 0; background: #fff; }
   h2 { font-size: 14pt; margin: 0 0 1pt; }

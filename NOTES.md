@@ -60,6 +60,31 @@ Where two Wikipedia pages disagree (the TV dinner: Swanson on the 1953 page, Ger
 - Each price series (postage, gasoline) appears once per sheet, so a sheet never asks the stamp
   question three times.
 
+## The audit (2026-11-17)
+
+Every item (391) was read cold against its quote alone, in six batches, by readers who saw only the
+sentence, the question and the quote. Then every changed item (81) was read again the same way.
+What changed:
+- **Questions now claim no more than the quote either.** "Was on the radio" became "was number one"
+  (or "was a popular record" for 1935 to 1939 and 1945 to 1947), and "on television or the radio"
+  became "how did you hear about it", unless the quote names the radio or the television. Character
+  names (Fred and Wilma, Tim Taylor), a team the quote does not name (Brooklyn), ration books, the
+  Wizard of Oz turning to color, a music video, a dance and high notes came out of their questions.
+- **1945, 1946 and 1947 songs** now come from "<year> in music". The flattened Billboard number-one
+  tables for those years do not tie a row to "number one" in words, so those items say "listed among
+  the top popular records", with the row's "US Billboard" mark as proof, and never "number one".
+- **1977 "You Light Up My Life":** the quote now runs to the end of the clause, so "the longest
+  unbroken run atop the Hot 100" is proved.
+- "The sitcom" (1991 Home Improvement) and "the films" (1984 Ghostbusters and Gremlins) came out of
+  their sentences.
+- Readers asked to drop the sombre items for 1963, 1968 and 2001. They stay, under the stated rule:
+  one a year at most, never first, no detail, and the question asks only where the person was or
+  who told them.
+
+Printed sheets: `docs/print/<birth year>.pdf`, one per birth year, each one US Letter page. Opened
+from the file system they say the sources are under Sources on the page; once the page has a
+public address, set it in `<meta name="site-url">` and re-run `tools/make-pdfs.sh`.
+
 ## Not yet verified
 
 - The page has been checked in headless Chrome at 375 and 1440 px, light and dark, and every offered

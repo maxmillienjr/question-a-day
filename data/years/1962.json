@@ -55,7 +55,7 @@
     {
       "category": "technology",
       "text": "On February 20, 1962, aboard Friendship 7, John Glenn became the first American to orbit the Earth.",
-      "question": "Where were you when John Glenn went around the Earth, and were you watching on television or listening on the radio?",
+      "question": "Where were you when John Glenn went around the Earth, and who did you talk about it with?",
       "source_url": "https://en.wikipedia.org/wiki/1962_in_the_United_States",
       "source_file": "sources/wikipedia/1962-in-the-united-states.txt",
       "source_quote": "February 20 – Project Mercury: while aboard Friendship 7, John Glenn becomes the first American to orbit Earth",

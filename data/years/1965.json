@@ -56,7 +56,7 @@
     {
       "category": "technology",
       "text": "On June 3, 1965, during the Gemini 4 flight, astronaut Ed White made the first U.S. space walk.",
-      "question": "Do you remember seeing the pictures of Ed White floating outside his spacecraft, and where did you see them?",
+      "question": "Where were you when Ed White made the first U.S. space walk, and who told you about it?",
       "source_url": "https://en.wikipedia.org/wiki/1965_in_the_United_States",
       "source_file": "sources/wikipedia/1965-in-the-united-states.txt",
       "source_quote": "June 3 – Gemini 4: Astronaut Ed White makes the first U.S. space walk.",

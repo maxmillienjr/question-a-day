@@ -28,7 +28,7 @@
     {
       "category": "song",
       "text": "Elvis Presley's \"Heartbreak Hotel\" was a number-one song in the United States in 1956, according to Billboard magazine.",
-      "question": "Where were you living when Elvis Presley's \"Heartbreak Hotel\" was on the radio, and who in your house liked Elvis and who did not?",
+      "question": "Where were you living when Elvis Presley's \"Heartbreak Hotel\" was number one, and who in your house liked Elvis and who did not?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1956",
       "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1956.txt",
       "source_quote": [

@@ -28,7 +28,7 @@
     {
       "category": "song",
       "text": "Bobby Lewis's \"Tossin' and Turnin'\" spent seven weeks at number one on the Billboard Hot 100 in July and August 1961, the year's longest-running number one.",
-      "question": "Where were you that summer when \"Tossin' and Turnin'\" was on the radio, and who were you with?",
+      "question": "Where were you that summer when \"Tossin' and Turnin'\" was number one, and who were you with?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1961",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1961.txt",
       "source_quote": [
@@ -55,7 +55,7 @@
     {
       "category": "technology",
       "text": "Alan Shepard became the first American in space on May 5, 1961, aboard Mercury-Redstone 3.",
-      "question": "Where were you when Alan Shepard went into space, and did you watch it on television or hear it on the radio?",
+      "question": "Where were you when Alan Shepard went into space, and how did you hear about it?",
       "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
       "source_file": "sources/wikipedia/1961-in-the-united-states.txt",
       "source_quote": "May 5 – Mercury program: Alan Shepard becomes the first American in space aboard Mercury-Redstone 3.",

@@ -28,7 +28,7 @@
     {
       "category": "song",
       "text": "Elvis Presley's \"All Shook Up\" was a number-one song in the United States in 1957, according to Billboard magazine.",
-      "question": "Where did you hear Elvis Presley's \"All Shook Up\" most, on the radio or a jukebox, and who were you with?",
+      "question": "Where did you hear Elvis Presley's \"All Shook Up\" most, and who were you with?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1957",
       "source_file": "sources/wikipedia/list-of-billboard-number-one-singles-of-1957.txt",
       "source_quote": [

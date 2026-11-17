@@ -4,7 +4,7 @@
     {
       "category": "news",
       "text": "The Flintstones aired its first episode on the ABC network on September 30, 1960.",
-      "question": "Who did you watch The Flintstones with, and who in your family was most like Fred or Wilma?",
+      "question": "Who did you watch The Flintstones with, and where were you living then?",
       "source_url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
       "source_file": "sources/wikipedia/1960-in-the-united-states.txt",
       "source_quote": "September 30 – Animated sitcom The Flintstones airs its first episode on the ABC network in the United States",
@@ -28,7 +28,7 @@
     {
       "category": "song",
       "text": "Elvis Presley's \"It's Now or Never\" spent five weeks at number one on the Billboard Hot 100 in 1960.",
-      "question": "Where were you living when Elvis Presley's \"It's Now or Never\" was on the radio, and who did that song make you think of?",
+      "question": "Where were you living when Elvis Presley's \"It's Now or Never\" was number one, and who did that song make you think of?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1960",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1960.txt",
       "source_quote": [

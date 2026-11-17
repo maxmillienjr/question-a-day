@@ -30,6 +30,10 @@ A year with nothing gentle in a category leaves that category empty rather than 
   it takes the first item of each category in file order, then the rest in order, and skips any fact
   already on the sheet. Each price series (letter postage, gasoline) appears at most once per sheet,
   in the first age that takes it (20, then 10, then 30). Same birth year, same sheet. A short year gives a short group; nothing is padded.
+- `docs/print/<birth year>.pdf`: the printable sheet for each birth year, one US Letter page, written
+  by `tools/make-pdfs.sh` and linked from the page. Opened from the file system, a sheet says its
+  sources are under Sources on the page; set `<meta name="site-url">` in `docs/index.html` to the
+  published address and re-run `tools/make-pdfs.sh` so printed sheets give that address instead.
 - `NOTES.md`: what is verified, what is not, and which sources failed.
 
 ## Check
@@ -37,10 +41,12 @@ A year with nothing gentle in a category leaves that category empty rather than 
 ```sh
 sh tools/check.sh        # build docs/years.js, check every item against its source, check the sheet rule
 sh tools/print-check.sh  # print every offered birth year with headless Chrome; fail if any takes two pages
+sh tools/make-pdfs.sh    # rewrite docs/print/*.pdf (run after any change to the data or the page)
 ```
 
 To add a year: fetch its pages with `tools/fetch.py`, write `data/years/<year>.json`, run
-`python3 tools/add_prices.py`, then `sh tools/check.sh`. Nothing is added unless the check passes.
+`python3 tools/add_prices.py`, then `sh tools/check.sh` and `sh tools/make-pdfs.sh`. Nothing is
+added unless the check passes.
 
 ## Licence
 

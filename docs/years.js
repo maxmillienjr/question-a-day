@@ -66,12 +66,24 @@ window.WORLD_AT_TWENTY = {
    "credit": "Wikipedia contributors, \"1944 in the United States\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
+  "https://en.wikipedia.org/wiki/1945_in_music": {
+   "credit": "Wikipedia contributors, \"1945 in music\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
   "https://en.wikipedia.org/wiki/1945_in_the_United_States": {
    "credit": "Wikipedia contributors, \"1945 in the United States\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
+  "https://en.wikipedia.org/wiki/1946_in_music": {
+   "credit": "Wikipedia contributors, \"1946 in music\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
   "https://en.wikipedia.org/wiki/1946_in_the_United_States": {
    "credit": "Wikipedia contributors, \"1946 in the United States\", English Wikipedia",
+   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
+  },
+  "https://en.wikipedia.org/wiki/1947_in_music": {
+   "credit": "Wikipedia contributors, \"1947 in music\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
   "https://en.wikipedia.org/wiki/1947_in_the_United_States": {
@@ -518,18 +530,6 @@ window.WORLD_AT_TWENTY = {
    "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1944\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
   },
-  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1945": {
-   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1945\", English Wikipedia",
-   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
-  },
-  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1946": {
-   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1946\", English Wikipedia",
-   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
-  },
-  "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1947": {
-   "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1947\", English Wikipedia",
-   "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
-  },
   "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1948": {
    "credit": "Wikipedia contributors, \"List of Billboard number-one singles of 1948\", English Wikipedia",
    "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)"
@@ -597,7 +597,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Did you see Top Hat at the pictures or hear Fred Astaire sing Cheek to Cheek on the radio, and who were you with?",
+    "question": "Did you see Top Hat at the pictures or hear Fred Astaire's record of Cheek to Cheek, and who were you with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1935_in_music",
     "text": "Fred Astaire introduced Cheek to Cheek in the film Top Hat, and his record of it was listed among the top popular records of 1935 in the United States."
@@ -634,7 +634,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Bing Crosby sang Pennies from Heaven on the radio, and who in your house liked to sing along?",
+    "question": "Where were you living when Bing Crosby's Pennies from Heaven was a popular record, and who in your house liked to sing along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1936_in_music",
     "text": "Bing Crosby's record of Pennies from Heaven was listed among the popular records of 1936 in the United States."
@@ -671,7 +671,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Did you hear Bing Crosby sing Sweet Leilani at the pictures or on the radio, and who were you with?",
+    "question": "Did you see Waikiki Wedding at the pictures or hear Bing Crosby's record of Sweet Leilani, and who were you with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1937_in_music",
     "text": "Bing Crosby introduced Sweet Leilani in the film Waikiki Wedding, and his record of it was listed among the popular records of 1937 in the United States."
@@ -708,21 +708,21 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Ella Fitzgerald's A-Tisket, A-Tasket was on the radio, and who did you dance or sing it with?",
+    "question": "Where were you living when Ella Fitzgerald's A-Tisket, A-Tasket was a popular record, and who did you dance or sing it with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1938_in_music",
     "text": "A-Tisket, A-Tasket by the Chick Webb Orchestra, with Ella Fitzgerald singing, was listed among the popular records of 1938 in the United States."
    },
    {
     "category": "news",
-    "question": "Where were you the night Joe Louis fought Max Schmeling, and whose radio did you listen to it on?",
+    "question": "Where were you when Joe Louis knocked out Max Schmeling, and how did you hear about it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
     "text": "On June 22, heavyweight boxing champion Joe Louis knocked out Max Schmeling in the first round of their rematch at Yankee Stadium in New York City."
    },
    {
     "category": "news",
-    "question": "Where were you the night The War of the Worlds was on the radio, and who in your house heard it?",
+    "question": "Where were you when The War of the Worlds was broadcast on the radio, and who in your house heard it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1938_in_the_United_States",
     "text": "On October 30, Orson Welles's radio adaptation of The War of the Worlds was broadcast."
@@ -731,7 +731,7 @@ window.WORLD_AT_TWENTY = {
   "1939": [
    {
     "category": "news",
-    "question": "Who took you to see The Wizard of Oz, and do you remember the moment the picture turned to color?",
+    "question": "Who took you to see The Wizard of Oz, and where did you see it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
     "text": "The Wizard of Oz, starring Judy Garland as Dorothy, premiered in Hollywood on August 15 and opened in movie theaters throughout the United States on August 25."
@@ -759,7 +759,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "news",
-    "question": "Who in your house followed the Yankees, and where were you when you heard about Lou Gehrig's farewell speech?",
+    "question": "Who in your house followed baseball, and where were you when you heard about Lou Gehrig's farewell speech?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
     "text": "On July 4, Lou Gehrig gave his Farewell to Baseball speech at Yankee Stadium, saying he considered himself the luckiest man on the face of the earth."
@@ -782,7 +782,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Frank Sinatra sang I'll Never Smile Again with Tommy Dorsey, and who in your house had the radio on?",
+    "question": "Where were you living when Frank Sinatra sang I'll Never Smile Again with Tommy Dorsey, and who in your house liked it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1940",
     "text": "Tommy Dorsey and His Orchestra's I'll Never Smile Again, sung by Frank Sinatra and the Pied Pipers, was the first Billboard number-one single, topping the National Best Selling Retail Records chart for twelve weeks in a row."
@@ -819,7 +819,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"Chattanooga Choo Choo\" was on the radio, and who in your house danced to Glenn Miller?",
+    "question": "Where were you living when \"Chattanooga Choo Choo\" was number one, and who in your house danced to Glenn Miller?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1941",
     "text": "Glenn Miller and His Orchestra's \"Chattanooga Choo Choo\" was a number-one song in the United States in 1941, according to The Billboard."
@@ -842,7 +842,7 @@ window.WORLD_AT_TWENTY = {
   "1942": [
    {
     "category": "song",
-    "question": "Where were you living when Bing Crosby's \"White Christmas\" was on the radio, and who in your house sang it?",
+    "question": "Where were you living when Bing Crosby's \"White Christmas\" was number one, and who in your house sang it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1942",
     "text": "Bing Crosby's \"White Christmas\" was a number-one song in the United States in 1942, according to The Billboard."
@@ -863,14 +863,14 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "news",
-    "question": "Who in your family kept the ration books once coffee and gasoline were rationed, and what did your house cut back on?",
+    "question": "Who in your family kept track of the rationing once coffee and gasoline were rationed, and what did your house cut back on?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
     "text": "Coffee rationing began in the United States on November 29, and gasoline rationing began on December 1."
    },
    {
     "category": "news",
-    "question": "Who in your family followed the World Series between St. Louis and New York, and where did you listen to the games?",
+    "question": "Who in your family followed the World Series between St. Louis and New York, and which team were they for?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1942_in_the_United_States",
     "text": "The St. Louis Cardinals beat the New York Yankees, 4 games to 1, to win the World Series."
@@ -879,7 +879,7 @@ window.WORLD_AT_TWENTY = {
   "1943": [
    {
     "category": "song",
-    "question": "Where were you living when the Mills Brothers' \"Paper Doll\" was on the radio, and who in your house sang along?",
+    "question": "Where were you living when the Mills Brothers' \"Paper Doll\" was number one, and who in your house sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1943",
     "text": "The Mills Brothers' \"Paper Doll\" was a number-one song in the United States in 1943, according to The Billboard."
@@ -930,7 +930,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Bing Crosby's \"Swinging on a Star\" was on the radio or the jukebox, and who sang along with it?",
+    "question": "Where were you living when Bing Crosby's \"Swinging on a Star\" was number one, and who sang along with it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1944",
     "text": "Bing Crosby's \"Swinging on a Star\" was a number-one song in the United States in 1944, according to The Billboard."
@@ -967,10 +967,10 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Doris Day was singing Sentimental Journey on the radio, and who had the radio or record player?",
+    "question": "Where were you living when Sentimental Journey with Doris Day was a popular record, and who had the record?",
     "sombre": false,
-    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1945",
-    "text": "Sentimental Journey, by Les Brown and His Orchestra with Doris Day, was a number-one single on The Billboard's national singles charts in 1945."
+    "source_url": "https://en.wikipedia.org/wiki/1945_in_music",
+    "text": "Sentimental Journey, by Les Brown and his Orchestra with Doris Day singing, was listed among the top popular records of 1945 in the United States."
    },
    {
     "category": "news",
@@ -1011,14 +1011,14 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Frank Sinatra's Five Minutes More was on the radio, and who in your house liked Sinatra?",
+    "question": "Where were you living when Frank Sinatra's Five Minutes More was a popular record, and who in your house liked Sinatra?",
     "sombre": false,
-    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1946",
-    "text": "Five Minutes More, by Frank Sinatra, was a number-one single on The Billboard's national singles charts in 1946."
+    "source_url": "https://en.wikipedia.org/wiki/1946_in_music",
+    "text": "Frank Sinatra's Five Minutes More was listed among the top popular records of 1946 in the United States."
    },
    {
     "category": "news",
-    "question": "Who in your family followed the Cardinals and the Red Sox in the World Series that fall, and where did you hear the games?",
+    "question": "Who in your family followed the Cardinals and the Red Sox in the World Series that fall, and which team were they for?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1946_in_the_United_States",
     "text": "On October 15, the St. Louis Cardinals beat the Boston Red Sox, 4 games to 3, to win the World Series."
@@ -1027,7 +1027,7 @@ window.WORLD_AT_TWENTY = {
   "1947": [
    {
     "category": "technology",
-    "question": "Where did you see or hear the Yankees and Dodgers World Series that fall, and whose television or radio was it?",
+    "question": "How did you follow the Yankees and Dodgers World Series that fall, and did you see any of it on television?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1947_in_the_United_States",
     "text": "In October, World Series games were broadcast on television for the first time, and the New York Yankees beat the Brooklyn Dodgers, 4 games to 3."
@@ -1043,12 +1043,12 @@ window.WORLD_AT_TWENTY = {
     "category": "song",
     "question": "Who in your house played Peg o' My Heart by The Harmonicats, and did anyone you knew play the harmonica?",
     "sombre": false,
-    "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1947",
-    "text": "Peg o' My Heart, by The Harmonicats, was a number-one single on The Billboard's national singles charts in 1947."
+    "source_url": "https://en.wikipedia.org/wiki/1947_in_music",
+    "text": "Peg o' My Heart, by The Harmonicats, was listed among the top popular records of 1947 in the United States."
    },
    {
     "category": "news",
-    "question": "Who in your family talked about Jackie Robinson playing for the Brooklyn Dodgers, and where were you living then?",
+    "question": "Who in your family talked about Jackie Robinson playing in the major leagues, and where were you living then?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1947_in_the_United_States",
     "text": "On April 15, Jackie Robinson became the first African American to play Major League Baseball since the 1880s."
@@ -1064,7 +1064,7 @@ window.WORLD_AT_TWENTY = {
   "1948": [
    {
     "category": "song",
-    "question": "Where were you living when Dinah Shore's \"Buttons and Bows\" was on the radio, and who in your house sang along?",
+    "question": "Where were you living when Dinah Shore's \"Buttons and Bows\" was number one, and who in your house sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1948",
     "text": "Dinah Shore's \"Buttons and Bows\" was a number-one song in the United States in 1948, according to Billboard magazine."
@@ -1101,7 +1101,7 @@ window.WORLD_AT_TWENTY = {
   "1949": [
    {
     "category": "song",
-    "question": "Who in your house sang \"Some Enchanted Evening\" when Perry Como's record was on the radio, and where were you living then?",
+    "question": "Who in your house sang \"Some Enchanted Evening\" when Perry Como's record was number one, and where were you living then?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1949",
     "text": "Perry Como's \"Some Enchanted Evening\" was a number-one song in the United States in 1949, according to Billboard magazine."
@@ -1145,7 +1145,7 @@ window.WORLD_AT_TWENTY = {
   "1950": [
    {
     "category": "song",
-    "question": "Where were you living when Nat \"King\" Cole's \"Mona Lisa\" was on the radio, and who had the record player?",
+    "question": "Where were you living when Nat \"King\" Cole's \"Mona Lisa\" was number one, and who had the record player?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1950",
     "text": "Nat \"King\" Cole's \"Mona Lisa\" was a number-one song in the United States in 1950, according to Billboard magazine."
@@ -1189,7 +1189,7 @@ window.WORLD_AT_TWENTY = {
   "1951": [
    {
     "category": "song",
-    "question": "Where were you living when Patti Page's \"The Tennessee Waltz\" was on the radio, and who did you dance with to it?",
+    "question": "Where were you living when Patti Page's \"The Tennessee Waltz\" was number one, and who did you dance with to it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1951",
     "text": "Patti Page's \"The Tennessee Waltz\" was a number-one song in the United States in 1951, according to Billboard magazine."
@@ -1233,7 +1233,7 @@ window.WORLD_AT_TWENTY = {
   "1952": [
    {
     "category": "song",
-    "question": "Where were you living when Jo Stafford's \"You Belong to Me\" was on the radio, and who in your house liked it?",
+    "question": "Where were you living when Jo Stafford's \"You Belong to Me\" was number one, and who in your house liked it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1952",
     "text": "Jo Stafford's \"You Belong to Me\" was a number-one song in the United States in 1952, according to Billboard magazine."
@@ -1321,7 +1321,7 @@ window.WORLD_AT_TWENTY = {
   "1954": [
    {
     "category": "song",
-    "question": "Where were you living when the Chordettes' \"Mr. Sandman\" was on the radio, and who had the record?",
+    "question": "Where were you living when the Chordettes' \"Mr. Sandman\" was number one, and who had the record?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1954",
     "text": "The Chordettes' \"Mr. Sandman\" was a number-one song in the United States in 1954, according to Billboard magazine."
@@ -1423,7 +1423,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Elvis Presley's \"Heartbreak Hotel\" was on the radio, and who in your house liked Elvis and who did not?",
+    "question": "Where were you living when Elvis Presley's \"Heartbreak Hotel\" was number one, and who in your house liked Elvis and who did not?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1956",
     "text": "Elvis Presley's \"Heartbreak Hotel\" was a number-one song in the United States in 1956, according to Billboard magazine."
@@ -1467,7 +1467,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where did you hear Elvis Presley's \"All Shook Up\" most, on the radio or a jukebox, and who were you with?",
+    "question": "Where did you hear Elvis Presley's \"All Shook Up\" most, and who were you with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1957",
     "text": "Elvis Presley's \"All Shook Up\" was a number-one song in the United States in 1957, according to Billboard magazine."
@@ -1504,7 +1504,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where did you hear \"At the Hop\" by Danny & the Juniors, on the radio or a jukebox, and who were you with?",
+    "question": "Where did you hear \"At the Hop\" by Danny & the Juniors most, and who were you with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_number-one_singles_of_1958",
     "text": "Danny & the Juniors' \"At the Hop\" was a number-one song on Billboard's charts in 1958."
@@ -1548,7 +1548,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Bobby Darin's \"Mack the Knife\" was on the radio, and who in your house knew the words?",
+    "question": "Where were you living when Bobby Darin's \"Mack the Knife\" was number one, and who in your house knew the words?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1959",
     "text": "Bobby Darin's \"Mack the Knife\" spent nine weeks at number one on the Billboard Hot 100 in October and November 1959, the year's longest-running number one."
@@ -1569,7 +1569,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "technology",
-    "question": "Do you remember seeing the first seven astronauts in the newspaper or on television, and which one did you follow?",
+    "question": "Do you remember hearing about the first seven astronauts, and which one did you follow?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1959_in_the_United_States",
     "text": "On April 9, 1959, NASA announced the Mercury Seven, seven military pilots chosen to become the first U.S. astronauts."
@@ -1578,7 +1578,7 @@ window.WORLD_AT_TWENTY = {
   "1960": [
    {
     "category": "news",
-    "question": "Who did you watch The Flintstones with, and who in your family was most like Fred or Wilma?",
+    "question": "Who did you watch The Flintstones with, and where were you living then?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1960_in_the_United_States",
     "text": "The Flintstones aired its first episode on the ABC network on September 30, 1960."
@@ -1592,7 +1592,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Elvis Presley's \"It's Now or Never\" was on the radio, and who did that song make you think of?",
+    "question": "Where were you living when Elvis Presley's \"It's Now or Never\" was number one, and who did that song make you think of?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1960",
     "text": "Elvis Presley's \"It's Now or Never\" spent five weeks at number one on the Billboard Hot 100 in 1960."
@@ -1636,7 +1636,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you that summer when \"Tossin' and Turnin'\" was on the radio, and who were you with?",
+    "question": "Where were you that summer when \"Tossin' and Turnin'\" was number one, and who were you with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1961",
     "text": "Bobby Lewis's \"Tossin' and Turnin'\" spent seven weeks at number one on the Billboard Hot 100 in July and August 1961, the year's longest-running number one."
@@ -1650,7 +1650,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "technology",
-    "question": "Where were you when Alan Shepard went into space, and did you watch it on television or hear it on the radio?",
+    "question": "Where were you when Alan Shepard went into space, and how did you hear about it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1961_in_the_United_States",
     "text": "Alan Shepard became the first American in space on May 5, 1961, aboard Mercury-Redstone 3."
@@ -1694,7 +1694,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "technology",
-    "question": "Where were you when John Glenn went around the Earth, and were you watching on television or listening on the radio?",
+    "question": "Where were you when John Glenn went around the Earth, and who did you talk about it with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1962_in_the_United_States",
     "text": "On February 20, 1962, aboard Friendship 7, John Glenn became the first American to orbit the Earth."
@@ -1724,7 +1724,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you when \"Sugar Shack\" was on the radio, and who were you riding around with?",
+    "question": "Where were you when \"Sugar Shack\" was number one, and who were you riding around with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1963",
     "text": "Jimmy Gilmer and the Fireballs' \"Sugar Shack\" spent five weeks at number one on the Billboard Hot 100, the longest run at the top in 1963."
@@ -1819,7 +1819,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "technology",
-    "question": "Do you remember seeing the pictures of Ed White floating outside his spacecraft, and where did you see them?",
+    "question": "Where were you when Ed White made the first U.S. space walk, and who told you about it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1965_in_the_United_States",
     "text": "On June 3, 1965, during the Gemini 4 flight, astronaut Ed White made the first U.S. space walk."
@@ -1870,7 +1870,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "news",
-    "question": "Where were you living when How the Grinch Stole Christmas first came on television, and who watched it with you?",
+    "question": "Where were you living when How the Grinch Stole Christmas was first shown, and who watched it with you?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1966_in_the_United_States",
     "text": "How the Grinch Stole Christmas, narrated by Boris Karloff, was shown for the first time on CBS on December 18, 1966."
@@ -1914,7 +1914,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Aretha Franklin's \"Respect\" was on the radio, and who in your house sang along?",
+    "question": "Where were you living when Aretha Franklin's \"Respect\" was number one, and who in your house sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1967",
     "text": "Aretha Franklin's \"Respect\" reached number one on the Billboard Hot 100 in June 1967."
@@ -1930,7 +1930,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when the Beatles' \"Hey Jude\" was on the radio, and who in your house sang along?",
+    "question": "Where were you living when the Beatles' \"Hey Jude\" was number one, and who in your house sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1968",
     "text": "The Beatles' \"Hey Jude\" reached number one on the Billboard Hot 100 in September 1968 and spent nine weeks there."
@@ -1974,7 +1974,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "technology",
-    "question": "Where were you when Neil Armstrong stepped onto the Moon, and who was watching the television with you?",
+    "question": "Where were you when Neil Armstrong stepped onto the Moon, and who was with you?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1969_in_the_United_States",
     "text": "On July 20, 1969, Apollo 11's Lunar Module Eagle landed on the Moon, and Neil Armstrong took the first steps by a human on its surface."
@@ -1995,7 +1995,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"Sugar, Sugar\" by the Archies was on the radio, and who in your house sang along?",
+    "question": "Where were you living when \"Sugar, Sugar\" by the Archies was number one, and who in your house sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1969",
     "text": "\"Sugar, Sugar\" by the Archies, a made-up group of characters from the animated television series The Archie Show, reached number one on the Billboard Hot 100 in September 1969."
@@ -2039,7 +2039,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when the Jackson 5 were on the radio, and which of their songs did you know by heart?",
+    "question": "Where were you living the year the Jackson 5 had four number ones, and which of their songs did you know by heart?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1970",
     "text": "The Jackson 5 had four number ones on the Billboard Hot 100 in 1970: \"I Want You Back\", \"ABC\", \"The Love You Save\" and \"I'll Be There\"."
@@ -2076,7 +2076,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"Joy to the World\" by Three Dog Night was on the radio, and who in your house sang along?",
+    "question": "Where were you living when \"Joy to the World\" by Three Dog Night was number one, and who in your house sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1971",
     "text": "Three Dog Night's \"Joy to the World\" reached number one on the Billboard Hot 100 in April 1971 and spent six weeks there, the longest run at number one that year."
@@ -2099,7 +2099,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Don McLean's \"American Pie\" was on the radio, and who could sing all the words?",
+    "question": "Where were you living when Don McLean's \"American Pie\" was number one, and who could sing all the words?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1972",
     "text": "Don McLean's \"American Pie\" reached number one on the Billboard Hot 100 in January 1972, his first number one."
@@ -2143,7 +2143,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Roberta Flack's \"Killing Me Softly with His Song\" was on the radio, and who in your house had the record?",
+    "question": "Where were you living when Roberta Flack's \"Killing Me Softly with His Song\" was number one, and who in your house had the record?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1973",
     "text": "Roberta Flack's \"Killing Me Softly with His Song\" was the longest-running number one on the Billboard Hot 100 in 1973, with five weeks at the top."
@@ -2180,7 +2180,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Barbra Streisand's \"The Way We Were\" was on the radio, and did you see the film, and with whom?",
+    "question": "Where were you living when Barbra Streisand's \"The Way We Were\" was number one, and did you see the film, and with whom?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1974",
     "text": "Barbra Streisand's \"The Way We Were\", from the film of the same name in which she starred, spent three weeks at number one on the Billboard Hot 100 in 1974."
@@ -2217,7 +2217,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Captain & Tennille's \"Love Will Keep Us Together\" was on the radio that summer, and who sang along with it?",
+    "question": "Where were you living when Captain & Tennille's \"Love Will Keep Us Together\" was number one that summer, and who sang along with it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1975",
     "text": "Captain & Tennille's \"Love Will Keep Us Together\" was the longest-running number one on the Billboard Hot 100 in 1975, with four weeks at the top in June and July."
@@ -2275,7 +2275,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Rod Stewart's \"Tonight's the Night\" was on the radio, and who played it most?",
+    "question": "Where were you living when Rod Stewart's \"Tonight's the Night\" was number one, and who played it most?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1976",
     "text": "Rod Stewart's \"Tonight's the Night (Gonna Be Alright)\" was the longest-running number one on the Billboard Hot 100 in 1976, with seven weeks at the top to close the year."
@@ -2319,10 +2319,10 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Debby Boone's \"You Light Up My Life\" was on the radio, and who in your house sang along?",
+    "question": "Where were you living when Debby Boone's \"You Light Up My Life\" was number one, and who in your house sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1977",
-    "text": "Debby Boone's \"You Light Up My Life\" reached number one on the Billboard Hot 100 in October 1977 and stayed there ten consecutive weeks, a new record for the longest unbroken run."
+    "text": "Debby Boone's \"You Light Up My Life\" reached number one on the Billboard Hot 100 in October 1977 and stayed there ten consecutive weeks, a new record for the longest unbroken run atop the Hot 100."
    },
    {
     "category": "technology",
@@ -2342,7 +2342,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when the Bee Gees' \"Stayin' Alive\" was on the radio, and where did you go dancing?",
+    "question": "Where were you living when the Bee Gees' \"Stayin' Alive\" was number one, and where did you go dancing?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1978",
     "text": "The Bee Gees' \"Stayin' Alive\" reached number one on the Billboard Hot 100 in the issue dated February 4, 1978, and held the top spot for four weeks."
@@ -2393,14 +2393,14 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"My Sharona\" by the Knack was on the radio, and what were you driving?",
+    "question": "Where were you living when \"My Sharona\" by the Knack was number one, and what were you driving?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1979",
     "text": "The Knack's \"My Sharona\" spent six consecutive weeks at number one on the Billboard Hot 100 beginning with the chart dated August 25, 1979, the year's longest-running number one."
    },
    {
     "category": "technology",
-    "question": "Do you remember seeing the Voyager pictures of Jupiter in the newspaper or on television, and where were you living then?",
+    "question": "Do you remember seeing the Voyager photos of Jupiter, and where were you living then?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1979_in_the_United_States",
     "text": "On March 4, 1979, photos from the U.S. Voyager I space probe revealed Jupiter's rings."
@@ -2437,7 +2437,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Kenny Rogers's \"Lady\" was on the radio, and who did you dance with to it?",
+    "question": "Where were you living when Kenny Rogers's \"Lady\" was number one, and who did you dance with to it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1980",
     "text": "Kenny Rogers's \"Lady\", written by Lionel Richie, reached number one on the Billboard Hot 100 in November 1980 and stayed there six weeks, tied for the year's longest run."
@@ -2467,7 +2467,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"Endless Love\" was on the radio, and was it anyone's song in your life?",
+    "question": "Where were you living when \"Endless Love\" was number one, and was it anyone's song in your life?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1981",
     "text": "\"Endless Love\" by Diana Ross and Lionel Richie spent nine weeks at number one on the Billboard Hot 100 in 1981, the longest run at number one wholly within the year."
@@ -2481,7 +2481,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "technology",
-    "question": "Where were you when Space Shuttle Columbia went up in April 1981, and did you see it on television?",
+    "question": "Where were you when Space Shuttle Columbia went up in April 1981, and who did you talk about it with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1981_in_the_United_States",
     "text": "On April 12, 1981, Space Shuttle Columbia, with John Young and Robert Crippen aboard, launched on the STS-1 mission, returning to Earth on April 14."
@@ -2504,7 +2504,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "news",
-    "question": "Who in your house stayed up for Late Night with David Letterman, and where was the television?",
+    "question": "Who in your house stayed up for Late Night with David Letterman when it began, and where were you living?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1982_in_the_United_States",
     "text": "Late Night with David Letterman made its debut on NBC on February 1, 1982, with Bill Murray as the first guest."
@@ -2518,7 +2518,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"Eye of the Tiger\" was on the radio, and did you see Rocky III in a theater?",
+    "question": "Where were you living when \"Eye of the Tiger\" was number one, and did you see Rocky III in a theater?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1982",
     "text": "Survivor's \"Eye of the Tiger\", from the film Rocky III, had a six-week run at number one on the Billboard Hot 100 in 1982."
@@ -2555,7 +2555,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"Every Breath You Take\" was on the radio, and who in your house played it most?",
+    "question": "Where were you living when \"Every Breath You Take\" was number one, and who in your house played it most?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1983",
     "text": "The Police's \"Every Breath You Take\" spent eight weeks at number one on the Billboard Hot 100 in 1983, the year's longest run at the top."
@@ -2599,17 +2599,17 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Prince's \"When Doves Cry\" was on the radio, and who did you hear it with?",
+    "question": "Where were you living when Prince's \"When Doves Cry\" was number one, and who did you hear it with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1984",
     "text": "Prince spent seven weeks at number one on the Billboard Hot 100 in 1984 with \"When Doves Cry\" and \"Let's Go Crazy\", the most weeks of any act that year."
    },
    {
     "category": "news",
-    "question": "Who did you see Ghostbusters or Gremlins with, and which theater did you go to?",
+    "question": "Who did you see Ghostbusters or Gremlins with, and where were you living then?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1984_in_the_United_States",
-    "text": "The films Ghostbusters and Gremlins were released in 1984."
+    "text": "Ghostbusters and Gremlins were released in 1984."
    }
   ],
   "1985": [
@@ -2622,14 +2622,14 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "news",
-    "question": "Where were you when Live Aid was on television, and who watched it with you?",
+    "question": "Where were you on the day of Live Aid, and who was with you?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1985_in_the_United_States",
     "text": "On July 13, 1985, the Live Aid pop concerts in Philadelphia and London raised money for famine relief in Ethiopia."
    },
    {
     "category": "song",
-    "question": "Where were you living when \"We Are the World\" was on the radio, and which of the singers could you pick out?",
+    "question": "Where were you living when \"We Are the World\" was number one, and who did you hear it with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1985",
     "text": "\"We Are the World\" by USA for Africa spent four weeks at number one on the Billboard Hot 100, tied for the longest run of 1985."
@@ -2666,7 +2666,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"Sledgehammer\" was on the radio, and do you remember seeing its video?",
+    "question": "Where were you living when Peter Gabriel's \"Sledgehammer\" was number one, and who did you hear it with?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1986",
     "text": "Peter Gabriel's \"Sledgehammer\" reached number one on the Billboard Hot 100 in 1986, his first number one."
@@ -2696,7 +2696,7 @@ window.WORLD_AT_TWENTY = {
   "1987": [
    {
     "category": "song",
-    "question": "Where were you living when Bon Jovi's \"Livin' on a Prayer\" was on the radio, and who in your life turned it up?",
+    "question": "Where were you living when Bon Jovi's \"Livin' on a Prayer\" was number one, and who in your life turned it up?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1987",
     "text": "Bon Jovi's \"Livin' on a Prayer\" spent four weeks at number one on the Billboard Hot 100, one of the two longest-running number-one singles of 1987."
@@ -2740,7 +2740,7 @@ window.WORLD_AT_TWENTY = {
   "1988": [
    {
     "category": "song",
-    "question": "Where were you living when Whitney Houston's \"Where Do Broken Hearts Go\" was on the radio, and who did you know who could sing like her?",
+    "question": "Where were you living when Whitney Houston's \"Where Do Broken Hearts Go\" was number one, and who did you know who could sing like her?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1988",
     "text": "Whitney Houston's \"So Emotional\" and \"Where Do Broken Hearts Go\" both reached number one on the Billboard Hot 100 in 1988, giving her seven consecutive number-one hits."
@@ -2770,7 +2770,7 @@ window.WORLD_AT_TWENTY = {
   "1989": [
    {
     "category": "song",
-    "question": "Where were you living when Janet Jackson's \"Miss You Much\" was on the radio, and who in your life knew the dance?",
+    "question": "Where were you living when Janet Jackson's \"Miss You Much\" was number one, and who in your life played it loudest?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1989",
     "text": "Janet Jackson's \"Miss You Much\" spent four weeks at number one on the Billboard Hot 100, one of the two longest-running number-one singles of 1989."
@@ -2807,7 +2807,7 @@ window.WORLD_AT_TWENTY = {
   "1990": [
    {
     "category": "song",
-    "question": "Where were you living when Mariah Carey's \"Vision of Love\" was on the radio, and who tried to hit her high notes?",
+    "question": "Where were you living when Mariah Carey's \"Vision of Love\" was number one, and who in your life sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1990",
     "text": "Mariah Carey's \"Vision of Love\" spent four weeks at number one on the Billboard Hot 100, one of the three longest-running number-one singles of 1990."
@@ -2851,7 +2851,7 @@ window.WORLD_AT_TWENTY = {
   "1991": [
    {
     "category": "song",
-    "question": "Where were you living when \"(Everything I Do) I Do It for You\" was on the radio, and was it anyone's special song?",
+    "question": "Where were you living when \"(Everything I Do) I Do It for You\" was number one, and was it anyone's special song?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1991",
     "text": "Bryan Adams's \"(Everything I Do) I Do It for You\" spent seven weeks at number one on the Billboard Hot 100, the longest-running number-one single of 1991."
@@ -2865,10 +2865,10 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "news",
-    "question": "Who did you watch Home Improvement with, and who in your family was the Tim Taylor of the house?",
+    "question": "Who did you watch Home Improvement with, and where were you living then?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/1991_in_the_United_States",
-    "text": "The sitcom Home Improvement premiered on ABC on September 17, 1991."
+    "text": "Home Improvement premiered on ABC on September 17, 1991."
    },
    {
     "category": "price",
@@ -3004,7 +3004,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when \"I Swear\" by All-4-One was on the radio, and who did it make you think of?",
+    "question": "Where were you living when \"I Swear\" by All-4-One was number one, and who did it make you think of?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1994",
     "text": "\"I Swear\" by All-4-One was a number-one single on the Billboard Hot 100 in 1994."
@@ -3020,7 +3020,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Mariah Carey's \"Fantasy\" was on the radio, and who turned it up?",
+    "question": "Where were you living when Mariah Carey's \"Fantasy\" was number one, and who turned it up?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1995",
     "text": "Mariah Carey's \"Fantasy\" was the longest-running number-one single of 1995 on the Billboard Hot 100, with eight weeks at the top of the chart."
@@ -3094,7 +3094,7 @@ window.WORLD_AT_TWENTY = {
   "1997": [
    {
     "category": "song",
-    "question": "Where were you living when Elton John's \"Candle in the Wind 1997\" was on the radio, and who in your family bought the record?",
+    "question": "Where were you living when Elton John's \"Candle in the Wind 1997\" was number one, and who in your family bought the record?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1997",
     "text": "Elton John's \"Candle in the Wind 1997\" and \"Something About the Way You Look Tonight\" spent 12 weeks at number one on the Billboard Hot 100 in 1997, the longest-running number-one single of the year."
@@ -3138,7 +3138,7 @@ window.WORLD_AT_TWENTY = {
   "1998": [
    {
     "category": "song",
-    "question": "Where were you living when Céline Dion's \"My Heart Will Go On\" was on the radio, and who in your house sang along?",
+    "question": "Where were you living when Céline Dion's \"My Heart Will Go On\" was number one, and who in your house sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1998",
     "text": "Céline Dion's \"My Heart Will Go On\" was one of the 16 singles that reached number one on the Billboard Hot 100 in 1998."
@@ -3182,7 +3182,7 @@ window.WORLD_AT_TWENTY = {
   "1999": [
    {
     "category": "song",
-    "question": "Where were you living when Cher's \"Believe\" was on the radio, and who in your life could not stop singing it?",
+    "question": "Where were you living when Cher's \"Believe\" was number one, and who in your life could not stop singing it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1999",
     "text": "Cher's \"Believe\" reached number one on the Billboard Hot 100 in 1999, her first number-one single since 1974."
@@ -3219,7 +3219,7 @@ window.WORLD_AT_TWENTY = {
   "2000": [
    {
     "category": "song",
-    "question": "Where were you living when Santana's \"Maria Maria\" was on the radio, and who in your life turned it up?",
+    "question": "Where were you living when Santana's \"Maria Maria\" was number one, and who in your life turned it up?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2000",
     "text": "Santana and The Product G&B's \"Maria Maria\" topped the Billboard Hot 100 for 10 consecutive weeks, the longest-running single of 2000."
@@ -3256,7 +3256,7 @@ window.WORLD_AT_TWENTY = {
   "2001": [
    {
     "category": "song",
-    "question": "Where were you living when Janet Jackson's \"All for You\" was on the radio, and who in your life danced to it?",
+    "question": "Where were you living when Janet Jackson's \"All for You\" was number one, and who in your life danced to it?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2001",
     "text": "Janet Jackson's \"All for You\" topped the Billboard Hot 100 for seven consecutive weeks, the longest-running single of 2001."
@@ -3300,7 +3300,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Kelly Clarkson's \"A Moment Like This\" was on the radio, and who in your life knew all the words?",
+    "question": "Where were you living when Kelly Clarkson's \"A Moment Like This\" was number one, and who in your life knew all the words?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2002",
     "text": "Kelly Clarkson's debut single \"A Moment Like This\" leapt from number 52 to number one on the Billboard Hot 100 in 2002."
@@ -3344,7 +3344,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Clay Aiken's \"This Is the Night\" was on the radio, and who in your house was watching American Idol that year?",
+    "question": "Where were you living when Clay Aiken's \"This Is the Night\" was number one, and who did you know who liked him?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2003",
     "text": "American Idol contestant Clay Aiken's debut single \"This Is the Night\" debuted at number one on the Billboard Hot 100 in 2003."
@@ -3432,7 +3432,7 @@ window.WORLD_AT_TWENTY = {
    },
    {
     "category": "song",
-    "question": "Where were you living when Mariah Carey's \"We Belong Together\" was on the radio, and who in your life sang along?",
+    "question": "Where were you living when Mariah Carey's \"We Belong Together\" was number one, and who in your life sang along?",
     "sombre": false,
     "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2005",
     "text": "Mariah Carey's \"We Belong Together\" was the longest-running single of 2005, topping the Billboard Hot 100 for 14 non-consecutive weeks."

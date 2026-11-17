@@ -24,7 +24,7 @@
     {
       "category": "song",
       "text": "\"Endless Love\" by Diana Ross and Lionel Richie spent nine weeks at number one on the Billboard Hot 100 in 1981, the longest run at number one wholly within the year.",
-      "question": "Where were you living when \"Endless Love\" was on the radio, and was it anyone's song in your life?",
+      "question": "Where were you living when \"Endless Love\" was number one, and was it anyone's song in your life?",
       "source_url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_1981",
       "source_file": "sources/wikipedia/list-of-billboard-hot-100-number-ones-of-1981.txt",
       "source_quote": [
@@ -51,7 +51,7 @@
     {
       "category": "technology",
       "text": "On April 12, 1981, Space Shuttle Columbia, with John Young and Robert Crippen aboard, launched on the STS-1 mission, returning to Earth on April 14.",
-      "question": "Where were you when Space Shuttle Columbia went up in April 1981, and did you see it on television?",
+      "question": "Where were you when Space Shuttle Columbia went up in April 1981, and who did you talk about it with?",
       "source_url": "https://en.wikipedia.org/wiki/1981_in_the_United_States",
       "source_file": "sources/wikipedia/1981-in-the-united-states.txt",
       "source_quote": "April 12 – The Space Shuttle program: Space Shuttle Columbia (John Young, Robert Crippen) launches on the STS-1 mission, returning to Earth on April 14.",

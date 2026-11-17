@@ -4,7 +4,7 @@
     {
       "category": "news",
       "text": "The Wizard of Oz, starring Judy Garland as Dorothy, premiered in Hollywood on August 15 and opened in movie theaters throughout the United States on August 25.",
-      "question": "Who took you to see The Wizard of Oz, and do you remember the moment the picture turned to color?",
+      "question": "Who took you to see The Wizard of Oz, and where did you see it?",
       "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
       "source_file": "sources/wikipedia/1939-in-the-united-states.txt",
       "source_quote": "August 15 – MGM's classic color musical film The Wizard of Oz, based on L. Frank Baum's famous novel, and starring Judy Garland as Dorothy, premieres at Grauman's Chinese Theatre in Hollywood. On August 25 it is released in movie theaters throughout the United States.",
@@ -51,7 +51,7 @@
     {
       "category": "news",
       "text": "On July 4, Lou Gehrig gave his Farewell to Baseball speech at Yankee Stadium, saying he considered himself the luckiest man on the face of the earth.",
-      "question": "Who in your house followed the Yankees, and where were you when you heard about Lou Gehrig's farewell speech?",
+      "question": "Who in your house followed baseball, and where were you when you heard about Lou Gehrig's farewell speech?",
       "source_url": "https://en.wikipedia.org/wiki/1939_in_the_United_States",
       "source_file": "sources/wikipedia/1939-in-the-united-states.txt",
       "source_quote": "July 4 – Lou Gehrig gives his \"Farewell to Baseball\" speech at Yankee Stadium. In it, he says, \"Today, I consider myself the luckiest man on the face of the earth.\"",
