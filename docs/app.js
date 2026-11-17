@@ -48,18 +48,20 @@
       var past = section.querySelector("[data-past-note]");
       if (today > end) {
         buttons.hidden = true;
-        past.textContent = "This one has finished for the year. The download below starts it on any date you like.";
+        past.textContent = "This one has finished for the year. The printable version has all thirty questions.";
       } else if (today > feed.start) {
-        past.textContent = "It has already started, so the days before today are behind you.";
+        past.textContent = "It has already started, so the days before today are behind you. The printable version has all thirty.";
       }
     }
 
     var form = section.querySelector("[data-download]");
     var input = form.querySelector("input[type=date]");
-    input.value = feed.kind === "fixed" && today < feed.start ? feed.start : tomorrow;
+    // The holiday feed's tips name real days (Thanksgiving, leftovers day, the
+    // eve), so its download always uses its fixed dates: no date picker.
+    if (input) input.value = tomorrow;
     form.addEventListener("submit", function (e) {
       e.preventDefault();
-      var start = input.value;
+      var start = feed.kind === "fixed" ? feed.start : input.value;
       if (!/^\d{4}-\d{2}-\d{2}$/.test(start)) return;
       var text = ics.buildCalendar(feed, start, {
         baseUrl: Q.baseUrl, dtstamp: Q.dtstamp, uidPrefix: Q.uidPrefix,

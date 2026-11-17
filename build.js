@@ -106,13 +106,16 @@ function card(feed) {
       ${when}
       ${fixed ? "" : `<noscript><p class="note">The add buttons work out tomorrow's date, which needs JavaScript. The download below and the printable version do not.</p></noscript>`}
       ${subscribe}
-      <form class="download" data-download>
+      ${fixed ? `<form class="download" data-download>
+        <label>Or, if your app will not add a calendar by link, download the same thirty days as a file</label>
+        <span class="row"><button class="btn btn-quiet" type="submit">Download as a file</button></span>
+      </form>` : `<form class="download" data-download>
         <label for="start-${esc(feed.id)}">Or download a file that starts on</label>
         <span class="row">
           <input type="date" id="start-${esc(feed.id)}" name="start" required>
           <button class="btn btn-quiet" type="submit">Download</button>
         </span>
-      </form>
+      </form>`}
       <p class="small"><a href="print/${esc(feed.id)}.html">Printable version</a> (30 days, with room to write)</p>
       ${feed.credit ? `<p class="small credit">${esc(feed.credit).replace(/(https:\/\/[^\s)]+)/, '<a href="$1">$1</a>')}</p>` : ""}
     </section>`;

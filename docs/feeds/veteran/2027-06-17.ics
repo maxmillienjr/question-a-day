@@ -343,10 +343,10 @@ DTEND;VALUE=DATE:20270702
 SUMMARY:Tell me about a holiday you spent in the service. Where were you?
 DESCRIPTION:Day 15 of 30\, 30 days with a veteran.\n\nAsk: Tell me about a 
  holiday you spent in the service. Where were you?\n\nThen: What did people
-  do to make it feel like a holiday?\n\nTip: Near Thanksgiving\, this is a 
- gentle question for the table.\n\nAll thirty questions\, printable: https:
- //question-a-day.example/print/veteran.html\n\nFrom PureTome. No sign-up\,
-  nothing to unsubscribe from.
+  do to make it feel like a holiday?\n\nTip: Around any holiday\, this is a
+  gentle question for the table.\n\nAll thirty questions\, printable: https
+ ://question-a-day.example/print/veteran.html\n\nFrom PureTome. No sign-up\
+ , nothing to unsubscribe from.
 URL;VALUE=URI:https://question-a-day.example/print/veteran.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
@@ -617,10 +617,10 @@ SUMMARY:Tell me about a time someone younger asked you about your service.
  What did you tell them?
 DESCRIPTION:Day 27 of 30\, 30 days with a veteran.\n\nAsk: Tell me about a 
  time someone younger asked you about your service. What did you tell them?
- \n\nThen: What did you save for another time?\n\nTip: If a grandchild is w
- illing\, let them ask today's questions.\n\nAll thirty questions\, printab
- le: https://question-a-day.example/print/veteran.html\n\nFrom PureTome. No
-  sign-up\, nothing to unsubscribe from.
+ \n\nThen: What did you save for another time?\n\nTip: If someone younger i
+ n the family is willing\, let them ask today's questions.\n\nAll thirty qu
+ estions\, printable: https://question-a-day.example/print/veteran.html\n\n
+ From PureTome. No sign-up\, nothing to unsubscribe from.
 URL;VALUE=URI:https://question-a-day.example/print/veteran.html
 TRANSP:TRANSPARENT
 CLASS:PUBLIC

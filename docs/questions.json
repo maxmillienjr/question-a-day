@@ -409,7 +409,7 @@
         {
           "q": "Tell me about a holiday you spent in the service. Where were you?",
           "follow": "What did people do to make it feel like a holiday?",
-          "tip": "Near Thanksgiving, this is a gentle question for the table."
+          "tip": "Around any holiday, this is a gentle question for the table."
         },
         {
           "q": "What was the hardest part of being away? Answer as much or as little as you like.",
@@ -469,7 +469,7 @@
         {
           "q": "Tell me about a time someone younger asked you about your service. What did you tell them?",
           "follow": "What did you save for another time?",
-          "tip": "If a grandchild is willing, let them ask today's questions."
+          "tip": "If someone younger in the family is willing, let them ask today's questions."
         },
         {
           "q": "Think of your first day in the service. What would you tell yourself on that day?",
