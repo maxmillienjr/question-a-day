@@ -1,0 +1,65 @@
+/* Who's Left to Ask. System fonts only; light and dark on screen, black on white in print. */
+:root {
+  --bg: #FAF9F5; --bg-soft: #FFFFFF; --fg: #141414; --body: #26262A; --accent: #3D5A00;
+  --btn-bg: #3D5A00; --btn-fg: #FFFFFF; --muted: #5C5C64; --border: #D9D7CF; --flag: #7A4B00; --flag-bg: #FFF4DE;
+  --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --serif: ui-serif, Georgia, "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0A0A0B; --bg-soft: #131316; --fg: #F5F4F0; --body: #E9E8E2; --accent: #D4FF4F;
+    --btn-bg: #D4FF4F; --btn-fg: #0A0A0B; --muted: #A3A3AB; --border: #2A2A31; --flag: #FFD27A; --flag-bg: #2A2112;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--body); font-family: var(--serif); font-size: 1.125rem; line-height: 1.6; }
+main, .top, footer { max-width: 46rem; margin: 0 auto; padding: 0 16px; }
+.top { padding-top: 20px; }
+.brand { font-family: var(--sans); font-weight: 600; letter-spacing: 0.02em; color: var(--fg); margin: 0; }
+h1, h2, h3 { font-family: var(--sans); color: var(--fg); letter-spacing: -0.01em; line-height: 1.2; font-weight: 600; }
+h1 { font-size: clamp(2rem, 7vw, 3rem); margin: 1.2rem 0 1rem; }
+h2 { font-size: 1.45rem; margin: 0 0 0.4rem; }
+h3 { font-size: 1.15rem; margin: 0 0 0.3rem; }
+p { margin: 0 0 0.9rem; }
+a { color: var(--accent); text-underline-offset: 3px; }
+a:focus-visible, .btn:focus-visible, summary:focus-visible, h2:focus-visible, input:focus-visible + .btn { outline: 3px solid var(--accent); outline-offset: 2px; }
+h2:focus { outline: none; }
+.lede { font-size: 1.25rem; color: var(--fg); }
+.privacy { font-family: var(--sans); font-size: 1rem; color: var(--fg); border-left: 4px solid var(--accent); padding: 0.2rem 0 0.2rem 0.8rem; }
+section { margin: 0 0 2.2rem; }
+.drop { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; padding: 1.1rem; border: 2px dashed var(--border); border-radius: 14px; background: var(--bg-soft); }
+.drop.over { border-color: var(--accent); }
+.or { font-family: var(--sans); color: var(--muted); font-size: 1rem; }
+.btn {
+  display: inline-block; font-family: var(--sans); font-size: 1rem; font-weight: 600; line-height: 1.2;
+  padding: 0.75rem 1.1rem; border-radius: 999px; border: 1px solid var(--btn-bg);
+  background: var(--btn-bg); color: var(--btn-fg); cursor: pointer;
+}
+.btn-quiet { background: transparent; color: var(--accent); border-color: var(--accent); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.small { font-size: 0.95rem; color: var(--muted); margin-top: 0.6rem; }
+.note { font-style: italic; }
+.status p { font-family: var(--sans); font-size: 0.95rem; color: var(--muted); margin: 0 0 0.3rem; }
+.status.error p { color: var(--fg); font-size: 1.05rem; }
+.people { list-style: none; padding: 0; margin: 1rem 0 0; counter-reset: n; }
+.person { counter-increment: n; background: var(--bg-soft); border: 1px solid var(--border); border-radius: 14px; padding: 1rem 1.1rem 0.4rem; margin: 0 0 1rem; }
+.person h3::before { content: counter(n) ". "; color: var(--muted); }
+.born { font-family: var(--sans); font-size: 0.95rem; color: var(--muted); }
+.ancs { list-style: none; padding: 0; margin: 0; }
+.anc { border-top: 1px solid var(--border); padding: 0.55rem 0 0.3rem; }
+.anc p { margin: 0 0 0.2rem; }
+.anc-head .life { color: var(--muted); }
+.anc-meta { font-family: var(--sans); font-size: 0.92rem; color: var(--muted); }
+.flag { display: inline-block; font-family: var(--sans); font-size: 0.9rem; font-weight: 600; color: var(--flag); background: var(--flag-bg); border-radius: 6px; padding: 0.1rem 0.5rem; }
+.more summary { font-family: var(--sans); font-weight: 600; color: var(--accent); cursor: pointer; padding: 0.5rem 0; }
+.how { margin-top: 1.6rem; }
+.how h3 { margin-top: 1.2rem; }
+.how p, .quiet { font-size: 1rem; }
+.quiet { color: var(--muted); padding-left: 1.2rem; }
+footer { padding-bottom: 2rem; font-family: var(--sans); font-size: 0.95rem; color: var(--muted); }
+@media print {
+  :root { --bg: #fff; --bg-soft: #fff; --fg: #000; --body: #000; --muted: #333; --border: #999; --accent: #000; --flag: #000; --flag-bg: #fff; }
+  .top, .intro, .status, footer, .more summary { display: none; }
+  .person { break-inside: avoid; }
+}
