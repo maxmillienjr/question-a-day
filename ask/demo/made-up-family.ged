@@ -1,0 +1,735 @@
+0 HEAD
+1 SOUR WHOS_LEFT_TO_ASK_DEMO
+2 NAME Who's Left to Ask demo
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE A made-up family for trying Who's Left to Ask. Every person, place and story in this
+2 CONC  file is invented; the surnames were made up for it. Any likeness to a real family is chance.
+2 CONT Several dates are deliberately odd or missing, to show how the page handles them.
+0 @I01@ INDI
+1 NAME Josiah /Brindlecott/
+2 GIVN Josiah
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 12 MAR 1872
+1 DEAT
+2 DATE 4 NOV 1941
+1 NOTE Ran the feed store on Mill Road. Whistled hymns off key.
+1 FAMS @F01@
+0 @I02@ INDI
+1 NAME Hester /Fenwhistle/
+2 GIVN Hester
+2 SURN Fenwhistle
+1 SEX F
+1 BIRT
+2 DATE ABT 1876
+1 DEAT
+2 DATE BEF 1950
+1 FAMS @F01@
+0 @I03@ INDI
+1 NAME Cornelius /Marrowby/
+2 GIVN Cornelius
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE EST 1870
+1 DEAT
+2 DATE 1938
+1 FAMS @F02@
+0 @I04@ INDI
+1 NAME Ada /Quillane/
+2 GIVN Ada
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE BET 1874 AND 1878
+1 DEAT
+2 DATE 16 JAN 1959
+1 FAMS @F02@
+0 @I05@ INDI
+1 NAME Thaddeus /Ostervane/
+2 GIVN Thaddeus
+2 SURN Ostervane
+1 SEX M
+1 BIRT
+2 DATE 1880
+1 BURI
+2 DATE 1944
+1 FAMS @F03@
+0 @I06@ INDI
+1 NAME Lovisa /Wexcombe/
+2 GIVN Lovisa
+2 SURN Wexcombe
+1 SEX F
+1 BIRT
+2 DATE CAL 1883
+1 DEAT
+2 DATE 1931
+1 FAMS @F03@
+0 @I07@ INDI
+1 NAME Ezra /Quillane/
+2 GIVN Ezra
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 1871/72
+1 DEAT
+2 DATE 1919
+1 FAMS @F04@
+0 @I08@ INDI
+1 NAME Mercy /Dunmarrow/
+2 GIVN Mercy
+2 SURN Dunmarrow
+1 SEX F
+1 BIRT
+2 DATE 1875
+1 DEAT
+2 DATE AFT 1950
+1 FAMS @F04@
+0 @I10@ INDI
+1 NAME Walter /Brindlecott/
+2 GIVN Walter
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1899
+1 DEAT
+2 DATE 1975
+1 FAMC @F01@
+1 FAMS @F05@
+0 @I11@ INDI
+1 NAME Clara /Brindlecott/
+2 GIVN Clara
+2 SURN Brindlecott
+1 SEX F
+1 BIRT
+2 DATE 1902
+1 DEAT
+2 DATE 1988
+1 FAMC @F01@
+1 FAMS @F06@
+0 @I12@ INDI
+1 NAME Silas /Brindlecott/
+2 GIVN Silas
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1905
+1 DEAT
+2 DATE ABT 1971
+1 FAMC @F01@
+1 FAMS @F07@
+0 @I13@ INDI
+1 NAME Rosalind /Marrowby/
+2 GIVN Rosalind
+2 SURN Marrowby
+1 SEX F
+1 BIRT
+2 DATE 1903
+1 DEAT
+2 DATE 1994
+1 OBJE
+2 FILE rosalind-at-the-shore.jpg
+2 TITL Rosalind at the shore
+1 FAMC @F02@
+1 FAMS @F05@
+0 @I14@ INDI
+1 NAME Edwin /Marrowby/
+2 GIVN Edwin
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 1907
+1 DEAT
+2 DATE 1962
+1 FAMC @F02@
+1 FAMS @F09@
+0 @I15@ INDI
+1 NAME Harold /Ostervane/
+2 GIVN Harold
+2 SURN Ostervane
+1 SEX M
+1 BIRT
+2 DATE 1908
+1 DEAT
+2 DATE 1979
+1 FAMC @F03@
+1 FAMS @F08@
+0 @I16@ INDI
+1 NAME Pearl /Ostervane/
+2 GIVN Pearl
+2 SURN Ostervane
+1 SEX F
+1 BIRT
+2 DATE 1911
+1 DEAT
+2 DATE 2009
+1 FAMC @F03@
+1 FAMS @F07@
+0 @I17@ INDI
+1 NAME Winnie /Quillane/
+2 GIVN Winnie
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 1901
+1 DEAT Y
+1 FAMC @F04@
+0 @I18@ INDI
+1 NAME Florence /Quillane/
+2 GIVN Florence
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 1999
+1 FAMC @F04@
+1 FAMS @F08@
+0 @I20@ INDI
+1 NAME Amos /Quillane/
+2 GIVN Amos
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 1898
+1 DEAT
+2 DATE 1966
+1 SOUR @S1@
+1 FAMC @F04@
+1 FAMS @F06@
+0 @I36@ INDI
+1 NAME Agnes /Brindlecott/
+2 GIVN Agnes
+2 SURN Brindlecott
+1 SEX F
+1 BIRT
+2 DATE 1913
+1 FAMC @F01@
+0 @I33@ INDI
+1 NAME Nora /Kettleby/
+2 GIVN Nora
+2 SURN Kettleby
+1 SEX F
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 1985
+1 FAMS @F09@
+0 @I21@ INDI
+1 NAME Dorothy /Brindlecott/
+2 GIVN Dorothy
+2 SURN Brindlecott
+1 SEX F
+1 BIRT
+2 DATE 3 JUN 1927
+1 DEAT
+2 DATE 2015
+1 NOTE Taught piano in the front room for forty years.
+1 FAMC @F05@
+1 FAMS @F11@
+0 @I22@ INDI
+1 NAME Raymond /Brindlecott/
+2 GIVN Raymond
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1930
+1 OCCU Machinist
+2 DATE FROM 1951 TO 1992
+1 FAMC @F05@
+1 FAMS @F10@
+0 @I23@ INDI
+1 NAME Margaret /Brindlecott/
+2 GIVN Margaret
+2 SURN Brindlecott
+1 SEX F
+1 BIRT
+2 DATE ABT 1933
+1 DEAT
+2 DATE 2020
+1 FAMC @F05@
+0 @I24@ INDI
+1 NAME Leonard /Brindlecott/
+2 GIVN Leonard
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1936
+1 FAMC @F05@
+1 FAMS @F13@
+0 @I25@ INDI
+1 NAME Vernon /Quillane/
+2 GIVN Vernon
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 1925
+1 DEAT
+2 DATE 1999
+1 NOTE Drove a milk truck before dawn, six days a week.
+1 FAMC @F06@
+0 @I26@ INDI
+1 NAME Ida /Quillane/
+2 GIVN Ida
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE BET 1928 AND 1930
+1 FAMC @F06@
+1 FAMS @F12@
+0 @I27@ INDI
+1 NAME Russell /Quillane/
+2 GIVN Russell
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 1932
+1 DEAT
+2 DATE 2011
+1 FAMC @F06@
+0 @I28@ INDI
+1 NAME Arlene /Brindlecott/
+2 GIVN Arlene
+2 SURN Brindlecott
+1 SEX F
+1 BIRT
+2 DATE 1934
+1 FAMC @F07@
+1 FAMS @F14@
+0 @I29@ INDI
+1 NAME Gordon /Brindlecott/
+2 GIVN Gordon
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1938
+1 DEAT
+2 DATE 2004
+1 FAMC @F07@
+0 @I30@ INDI
+1 NAME Beatrice /Ostervane/
+2 GIVN Beatrice
+2 SURN Ostervane
+1 SEX F
+1 BIRT
+2 DATE 1931
+1 DEAT
+2 DATE 2018
+1 FAMC @F08@
+1 FAMS @F15@
+0 @I31@ INDI
+1 NAME Clifford /Ostervane/
+2 GIVN Clifford
+2 SURN Ostervane
+1 SEX M
+1 BIRT
+2 DATE EST 1936
+1 RESI
+2 DATE FROM 1960 TO 1975
+2 PLAC Hollin Ferry
+1 FAMC @F08@
+0 @I37@ INDI
+1 NAME Lionel /Ostervane/
+2 GIVN Lionel
+2 SURN Ostervane
+1 SEX M
+1 BIRT
+2 DATE 1918
+1 FAMC @F03@
+0 @I34@ INDI
+1 NAME Phyllis /Marrowby/
+2 GIVN Phyllis
+2 SURN Marrowby
+1 SEX F
+1 BIRT
+2 DATE 1936
+1 FAMC @F09@
+1 FAMS @F16@
+0 @I35@ INDI
+1 NAME Douglas /Marrowby/
+2 GIVN Douglas
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 1940
+1 DEAT
+2 DATE 1997
+1 FAMC @F09@
+0 @I40@ INDI
+1 NAME Joan /Ashwell/
+2 GIVN Joan
+2 SURN Ashwell
+1 SEX F
+1 BIRT
+2 DATE 1933
+1 DEAT
+2 DATE 2008
+1 FAMS @F10@
+0 @I43@ INDI
+1 NAME Frank /Ellery/
+2 GIVN Frank
+2 SURN Ellery
+1 SEX M
+1 BIRT
+2 DATE 1924
+1 CREM
+2 DATE 1990
+1 FAMS @F11@
+0 @I46@ INDI
+1 NAME George /Penhallow/
+2 GIVN George
+2 SURN Penhallow
+1 SEX M
+1 BIRT
+2 DATE 1926
+1 DEAT
+2 DATE 1983
+1 FAMS @F12@
+0 @I49@ INDI
+1 NAME Shirley /Gantry/
+2 GIVN Shirley
+2 SURN Gantry
+1 SEX F
+1 BIRT
+2 DATE 1940
+1 FAMS @F13@
+0 @I52@ INDI
+1 NAME Dale /Rockmoor/
+2 GIVN Dale
+2 SURN Rockmoor
+1 SEX M
+1 BIRT
+2 DATE 1932
+1 DEAT
+2 DATE 2001
+1 FAMS @F14@
+0 @I54@ INDI
+1 NAME Norman /Halvering/
+2 GIVN Norman
+2 SURN Halvering
+1 SEX M
+1 BIRT
+2 DATE 1928
+1 DEAT
+2 DATE 2016
+1 FAMS @F15@
+0 @I57@ INDI
+1 NAME Roy /Tamsworth/
+2 GIVN Roy
+2 SURN Tamsworth
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 DEAT
+2 DATE 1999
+1 FAMS @F16@
+0 @I41@ INDI
+1 NAME Steven /Brindlecott/
+2 GIVN Steven
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 FAMC @F10@
+1 FAMS @F17@
+0 @I42@ INDI
+1 NAME Karen /Brindlecott/
+2 GIVN Karen
+2 SURN Brindlecott
+1 SEX F
+1 BIRT
+2 DATE 1961
+1 FAMC @F10@
+0 @I44@ INDI
+1 NAME Linda /Ellery/
+2 GIVN Linda
+2 SURN Ellery
+1 SEX F
+1 BIRT
+2 DATE 1952
+1 FAMC @F11@
+1 FAMS @F18@
+0 @I45@ INDI
+1 NAME Paul /Ellery/
+2 GIVN Paul
+2 SURN Ellery
+1 SEX M
+1 BIRT
+2 DATE 1955
+1 DEAT
+2 DATE 1977
+1 FAMC @F11@
+0 @I47@ INDI
+1 NAME Carol /Penhallow/
+2 GIVN Carol
+2 SURN Penhallow
+1 SEX F
+1 BIRT
+2 DATE the year of the big snow
+1 FAMC @F12@
+0 @I48@ INDI
+1 NAME Private /Penhallow/
+2 GIVN Private
+2 SURN Penhallow
+1 SEX M
+1 BIRT
+2 DATE 1957
+1 FAMC @F12@
+0 @I50@ INDI
+1 NAME Michael /Brindlecott/
+2 GIVN Michael
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1965
+1 FAMC @F13@
+1 FAMS @F19@
+0 @I51@ INDI
+1 NAME Lisa /Brindlecott/
+2 GIVN Lisa
+2 SURN Brindlecott
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMC @F13@
+0 @I53@ INDI
+1 NAME Gail /Rockmoor/
+2 GIVN Gail
+2 SURN Rockmoor
+1 SEX F
+1 BIRT
+2 DATE BEF 1960
+1 FAMC @F14@
+0 @I55@ INDI
+1 NAME Janet /Halvering/
+2 GIVN Janet
+2 SURN Halvering
+1 SEX F
+1 BIRT
+2 DATE 1956
+1 FAMC @F15@
+1 FAMS @F20@
+0 @I56@ INDI
+1 NAME Thomas /Halvering/
+2 GIVN Thomas
+2 SURN Halvering
+1 SEX M
+1 FAMC @F15@
+0 @I58@ INDI
+1 NAME Diane /Tamsworth/
+2 GIVN Diane
+2 SURN Tamsworth
+1 SEX F
+1 BIRT
+2 DATE 14 OKT 1962
+1 FAMC @F16@
+0 @I60@ INDI
+1 NAME Michelle /Orrin/
+2 GIVN Michelle
+2 SURN Orrin
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMS @F17@
+0 @I63@ INDI
+1 NAME Kevin /Sallow/
+2 GIVN Kevin
+2 SURN Sallow
+1 SEX M
+1 BIRT
+2 DATE 1950
+1 FAMS @F18@
+0 @I61@ INDI
+1 NAME Ryan /Brindlecott/
+2 GIVN Ryan
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1988
+1 FAMC @F17@
+0 @I62@ INDI
+1 NAME Emily /Brindlecott/
+2 GIVN Emily
+2 SURN Brindlecott
+1 SEX F
+1 BIRT
+2 DATE 1991
+1 FAMC @F17@
+0 @I64@ INDI
+1 NAME Jessica /Sallow/
+2 GIVN Jessica
+2 SURN Sallow
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMC @F18@
+0 @I65@ INDI
+1 NAME Matthew /Sallow/
+2 GIVN Matthew
+2 SURN Sallow
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 RESN privacy
+1 FAMC @F18@
+0 @I66@ INDI
+1 NAME Tyler /Brindlecott/
+2 GIVN Tyler
+2 SURN Brindlecott
+1 SEX M
+1 BIRT
+2 DATE 1995
+1 FAMC @F19@
+0 @I67@ INDI
+1 NAME Olivia /Brack/
+2 GIVN Olivia
+2 SURN Brack
+1 SEX F
+1 BIRT
+2 DATE 2 FEB 1990
+1 FAMC @F20@
+0 @F01@ FAM
+1 HUSB @I01@
+1 WIFE @I02@
+1 CHIL @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I36@
+1 MARR
+2 DATE 1897
+0 @F02@ FAM
+1 HUSB @I03@
+1 WIFE @I04@
+1 CHIL @I13@
+1 CHIL @I14@
+1 MARR
+2 DATE ABT 1901
+0 @F03@ FAM
+1 HUSB @I05@
+1 WIFE @I06@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I37@
+1 MARR
+2 DATE 1906
+0 @F04@ FAM
+1 HUSB @I07@
+1 WIFE @I08@
+1 CHIL @I20@
+1 CHIL @I17@
+1 CHIL @I18@
+1 MARR
+2 DATE 1896
+0 @F05@ FAM
+1 HUSB @I10@
+1 WIFE @I13@
+1 CHIL @I21@
+1 CHIL @I22@
+1 CHIL @I23@
+1 CHIL @I24@
+1 MARR
+2 DATE 1925
+0 @F06@ FAM
+1 HUSB @I20@
+1 WIFE @I11@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 MARR
+2 DATE 1923
+0 @F07@ FAM
+1 HUSB @I12@
+1 WIFE @I16@
+1 CHIL @I28@
+1 CHIL @I29@
+1 MARR
+2 DATE 1932
+0 @F08@ FAM
+1 HUSB @I15@
+1 WIFE @I18@
+1 CHIL @I30@
+1 CHIL @I31@
+1 MARR
+2 DATE 1929
+0 @F09@ FAM
+1 HUSB @I14@
+1 WIFE @I33@
+1 CHIL @I34@
+1 CHIL @I35@
+1 MARR
+2 DATE 1934
+0 @F10@ FAM
+1 HUSB @I22@
+1 WIFE @I40@
+1 CHIL @I41@
+1 CHIL @I42@
+1 MARR
+2 DATE 1956
+0 @F11@ FAM
+1 HUSB @I43@
+1 WIFE @I21@
+1 CHIL @I44@
+1 CHIL @I45@
+1 MARR
+2 DATE 1950
+0 @F12@ FAM
+1 HUSB @I46@
+1 WIFE @I26@
+1 CHIL @I47@
+1 CHIL @I48@
+1 MARR
+2 DATE 1952
+0 @F13@ FAM
+1 HUSB @I24@
+1 WIFE @I49@
+1 CHIL @I50@
+1 CHIL @I51@
+1 MARR
+2 DATE 1963
+0 @F14@ FAM
+1 HUSB @I52@
+1 WIFE @I28@
+1 CHIL @I53@
+1 MARR
+2 DATE 1956
+0 @F15@ FAM
+1 HUSB @I54@
+1 WIFE @I30@
+1 CHIL @I55@
+1 CHIL @I56@
+1 MARR
+2 DATE 1954
+0 @F16@ FAM
+1 HUSB @I57@
+1 WIFE @I34@
+1 CHIL @I58@
+1 MARR
+2 DATE 1960
+0 @F17@ FAM
+1 HUSB @I41@
+1 WIFE @I60@
+1 CHIL @I61@
+1 CHIL @I62@
+1 MARR
+2 DATE 1986
+0 @F18@ FAM
+1 HUSB @I63@
+1 WIFE @I44@
+1 CHIL @I64@
+1 CHIL @I65@
+1 MARR
+2 DATE 1982
+0 @F19@ FAM
+1 HUSB @I50@
+1 CHIL @I66@
+0 @F20@ FAM
+1 WIFE @I55@
+1 CHIL @I67@
+0 @S1@ SOUR
+1 TITL Letter from Amos to his sister, 1931
+1 TEXT We got the roof on before the rain and the boys slept in the barn for the fun of it.
+0 TRLR
