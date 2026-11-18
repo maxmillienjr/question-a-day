@@ -264,6 +264,14 @@
 
     var box = $('sheet-body');
     box.textContent = '';
+    // A heading too long for one printed line wraps and could push the sheet onto a second page;
+    // then the writing space shrinks a little so the sheet stays on one page.
+    var longest = 0;
+    sheet.relatives.forEach(function (rel) {
+      var s = row.speak.filter(function (x) { return x.id === rel.id; })[0];
+      longest = Math.max(longest, (s.words + ', ' + s.name + ' (' + lifeWords(s) + ')').length + (rel.noStory ? 32 : 0));
+    });
+    $('sheet').classList.toggle('compact', longest > 84);
     $('sheet-title').textContent = 'Questions for ' + row.name;
     $('sheet-intro').textContent = 'Ask about ' + (sheet.relatives.length === 1 ? 'this relative' : 'these ' + sheet.relatives.length + ' relatives') +
       '. Write what you hear in the space under each question, in their words if you can.';

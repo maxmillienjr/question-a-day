@@ -146,7 +146,8 @@
       if (p.deathRecorded) { if (p.deathYear == null) counts.deathYearUnknown++; return; }
       counts.noDeath++;
       if (p.private || p.placeholder) { counts.hidden++; return; }
-      if (p.birthYear == null) { counts.noBirthYear++; return; }
+      // A birth year after this year is a typing slip; it cannot place anyone.
+      if (p.birthYear == null || p.birthYear > year) { counts.noBirthYear++; return; }
       if (p.birthYear < cutoff) { counts.tooOld++; return; }
       candidates.push(p);
     });

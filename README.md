@@ -45,18 +45,27 @@ words the page never uses, and the checks fail if a page file or the page on scr
   The same file always gives the same list.
 - **Only dates.** A relative whose record holds no note, no source text and no photo or document is
   flagged: ask about them first.
+- **The sheet.** Each person on the list has a page of their own and a printable sheet: up to four
+  relatives to ask about, three questions for each chosen by relationship from the bank in
+  `docs/sheet.js`, and room to write. One US Letter page, black on white.
+- **By relative.** Below the list, every relative who can be asked about, with who on the list knew
+  them; the ones only one or two people knew come first.
 
 The rules live in `docs/tree.js` (`RULES` at the top).
 
 ## Layout
 
 - `docs/`: the site, ready to serve as static files from any folder (all links are relative).
-  `gedcom.js` is the GEDCOM reader, `tree.js` the overlap and ranking rules, `app.js` the page,
-  `demo-data.js` the made-up family the "Try it" button loads.
+  `gedcom.js` is the GEDCOM reader, `tree.js` the overlap and ranking rules, `sheet.js` the question
+  bank and the sheet rule, `app.js` the page, `demo-data.js` the made-up family the "Try it" button
+  loads. Opening `docs/index.html#demo` loads the made-up family; `#demo/3` opens person 3's sheet.
 - `demo/made-up-family.ged`: the same made-up family as a GEDCOM file. Every person in it is
   invented. `tools/make-demo.js` writes both files.
-- `test/`: `node:test` tests and their small fixture files.
-- `tools/check.sh`: runs every check. `tools/offline-proof.js`: the headless Chrome proof.
+- `test/`: `node:test` tests and their small fixture files, including one synthetic family written
+  in the style of each common exporter (`test/fixtures/dialects/`). No real person's tree is used.
+- `tools/check.sh`: runs every check. `tools/offline-proof.js`: the headless Chrome proof (also takes
+  screenshots, prints a sheet, and opens any `.ged` through the page's own file picker with `--file`).
+  `tools/print-check.sh`: prints every demo sheet and fails on a second page.
   `tools/big-tree.js`: writes a large synthetic tree for timing.
 - `NOTES.md`: what is verified, what is not, and the decisions behind the rules.
 
@@ -66,8 +75,11 @@ The rules live in `docs/tree.js` (`RULES` at the top).
 sh tools/check.sh
 ```
 
-Needs Node 22 or later and Google Chrome (`CHROME=/path/to/chrome` to use another). No packages to
-install.
+Needs Node 22 or later, Google Chrome (`CHROME=/path/to/chrome` to use another), and `pdfinfo` and
+`pdftotext` (poppler-utils). No packages to install.
+
+To time a big tree in the browser: `node tools/big-tree.js /tmp/big.ged 50000` then
+`node tools/offline-proof.js --file /tmp/big.ged`.
 
 ## Licence
 

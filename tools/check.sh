@@ -9,6 +9,13 @@ node tools/make-demo.js --check
 node --test test/*.test.js
 node tools/offline-proof.js
 sh tools/print-check.sh
+# A sheet for a family with very long names, opened through the file picker, still prints on one page.
+tmp0=$(mktemp -d)
+node tools/offline-proof.js --file test/fixtures/long-names.ged --pdf "$tmp0/long.pdf" >/dev/null
+pages=$(pdfinfo "$tmp0/long.pdf" | awk '/^Pages:/{print $2}')
+rm -rf "$tmp0"
+[ "$pages" = 1 ] || { echo "error: the long-names sheet prints on $pages pages"; exit 1; }
+echo "long names: the sheet prints on one page"
 # The offline proof must fail on a copy of the page that loads an outside image with no CSP.
 tmp=$(mktemp -d)
 trap 'rm -rf "$tmp"' EXIT
