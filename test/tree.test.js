@@ -34,19 +34,21 @@ test('the hand-worked tree gives the hand-worked list', () => {
   assert.equal(r.cutoff, 1921);
 });
 
+// Within a person: relatives known by two or fewer on the list first, then those with only dates
+// (Walter has no note, Arthur has one), then fewest others, then closest.
 test('each person: who they can speak about, in what words, and how many others knew them', () => {
   const r = load('hand-tree.ged');
   const by = Object.fromEntries(r.list.map(x => [x.name, x.speak.map(s => [s.name, s.words, s.others, s.years])]));
   assert.deepEqual(by['Ruth Pell'], [
     ['Edna Pell', 'her mother', 1, 15],
     ['Hal Dorn', 'her husband', 1, 55],
-    ['Arthur Pell', 'her father', 3, 45],
     ['Walter Pell', 'her brother', 3, 65],
+    ['Arthur Pell', 'her father', 3, 45],
   ]);
   assert.deepEqual(by['June Dorn'], [
     ['Hal Dorn', 'her father', 1, 25],
-    ['Arthur Pell', "her mother's father", 3, 15],
     ['Walter Pell', "her mother's brother", 3, 35],
+    ['Arthur Pell', "her mother's father", 3, 15],
   ]);
   assert.deepEqual(by['Iris Pell'], [
     ['Edna Pell', "her husband's mother", 1, 7],

@@ -61,3 +61,13 @@ for (const v of UNKNOWN) {
     assert.equal(d.text, v);
   });
 }
+
+// Some programs write the keywords in mixed case, or with a full stop.
+for (const [v, kind, year] of [['Bef. 1950', 'before', 1950], ['Aft. 1950', 'after', 1950], ['Abt. 1950', 'about', 1950],
+  ['abt 1950', 'about', 1950], ['between 1948 and 1952', 'between', 1950], ['2 Feb 1931', 'exact', 1931], ['Est. 1950', 'estimated', 1950]]) {
+  test(`date "${v}" (mixed case or full stop)`, () => {
+    const d = parseDate(v);
+    assert.equal(d.kind, kind);
+    assert.equal(d.year, year);
+  });
+}

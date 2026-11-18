@@ -1,0 +1,71 @@
+0 HEAD
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.11
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE Synthetic test file in the style of an Ancestry tree export. Every person is invented.
+0 @I101@ INDI
+1 NAME Harlan /Voss/
+1 SEX M
+1 BIRT
+2 DATE 4 Feb 1921
+2 PLAC Ashby, Kent County, Delaware, USA
+1 DEAT
+2 DATE Abt. 1990
+2 PLAC Dover, Kent County, Delaware, USA
+1 RESI
+2 DATE 1940
+2 SOUR @S900@
+3 PAGE Year: 1940; Census Place: Ashby; Roll: 0000
+3 _APID 1,2442::123456
+1 FAMS @F11@
+0 @I102@ INDI
+1 NAME Edith Mae /Corran/
+1 SEX F
+1 BIRT
+2 DATE Bet. 1923 and 1925
+1 DEAT
+2 DATE 1975
+1 OBJE @M501@
+1 FAMS @F11@
+0 @I103@ INDI
+1 NAME June /Voss/
+1 SEX F
+1 BIRT
+2 DATE 1950
+1 FAMC @F11@
+1 FAMS @F12@
+0 @I104@ INDI
+1 NAME Carl /Ressler/
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 DEAT
+2 DATE 12 Aug 2010
+1 FAMS @F12@
+0 @I105@ INDI
+1 NAME Dean /Ressler/
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMC @F12@
+0 @F11@ FAM
+1 HUSB @I101@
+1 WIFE @I102@
+1 CHIL @I103@
+0 @F12@ FAM
+1 HUSB @I104@
+1 WIFE @I103@
+1 CHIL @I105@
+0 @S900@ SOUR
+1 TITL 1940 United States Federal Census
+1 _APID 1,2442::0
+0 @M501@ OBJE
+1 FILE https://example.invalid/media/edith.jpg
+2 FORM jpg
+2 TITL Edith at the fair
+0 TRLR

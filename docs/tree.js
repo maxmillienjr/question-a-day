@@ -176,8 +176,11 @@
         s.noStory = !q.story;
         s.birthYear = q.birthYear; s.birthEstimated = q.birthEstimated; s.birth = q.birth; s.deathYear = q.deathYear; s.death = q.death;
       });
+      // Within a person: relatives few others knew, then those with only dates in the tree,
+      // then the fewest others, the closest, the name.
       row.speak.sort(function (a, b) {
-        return a.others - b.others || a.degree - b.degree || cmp(a.name, b.name) || cmp(a.id, b.id);
+        return (b.scarce - a.scarce) || (b.noStory - a.noStory) || a.others - b.others || a.degree - b.degree ||
+          cmp(a.name, b.name) || cmp(a.id, b.id);
       });
       var scarce = row.speak.filter(function (s) { return s.scarce; });
       row.scarceCount = scarce.length;

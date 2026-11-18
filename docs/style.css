@@ -42,9 +42,8 @@ section { margin: 0 0 2.2rem; }
 .note { font-style: italic; }
 .status p { font-family: var(--sans); font-size: 0.95rem; color: var(--muted); margin: 0 0 0.3rem; }
 .status.error p { color: var(--fg); font-size: 1.05rem; }
-.people { list-style: none; padding: 0; margin: 1rem 0 0; counter-reset: n; }
-.person { counter-increment: n; background: var(--bg-soft); border: 1px solid var(--border); border-radius: 14px; padding: 1rem 1.1rem 0.4rem; margin: 0 0 1rem; }
-.person h3::before { content: counter(n) ". "; color: var(--muted); }
+.people { list-style: none; padding: 0; margin: 1rem 0 0; }
+.person { background: var(--bg-soft); border: 1px solid var(--border); border-radius: 14px; padding: 1rem 1.1rem 0.4rem; margin: 0 0 1rem; }
 .born { font-family: var(--sans); font-size: 0.95rem; color: var(--muted); }
 .ancs { list-style: none; padding: 0; margin: 0; }
 .anc { border-top: 1px solid var(--border); padding: 0.55rem 0 0.3rem; }
@@ -58,8 +57,46 @@ section { margin: 0 0 2.2rem; }
 .how p, .quiet { font-size: 1rem; }
 .quiet { color: var(--muted); padding-left: 1.2rem; }
 footer { padding-bottom: 2rem; font-family: var(--sans); font-size: 0.95rem; color: var(--muted); }
+button.btn-small { font-size: 0.95rem; padding: 0.5rem 0.9rem; margin: 0.6rem 0 0.8rem; }
+#more-people, #more-relatives { margin-top: 0.4rem; }
+.rank { color: var(--muted); }
+.person h3:focus { outline: none; }
+.relatives .who { list-style: none; padding: 0 0 0 0.8rem; margin: 0 0 0.3rem; font-size: 1rem; }
+.linklike { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+.linklike:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+#person h2 { font-size: clamp(1.6rem, 6vw, 2.2rem); margin-top: 0.4rem; }
+#person h3 { margin-top: 1.6rem; }
+.sheet { background: var(--bg-soft); border: 1px solid var(--border); border-radius: 14px; padding: 1.1rem 1.2rem 0.4rem; margin: 1rem 0; }
+.sheet h2 { font-size: 1.35rem; }
+.sheet-intro { font-size: 1rem; color: var(--muted); }
+.sheet-rel { margin: 0 0 0.6rem; }
+.sheet-rel h3 { font-size: 1.05rem; font-weight: 400; margin: 0.8rem 0 0.2rem; padding-bottom: 0.15rem; border-bottom: 2px solid var(--fg); }
+.sheet-rel h3 strong { font-weight: 700; }
+.sheet-flag { font-family: var(--sans); font-size: 0.85rem; font-weight: 600; margin-left: 0.4rem; white-space: nowrap; }
+.qs { margin: 0.3rem 0 0; padding-left: 1.3rem; }
+.qs li { margin: 0 0 0.3rem; }
+.q { font-family: var(--sans); font-size: 0.98rem; color: var(--fg); margin: 0; }
+.write { height: 2.6rem; border-bottom: 1px solid var(--border); margin-bottom: 0.2rem; }
+.sheet-more, .sheet-credit { font-size: 0.9rem; color: var(--muted); }
+@page { size: letter; margin: 0.45in 0.55in; }
 @media print {
   :root { --bg: #fff; --bg-soft: #fff; --fg: #000; --body: #000; --muted: #333; --border: #999; --accent: #000; --flag: #000; --flag-bg: #fff; }
-  .top, .intro, .status, footer, .more summary { display: none; }
-  .person { break-inside: avoid; }
+  .top, .intro, .status, footer, .more summary, button, #by-relative { display: none !important; }
+  body { font-size: 11pt; line-height: 1.35; }
+  main { max-width: none; padding: 0; }
+  .person { break-inside: avoid; border: 0; border-bottom: 1px solid #999; border-radius: 0; padding: 0.4rem 0; }
+  .flag { border: 1px solid #000; }
+  /* The sheet: one US Letter page, black on white, room to write. */
+  body.view-person #person > :not(#sheet) { display: none !important; }
+  body.view-person .sheet { border: 0; padding: 0; margin: 0; }
+  body.view-person .sheet h2 { font-size: 17pt; margin: 0 0 4pt; }
+  .sheet-intro { font-size: 10pt; margin: 0 0 4pt; }
+  .sheet-rel { break-inside: avoid; margin: 0 0 2pt; }
+  .sheet-rel h3 { font-size: 11.5pt; margin: 4pt 0 1pt; border-bottom: 1.5pt solid #000; }
+  .sheet-flag { font-size: 8.5pt; }
+  .q { font-size: 10.5pt; }
+  .qs { margin: 1pt 0 0; }
+  .qs li { margin: 0; padding-top: 2pt; }
+  .write { height: 0.34in; border-bottom: 0.75pt solid #888; margin: 0; }
+  .sheet-more, .sheet-credit { font-size: 9pt; margin: 4pt 0 0; }
 }

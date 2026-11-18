@@ -1,0 +1,60 @@
+0 HEAD
+1 SOUR FamilySearch
+2 NAME FamilySearch Family Tree
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE Synthetic test file in the style of a FamilySearch export. Every person is invented.
+0 @P1@ INDI
+1 _FSFTID KWZQ-111
+1 NAME Harlan /Voss/
+2 GIVN Harlan
+2 SURN Voss
+1 SEX M
+1 BIRT
+2 DATE 4 February 1921
+1 DEAT
+2 DATE 1990
+0 @P2@ INDI
+1 _FSFTID KWZQ-222
+1 NAME Edith /Corran/
+1 SEX F
+1 BIRT
+2 DATE about 1924
+1 DEAT Y
+1 BURI
+2 DATE 1975
+0 @P3@ INDI
+1 _FSFTID KWZQ-333
+1 NAME June /Voss/
+1 SEX F
+1 BIRT
+2 DATE 1950
+0 @P4@ INDI
+1 _FSFTID KWZQ-444
+1 NAME Carl /Ressler/
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 DEAT
+2 DATE 2010
+0 @P5@ INDI
+1 _FSFTID KWZQ-555
+1 NAME Dean /Ressler/
+1 SEX M
+1 BIRT
+2 DATE 1980
+0 @P6@ INDI
+1 NAME Deceased /Ressler/
+1 SEX U
+1 DEAT Y
+0 @F1@ FAM
+1 HUSB @P1@
+1 WIFE @P2@
+1 CHIL @P3@
+0 @F2@ FAM
+1 HUSB @P4@
+1 WIFE @P3@
+1 CHIL @P5@
+0 TRLR

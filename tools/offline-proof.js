@@ -71,13 +71,26 @@ async function main() {
     problems.push(...wordingProblems(text, 'the page on screen'));
 
     if (shots) {
+      // The list, then the first person's view, at phone and desktop widths, and the list in dark mode.
+      // Each is the top of the page as a reader first sees it (two screens tall).
       fs.mkdirSync(shots, { recursive: true });
-      for (const w of [375, 1440]) {
-        await send('Emulation.setDeviceMetricsOverride', { width: w, height: w === 375 ? 812 : 900, deviceScaleFactor: 1, mobile: w === 375 });
+      const snap = async (name, w) => {
+        const h = w === 375 ? 812 : 900;
+        await send('Emulation.setDeviceMetricsOverride', { width: w, height: h * 2, deviceScaleFactor: w === 375 ? 2 : 1, mobile: w === 375 });
         await sleep(300);
-        const shot = await send('Page.captureScreenshot', { format: 'png', captureBeyondViewport: true });
-        fs.writeFileSync(path.join(shots, `list-${w}.png`), Buffer.from(shot.result.data, 'base64'));
-      }
+        const shot = await send('Page.captureScreenshot', { format: 'png' });
+        fs.writeFileSync(path.join(shots, `${name}-${w}.png`), Buffer.from(shot.result.data, 'base64'));
+      };
+      await evaluate('document.getElementById("status").scrollIntoView()');
+      for (const w of [375, 1440]) { await snap('list', w); await evaluate('document.getElementById("status").scrollIntoView()'); }
+      await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-color-scheme', value: 'dark' }] });
+      await evaluate('document.getElementById("status").scrollIntoView()');
+      await snap('list-dark', 1440);
+      await send('Emulation.setEmulatedMedia', { features: [{ name: 'prefers-color-scheme', value: 'light' }] });
+      await evaluate('document.querySelector(".person button").click()');
+      for (const w of [375, 1440]) { await evaluate('document.getElementById("person").scrollIntoView()'); await snap('person', w); }
+      const personText = await evaluate('document.body.innerText');
+      problems.push(...wordingProblems(personText, 'the person view'));
     }
     ws.close();
     console.log(`offline proof: ${listed} people listed, first "${first}", ${requests.length} page requests, all local: ${problems.length ? 'NO' : 'yes'}`);

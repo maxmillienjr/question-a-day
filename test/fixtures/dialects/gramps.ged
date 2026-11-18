@@ -1,0 +1,73 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS 5.2.3
+2 NAME Gramps
+1 DATE 17 NOV 2026
+2 TIME 12:00:00
+1 SUBM @SUBM@
+1 FILE family.ged
+1 COPR Copyright (c) 2026 nobody.
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME Test Maker
+0 @I0000@ INDI
+1 NAME Harlan /Voss/
+2 GIVN Harlan
+2 SURN Voss
+1 SEX M
+1 BIRT
+2 TYPE Birth of Harlan Voss
+2 DATE 4 FEB 1921
+1 DEAT
+2 DATE CAL 1990
+1 FAMS @F0000@
+1 CHAN
+2 DATE 17 NOV 2026
+3 TIME 12:00:00
+0 @I0001@ INDI
+1 NAME Edith /Corran/
+1 SEX F
+1 BIRT
+2 DATE BET 1923 AND 1925
+1 DEAT
+2 DATE INT 1975 (the stone says 1975)
+1 FAMS @F0000@
+0 @I0002@ INDI
+1 NAME June /Voss/
+1 SEX F
+1 BIRT
+2 DATE 1950
+1 FAMC @F0000@
+2 PEDI Birth
+1 FAMS @F0001@
+0 @I0003@ INDI
+1 NAME Carl /Ressler/
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 DEAT
+2 DATE 2010
+1 NOTE @N0000@
+1 FAMS @F0001@
+0 @I0004@ INDI
+1 NAME Dean /Ressler/
+1 SEX M
+1 BIRT
+2 DATE (the spring after the flood)
+1 FAMC @F0001@
+2 PEDI Birth
+0 @F0000@ FAM
+1 HUSB @I0000@
+1 WIFE @I0001@
+1 CHIL @I0002@
+0 @F0001@ FAM
+1 HUSB @I0003@
+1 WIFE @I0002@
+1 CHIL @I0004@
+0 @N0000@ NOTE Carl kept a garden of runner beans and gave most of them away.
+1 CONT Synthetic test file in the style of a Gramps export. Every person is invented.
+0 TRLR

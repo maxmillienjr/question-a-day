@@ -70,7 +70,9 @@
       var a = decodeAnsel(bytes);
       return { text: a.text, encoding: 'ANSEL', note: a.unknown ? 'ansel-unknown' : 'ansel' };
     }
-    if (!high) return { text: td('utf-8', bytes), encoding: declared || 'ASCII' };
+    // No byte above 127: plain ASCII, which reads the same in every set. GEDCOM 7 has no CHAR line
+    // and is always UTF-8.
+    if (!high) return { text: td('utf-8', bytes), encoding: declared || 'UTF-8' };
     try {
       return { text: td('utf-8', bytes, true), encoding: 'UTF-8' };
     } catch (e) {
@@ -156,7 +158,7 @@
     s = s.replace(/^INT\s+/, '');
 
     var m, a, b;
-    if ((m = /^BET(?:WEEN)?\s+(.+?)\s+AND\s+(.+)$/.exec(s))) {
+    if ((m = /^BET(?:WEEN)?\.?\s+(.+?)\s+AND\s+(.+)$/.exec(s))) {
       a = simpleYear(m[1], calendar); b = simpleYear(m[2], calendar);
       if (a && b) return fill(res, 'between', Math.min(a.year, b.year), Math.max(a.year, b.year));
       return res;
@@ -170,11 +172,11 @@
       a = simpleYear(m[1], calendar);
       return a ? fill(res, 'period', a.year, a.year) : res;
     }
-    if ((m = /^(BEF|BEFORE)\s+(.+)$/.exec(s))) {
+    if ((m = /^(BEF|BEFORE)\.?\s+(.+)$/.exec(s))) {
       a = simpleYear(m[2], calendar);
       return a ? fill(res, 'before', null, a.year) : res;
     }
-    if ((m = /^(AFT|AFTER)\s+(.+)$/.exec(s))) {
+    if ((m = /^(AFT|AFTER)\.?\s+(.+)$/.exec(s))) {
       a = simpleYear(m[2], calendar);
       return a ? fill(res, 'after', a.year, null) : res;
     }
@@ -395,9 +397,10 @@
       var r = byX.FAM[x];
       var f = { id: x, partners: [], children: [] };
       ['HUSB', 'WIFE'].forEach(function (t) {
-        children(r, t).forEach(function (c) { var q = pointer(c.value); if (q && index[q]) f.partners.push(q); else if (q) skip('family link to a missing person'); });
+        children(r, t).forEach(function (c) { var q = pointer(c.value); if (q && index[q]) f.partners.push(q); else if (q && q !== '@VOID@') skip('family link to a missing person'); });
       });
-      children(r, 'CHIL').forEach(function (c) { var q = pointer(c.value); if (q && index[q]) f.children.push(q); else if (q) skip('family link to a missing person'); });
+      // GEDCOM 7 writes @VOID@ for a person it knows exists but has no record for.
+      children(r, 'CHIL').forEach(function (c) { var q = pointer(c.value); if (q && index[q]) f.children.push(q); else if (q && q !== '@VOID@') skip('family link to a missing person'); });
       families.push(f); famIndex[x] = f;
     });
     people.forEach(function (p) {

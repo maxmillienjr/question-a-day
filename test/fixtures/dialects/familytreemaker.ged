@@ -1,0 +1,66 @@
+0 HEAD
+1 SOUR FTM
+2 VERS 24.2.2.580
+2 NAME Family Tree Maker for Windows
+2 CORP The Software MacKiev Company
+1 DEST GED55
+1 DATE 17 NOV 2026
+1 CHAR ANSEL
+1 FILE family.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 NOTE Synthetic test file in the style of a Family Tree Maker export (ANSEL, CRLF). Every person is invented.
+0 @I1@ INDI
+1 NAME Harlan /Voss/
+1 SEX M
+1 BIRT
+2 DATE 04 Feb 1921
+1 DEAT
+2 DATE 1990
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Renâee /Corran/
+1 SEX F
+1 BIRT
+2 DATE Abt. 1924
+1 DEAT
+2 DATE 1975
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME June /Voss/
+1 SEX F
+1 BIRT
+2 DATE 1950
+1 FAMC @F1@
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME Carl /Ressler/
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 DEAT
+2 DATE 2010
+1 _MILT
+2 DATE 1966
+2 PLAC Fort Somewhere
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Dean /Ressler/
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMC @F2@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I3@
+1 CHIL @I5@
+2 _FREL Natural
+2 _MREL Natural
+0 TRLR

@@ -21,8 +21,8 @@
     <p class="privacy" id="privacy">Your file stays on this computer: the page reads it right here, sends it nowhere, and forgets it when you close the tab.</p>
 
     <div class="drop" id="drop">
-      <label class="btn" for="file">Choose your tree file</label>
       <input type="file" id="file" accept=".ged,.gedcom,.GED,text/plain" class="visually-hidden">
+      <label class="btn" for="file">Choose your tree file</label>
       <span class="or">or drop it here</span>
       <button class="btn btn-quiet" type="button" id="demo">Try it with a made-up family</button>
     </div>
@@ -30,12 +30,13 @@
     <noscript><p class="note">This page needs JavaScript to read your file.</p></noscript>
   </section>
 
-  <section id="status" class="status" aria-live="polite"></section>
+  <section id="status" class="status" aria-live="polite" aria-label="What the page read"></section>
 
   <section id="results" hidden>
     <h2 id="results-title" tabindex="-1">Start with these conversations</h2>
     <p id="results-lede" class="small"></p>
     <ol class="people" id="people"></ol>
+    <button class="btn btn-quiet" type="button" id="more-people" hidden></button>
     <div class="how">
       <h3>How this list is ordered</h3>
       <p id="rule-order-1"></p>
@@ -47,12 +48,36 @@
       <ul class="quiet" id="counts"></ul>
     </div>
   </section>
+
+  <section id="by-relative" hidden>
+    <h2>Who can tell you about each relative</h2>
+    <p id="by-relative-lede" class="small"></p>
+    <ul class="ancs relatives" id="relatives"></ul>
+    <button class="btn btn-quiet" type="button" id="more-relatives" hidden>Show more relatives</button>
+  </section>
+
+  <section id="person" hidden>
+    <button class="btn btn-quiet btn-small" type="button" id="back">Back to the list</button>
+    <h2 id="person-name" tabindex="-1"></h2>
+    <p id="person-born" class="born"></p>
+    <div class="sheet" id="sheet">
+      <h2 id="sheet-title"></h2>
+      <p id="sheet-intro" class="sheet-intro"></p>
+      <div id="sheet-body"></div>
+      <p id="sheet-more" class="sheet-more"></p>
+      <p class="sheet-credit">Made with Who's Left to Ask, from PureTome.</p>
+    </div>
+    <p><button class="btn" type="button" id="print">Print this sheet</button></p>
+    <h3>Everyone in the tree they can tell you about</h3>
+    <ul class="ancs" id="person-relatives"></ul>
+  </section>
 </main>
 <footer>
   <p><a href="https://puretome.com/?utm_source=whos-left-to-ask&amp;utm_medium=referral&amp;utm_campaign=whos-left-to-ask">From PureTome</a>. Free to use; the code is open under the MIT licence.</p>
 </footer>
 <script src="gedcom.js"></script>
 <script src="tree.js"></script>
+<script src="sheet.js"></script>
 <script src="demo-data.js"></script>
 <script src="app.js"></script>
 </body>

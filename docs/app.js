@@ -1,9 +1,14 @@
-/* The page. Reads the chosen file with the File API, keeps it in memory, and draws the list.
+/* The page. Reads the chosen file with the File API, keeps it in memory, and draws the list,
+   a view and a printable sheet per person, and a view by relative.
    No network, no storage: nothing here fetches, posts, or saves anything. */
 (function () {
   'use strict';
   var $ = function (id) { return document.getElementById(id); };
   var YEAR = new Date().getFullYear();
+  var PAGE = 50;          // people drawn at a time, so a very large tree does not stall the tab
+  var SHOW = 4;           // relatives shown on a card before "more"
+  var state = null;       // { result, tree, label } for the file now open
+  var lastRank = null;    // the card the reader left from, to return focus to it
 
   function el(tag, cls, text) {
     var e = document.createElement(tag);
@@ -11,6 +16,8 @@
     if (text != null) e.textContent = text;
     return e;
   }
+  function plural(n, one, many) { return n + ' ' + (n === 1 ? one : many); }
+  function cap(t) { return t.charAt(0).toUpperCase() + t.slice(1); }
 
   var ERRORS = {
     'empty': 'That file is empty. Try exporting your tree again.',
@@ -24,8 +31,6 @@
     'ansi-guess': 'This file is not UTF-8, so it was read as a Windows file. If accented letters look wrong, export again as UTF-8.'
   };
 
-  function plural(n, one, many) { return n + ' ' + (n === 1 ? one : many); }
-
   function status(parts, isError) {
     var s = $('status');
     s.textContent = '';
@@ -33,16 +38,15 @@
     parts.forEach(function (t) { s.appendChild(el('p', null, t)); });
   }
 
+  // ---- Reading -------------------------------------------------------------------------
+
   function load(input, label) {
     var t0 = Date.now();
     var tree;
-    try {
-      tree = Gedcom.read(input);
-    } catch (e) {
-      tree = { error: 'not-gedcom' };
-    }
+    try { tree = Gedcom.read(input); } catch (e) { tree = { error: 'not-gedcom' }; }
     if (tree.error) {
-      $('results').hidden = true;
+      state = null;
+      $('results').hidden = true; $('person').hidden = true; $('by-relative').hidden = true;
       status([ERRORS[tree.error] || ERRORS['not-gedcom']], true);
       return;
     }
@@ -55,19 +59,23 @@
     Object.keys(r.skipped).forEach(function (k) { lines.push('Skipped, ' + k + ': ' + r.skipped[k] + '.'); });
     if (r.unreadBirthDates) lines.push(plural(r.unreadBirthDates, 'birth date', 'birth dates') + ' could not be read as a date and ' + (r.unreadBirthDates === 1 ? 'was' : 'were') + ' kept as written.');
     status(lines, false);
-    draw(result, tree);
+    state = { result: result, tree: tree, label: label };
+    drawList();
+    drawByRelative();
+    showList(true);
     window.__whosLeft = { ms: Date.now() - t0, listed: result.list.length };
   }
 
-  function birthWords(row) {
-    var p = row.person || row;
+  // ---- Words ---------------------------------------------------------------------------
+
+  function birthWords(p) {
     if (p.birthEstimated) return 'birth year estimated, about ' + p.birthYear;
     var b = p.birth;
     if (!b) return '';
     if (b.kind === 'exact') return 'born ' + b.year;
     if (b.kind === 'before') return 'born before ' + b.max;
     if (b.kind === 'after') return 'born after ' + b.min;
-    if (b.kind === 'between' || b.kind === 'period') return 'born between ' + b.min + ' and ' + b.max;
+    if ((b.kind === 'between' || b.kind === 'period') && b.min !== b.max) return 'born between ' + b.min + ' and ' + b.max;
     return 'born about ' + b.year;
   }
 
@@ -91,57 +99,86 @@
   }
 
   var OBJ = { M: 'him', F: 'her', U: 'them' };
+  function sexOf(id) { return (state.tree.index[id] || {}).sex || 'U'; }
 
-  function othersWords(s, sex) {
-    if (s.others === 0) return 'No one else on this list knew ' + OBJ[sex] + '.';
-    if (s.others === 1) return '1 other person on this list knew ' + OBJ[sex] + '.';
-    return s.others + ' others on this list knew ' + OBJ[sex] + '.';
+  function othersWords(s) {
+    var o = OBJ[sexOf(s.id)];
+    if (s.others === 0) return 'No one else on this list knew ' + o + '.';
+    if (s.others === 1) return '1 other person on this list knew ' + o + '.';
+    return s.others + ' others on this list knew ' + o + '.';
   }
 
-  function ancestorItem(s, idx) {
-    var li = el('li', 'anc' + (s.noStory ? ' nostory' : ''));
-    var head = el('p', 'anc-head');
+  function relativeHead(s, tag) {
+    var head = el(tag || 'p', 'anc-head');
     head.appendChild(el('span', 'rel', cap(s.words)));
     head.appendChild(document.createTextNode(', '));
     head.appendChild(el('strong', null, s.name));
     var life = lifeWords(s);
     if (life) head.appendChild(el('span', 'life', ' (' + life + ')'));
-    li.appendChild(head);
-    var sex = idx[s.id].sex;
-    var meta = el('p', 'anc-meta', othersWords(s, sex) + ' Overlapped for ' + plural(s.years, 'year', 'years') + '.');
-    li.appendChild(meta);
-    if (s.noStory) li.appendChild(el('p', 'flag', 'Only dates in your tree for ' + OBJ[sex] + '. Ask about ' + OBJ[sex] + ' first.'));
+    return head;
+  }
+
+  function flagText(id) { var o = OBJ[sexOf(id)]; return 'Only dates in your tree for ' + o + '. Ask about ' + o + ' first.'; }
+
+  function ancestorItem(s) {
+    var li = el('li', 'anc' + (s.noStory ? ' nostory' : ''));
+    li.appendChild(relativeHead(s));
+    li.appendChild(el('p', 'anc-meta', othersWords(s) + ' Lives overlapped for ' + plural(s.years, 'year', 'years') + '.'));
+    if (s.noStory) li.appendChild(el('p', 'flag', flagText(s.id)));
     return li;
   }
 
-  function cap(t) { return t.charAt(0).toUpperCase() + t.slice(1); }
+  // ---- The list ------------------------------------------------------------------------
 
-  var SHOW = 4;
+  function card(row) {
+    var li = el('li', 'person');
+    var art = el('article');
+    art.setAttribute('aria-labelledby', 'name-' + row.rank);
+    var h = el('h3', null);
+    h.id = 'name-' + row.rank;
+    h.setAttribute('tabindex', '-1');
+    h.appendChild(el('span', 'rank', row.rank + '. '));
+    h.appendChild(document.createTextNode(row.name));
+    art.appendChild(h);
+    art.appendChild(el('p', 'born', cap(birthWords(row.person)) + '. Can tell you about ' + plural(row.speak.length, 'relative', 'relatives') + '.'));
+    var ul = el('ul', 'ancs');
+    row.speak.slice(0, SHOW).forEach(function (s) { ul.appendChild(ancestorItem(s)); });
+    art.appendChild(ul);
+    if (row.speak.length > SHOW) {
+      var more = el('details', 'more');
+      more.appendChild(el('summary', null, plural(row.speak.length - SHOW, 'more relative', 'more relatives')));
+      var ul2 = el('ul', 'ancs');
+      row.speak.slice(SHOW).forEach(function (s) { ul2.appendChild(ancestorItem(s)); });
+      more.appendChild(ul2);
+      art.appendChild(more);
+    }
+    var open = el('button', 'btn btn-quiet btn-small', 'Questions to ask ' + row.name);
+    open.type = 'button';
+    open.addEventListener('click', function () { lastRank = row.rank; showPerson(row.rank); });
+    art.appendChild(open);
+    li.appendChild(art);
+    return li;
+  }
 
-  function draw(result, tree) {
-    var list = $('people');
+  function drawList() {
+    var result = state.result, list = $('people');
     list.textContent = '';
-    var idx = tree.index;
-    result.list.forEach(function (row) {
-      var li = el('li', 'person');
-      var art = el('article');
-      var h = el('h3', null, row.name);
-      art.appendChild(h);
-      art.appendChild(el('p', 'born', cap(birthWords(row)) + '. Can tell you about ' + plural(row.speak.length, 'relative', 'relatives') + '.'));
-      var ul = el('ul', 'ancs');
-      row.speak.slice(0, SHOW).forEach(function (s) { ul.appendChild(ancestorItem(s, idx)); });
-      art.appendChild(ul);
-      if (row.speak.length > SHOW) {
-        var more = el('details', 'more');
-        more.appendChild(el('summary', null, plural(row.speak.length - SHOW, 'more relative', 'more relatives')));
-        var ul2 = el('ul', 'ancs');
-        row.speak.slice(SHOW).forEach(function (s) { ul2.appendChild(ancestorItem(s, idx)); });
-        more.appendChild(ul2);
-        art.appendChild(more);
-      }
-      li.appendChild(art);
-      list.appendChild(li);
-    });
+    var shown = 0;
+    function more() {
+      var next = result.list.slice(shown, shown + PAGE);
+      next.forEach(function (row) { list.appendChild(card(row)); });
+      shown += next.length;
+      var btn = $('more-people');
+      btn.hidden = shown >= result.list.length;
+      btn.textContent = 'Show the next ' + Math.min(PAGE, result.list.length - shown) + ' (' + (result.list.length - shown) + ' more on the list)';
+    }
+    $('more-people').onclick = function () {
+      var first = list.children.length;
+      more();
+      var h = list.children[first] && list.children[first].querySelector('h3');
+      if (h) h.focus();
+    };
+    more();
 
     var c = result.counts, R = result.rules;
     $('results-lede').textContent = result.list.length ?
@@ -162,9 +199,105 @@
     if (c.noOverlap) q(plural(c.noOverlap, 'person', 'people') + ' with no death date recorded did not overlap a relative with a recorded death long enough to be listed.');
     if (c.estimated) q(plural(c.estimated, 'birth year was', 'birth years were') + ' estimated from parents, children or a spouse (a parent ' + R.parentGap[0] + ' to ' + R.parentGap[1] + ' years older, a spouse within ' + R.spouseGap + ' years).');
     if (c.deathYearUnknown) q(plural(c.deathYearUnknown, 'relative has', 'relatives have') + ' a death recorded with no year the page could read, so no one is matched to them.');
-    $('results').hidden = false;
-    $('results-title').focus();
   }
+
+  // ---- By relative ---------------------------------------------------------------------
+
+  function drawByRelative() {
+    var byId = {};
+    state.result.list.forEach(function (row) {
+      row.speak.forEach(function (s) {
+        var e = byId[s.id] || (byId[s.id] = { s: s, who: [] });
+        e.who.push({ row: row, words: s.words });
+      });
+    });
+    var all = Object.keys(byId).map(function (k) { return byId[k]; });
+    all.sort(function (a, b) {
+      return a.who.length - b.who.length || (b.s.noStory - a.s.noStory) || (a.s.deathYear - b.s.deathYear) ||
+        (a.s.name < b.s.name ? -1 : a.s.name > b.s.name ? 1 : 0);
+    });
+    var ul = $('relatives');
+    ul.textContent = '';
+    var shown = 0;
+    function more() {
+      all.slice(shown, shown + PAGE).forEach(function (e) {
+        var li = el('li', 'anc' + (e.s.noStory ? ' nostory' : ''));
+        var head = el('p', 'anc-head');
+        head.appendChild(el('strong', null, e.s.name));
+        var life = lifeWords(e.s);
+        if (life) head.appendChild(el('span', 'life', ' (' + life + ')'));
+        li.appendChild(head);
+        li.appendChild(el('p', 'anc-meta', (e.who.length === 1 ? 'Only 1 person on this list knew ' : e.who.length + ' people on this list knew ') + OBJ[sexOf(e.s.id)] + ':'));
+        var w = el('ul', 'who');
+        e.who.forEach(function (x) {
+          var item = el('li');
+          var b = el('button', 'linklike', x.row.name);
+          b.type = 'button';
+          b.addEventListener('click', function () { showPerson(x.row.rank); });
+          item.appendChild(b);
+          item.appendChild(document.createTextNode(' (' + x.words + ')'));
+          w.appendChild(item);
+        });
+        li.appendChild(w);
+        if (e.s.noStory) li.appendChild(el('p', 'flag', flagText(e.s.id)));
+        ul.appendChild(li);
+      });
+      shown = Math.min(all.length, shown + PAGE);
+      $('more-relatives').hidden = shown >= all.length;
+    }
+    $('more-relatives').onclick = more;
+    more();
+    $('by-relative-lede').textContent = plural(all.length, 'relative', 'relatives') + ' with a death recorded can be asked about. Those only one or two people knew come first.';
+  }
+
+  // ---- One person, and the sheet -------------------------------------------------------
+
+  function showPerson(rank) {
+    var row = state.result.list[rank - 1];
+    if (!row) return;
+    var sheet = Sheet.sheetFor(row, state.tree.index);
+    $('person-name').textContent = row.name;
+    $('person-born').textContent = cap(birthWords(row.person)) + '. Number ' + row.rank + ' of ' + state.result.list.length + ' on the list.';
+    var all = $('person-relatives');
+    all.textContent = '';
+    row.speak.forEach(function (s) { all.appendChild(ancestorItem(s)); });
+
+    var box = $('sheet-body');
+    box.textContent = '';
+    $('sheet-title').textContent = 'Questions for ' + row.name;
+    $('sheet-intro').textContent = 'Ask about ' + (sheet.relatives.length === 1 ? 'this relative' : 'these ' + sheet.relatives.length + ' relatives') +
+      '. Write what you hear in the space under each question, in their words if you can.';
+    sheet.relatives.forEach(function (rel) {
+      var s = row.speak.filter(function (x) { return x.id === rel.id; })[0];
+      var sec = el('section', 'sheet-rel');
+      var h = relativeHead(s, 'h3');
+      if (rel.noStory) h.appendChild(el('span', 'sheet-flag', ' Only dates in the tree so far.'));
+      sec.appendChild(h);
+      var ol = el('ol', 'qs');
+      rel.questions.forEach(function (q) {
+        var li = el('li');
+        li.appendChild(el('p', 'q', q));
+        li.appendChild(el('div', 'write'));
+        ol.appendChild(li);
+      });
+      sec.appendChild(ol);
+      box.appendChild(sec);
+    });
+    $('sheet-more').textContent = sheet.more ? row.name.split(' ')[0] + ' can tell you about ' + plural(sheet.more, 'more relative', 'more relatives') + '; they are listed on the page.' : '';
+    $('results').hidden = true; $('by-relative').hidden = true; $('person').hidden = false;
+    document.body.classList.add('view-person');
+    $('person').scrollIntoView();
+    $('person-name').focus({ preventScroll: true });
+  }
+
+  function showList(focusTitle) {
+    $('person').hidden = true;
+    document.body.classList.remove('view-person');
+    $('results').hidden = false; $('by-relative').hidden = false;
+    if (focusTitle) $('results-title').focus();
+  }
+
+  // ---- Wiring --------------------------------------------------------------------------
 
   function readFile(file) {
     if (!file) return;
@@ -176,11 +309,19 @@
 
   $('file').addEventListener('change', function (e) { readFile(e.target.files[0]); e.target.value = ''; });
   $('demo').addEventListener('click', function () { load(window.DEMO_GEDCOM, 'the made-up family'); });
+  $('back').addEventListener('click', function () {
+    var h = lastRank && document.getElementById('name-' + lastRank);
+    showList(!h);
+    if (h) { h.focus(); h.scrollIntoView({ block: 'center' }); }
+  });
+  $('print').addEventListener('click', function () { window.print(); });
   var drop = $('drop');
   ['dragenter', 'dragover'].forEach(function (t) { drop.addEventListener(t, function (e) { e.preventDefault(); drop.classList.add('over'); }); });
-  ['dragleave', 'drop'].forEach(function (t) { drop.addEventListener(t, function (e) { e.preventDefault(); drop.classList.remove('over'); }); });
-  // A file dropped anywhere else on the page would make the browser open it; catch it here instead.
+  ['dragleave', 'drop'].forEach(function (t) { drop.addEventListener(t, function () { drop.classList.remove('over'); }); });
+  // A file dropped anywhere on the page would make the browser open it; read it here instead.
   window.addEventListener('dragover', function (e) { e.preventDefault(); });
   window.addEventListener('drop', function (e) { e.preventDefault(); if (e.dataTransfer.files[0]) readFile(e.dataTransfer.files[0]); });
-  if (location.hash === '#demo') load(window.DEMO_GEDCOM, 'the made-up family');
+  // "#demo" opens the made-up family; "#demo/3" opens person 3's sheet (used by the checks and for links).
+  var m = /^#demo(?:\/(\d+))?$/.exec(location.hash);
+  if (m) { load(window.DEMO_GEDCOM, 'the made-up family'); if (m[1]) showPerson(+m[1]); }
 })();
