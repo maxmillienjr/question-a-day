@@ -1,7 +1,21 @@
 # Notes: how calendar apps handle these feeds
 
-Checked 2026-11-16 against the vendors' own help pages. None of this has been tested on a real
-phone or computer yet. Each line says whether it was read on the vendor's page or is our inference.
+Checked 2026-11-16 against the vendors' own help pages. One route has been tested on a real phone
+(see "Tested"); the rest has not. Each line says whether it was read on the vendor's page or is our
+inference.
+
+## Tested
+
+- 2026-11-18, Google Calendar, added by link: *30 days with Mom or Dad* was added with the page's
+  Google Calendar button on a computer before the test day. **On 2026-11-18 the 9 a.m. reminder did
+  not arrive on the phone.** The hosted file that starts 2026-11-18 was fetched the same morning: it
+  is the file the build writes and holds the `VALARM` on all 30 days, so the feed is not the cause. One account, one phone, one
+  morning: enough to stop implying a reminder on this route, not enough to say why. Not recorded in
+  this test: whether the day's question showed in the phone's calendar as an all-day event.
+- The page now says not to count on the reminder when adding through Google Calendar, and points to
+  Download.
+- Still untested: Download and import into Google Calendar (does the imported event ring, by the
+  file's `VALARM` or by the calendar's own all-day notification setting), Apple Calendar, Outlook.
 
 ## Design decisions
 
@@ -93,9 +107,11 @@ Downloads and subscriptions use different UIDs (`-file` and `-sub`), so doing bo
 
 ## Not verified
 
-- No device test: nothing here has been added to a real iPhone, Android phone, Mac, Google account or
-  Outlook account, because the feeds are not hosted yet (the base URL is a placeholder).
-- Whether the 9 a.m. `VALARM` fires anywhere for a subscription.
+- No device test yet on an iPhone, a Mac or an Outlook account. The feeds are hosted at
+  https://questions.puretome.com/ since 2026-11-17.
+- Whether the 9 a.m. `VALARM` fires for a subscription in Apple Calendar or Outlook. In Google
+  Calendar it did not (see "Tested").
+- Whether a downloaded file imported into Google Calendar rings.
 - The two undocumented button links (Google `cid=`, Outlook `addfromweb`).
 
 ## Memory-loss feed: dropped
