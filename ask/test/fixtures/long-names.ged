@@ -1,0 +1,65 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5.1
+1 CHAR UTF-8
+1 NOTE Synthetic test file with very long names. Every person is invented.
+0 @GGF@ INDI
+1 NAME Bartholomew Maximilian Augustin /Wolkenstein-Trostburg von Hohenwart/
+1 SEX M
+1 BIRT
+2 DATE ABT 1890
+1 DEAT
+2 DATE BEF 1960
+0 @GGM@ INDI
+1 NAME Wilhelmina Theodora Konstanze /Esterhazy-Galantha de Felsobuk/
+1 SEX F
+1 BIRT
+2 DATE BET 1892 AND 1894
+1 DEAT
+2 DATE AFT 1960
+0 @GF@ INDI
+1 NAME Friedrich Leopold Ferdinand /Wolkenstein-Trostburg von Hohenwart/
+1 SEX M
+1 BIRT
+2 DATE 1915
+1 DEAT
+2 DATE 1985
+0 @GM@ INDI
+1 NAME Maria Magdalena Josepha /Lichtenberg-Schwarzenau zu Rabenstein/
+1 SEX F
+1 BIRT
+2 DATE 1918
+1 DEAT
+2 DATE 1988
+0 @M@ INDI
+1 NAME Elisabeth Anna Katharina /Wolkenstein-Trostburg von Hohenwart/
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 DEAT
+2 DATE 2015
+0 @U@ INDI
+1 NAME Johann Sebastian Christoph /Wolkenstein-Trostburg von Hohenwart/
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 DEAT
+2 DATE 2012
+0 @X@ INDI
+1 NAME Konstantin Alexander Benedikt /Oberhollenzer-Siebenhofen/
+1 SEX M
+1 BIRT
+2 DATE 1972
+0 @F1@ FAM
+1 HUSB @GGF@
+1 WIFE @GGM@
+1 CHIL @GF@
+0 @F2@ FAM
+1 HUSB @GF@
+1 WIFE @GM@
+1 CHIL @M@
+1 CHIL @U@
+0 @F3@ FAM
+1 WIFE @M@
+1 CHIL @X@
+0 TRLR

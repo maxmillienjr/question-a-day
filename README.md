@@ -53,6 +53,15 @@ Its data, saved sources and checks are in `twenty/` (see `twenty/README.md`), an
 `docs/twenty/`. It has its own licence notes, because its facts come from Wikipedia under CC BY-SA 4.0.
 Nothing in it touches the calendar feeds.
 
+## Also here: Who's Left to Ask
+
+`ask/` holds a third small tool, served at https://questions.puretome.com/ask/: load a family tree
+file (GEDCOM) and see which relatives with no death date recorded can tell you about which
+ancestors, with a printable sheet of questions for each. The file is read in the browser and never
+leaves the computer. Its tests, fixtures and checks are in `ask/` (see `ask/README.md`, run
+`sh tools/check.sh` from `ask/`), and its pages are in `docs/ask/`; `ask/docs` is a link to that
+folder so the tool's own paths still work. Nothing in it touches the calendar feeds.
+
 ## Licence
 
 - Code (everything except the questions): MIT, see `LICENSE`.
