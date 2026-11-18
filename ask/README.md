@@ -56,6 +56,8 @@ The rules live in `docs/tree.js` (`RULES` at the top).
 ## Layout
 
 - `docs/`: the site, ready to serve as static files from any folder (all links are relative).
+  In this repository the site lives in `docs/ask/` (the whole of `docs/` is what gets served, at
+  https://questions.puretome.com/ask/), and `ask/docs` is a link to it. Run the commands from `ask/`.
   `gedcom.js` is the GEDCOM reader, `tree.js` the overlap and ranking rules, `sheet.js` the question
   bank and the sheet rule, `app.js` the page, `demo-data.js` the made-up family the "Try it" button
   loads. Opening `docs/index.html#demo` loads the made-up family; `#demo/3` opens person 3's sheet.

@@ -19,7 +19,7 @@ echo "long names: the sheet prints on one page"
 # The offline proof must fail on a copy of the page that loads an outside image with no CSP.
 tmp=$(mktemp -d)
 trap 'rm -rf "$tmp"' EXIT
-cp -r docs "$tmp/docs"
+cp -rL docs "$tmp/docs"
 sed -i 's#<meta http-equiv="Content-Security-Policy"[^>]*>##; s#</main>#<img src="https://example.com/x.png" alt=""></main>#' "$tmp/docs/index.html"
 if node tools/offline-proof.js --docs "$tmp/docs" >/dev/null 2>&1; then
   echo "error: the offline proof passed a page that loads an outside image"; exit 1

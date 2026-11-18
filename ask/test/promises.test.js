@@ -9,8 +9,12 @@ const DOCS = path.join(__dirname, '..', 'docs');
 const pageFiles = fs.readdirSync(DOCS).filter(f => /\.(html|js|css)$/.test(f)).map(f => path.join(DOCS, f));
 
 // The only addresses the page may name: the PureTome link in the footer.
+// Links a visitor can click. None is loaded by the page: the first is the one outside link, the
+// other two go to the sibling pages served beside this one.
 const ALLOWED_URLS = [
   'https://puretome.com/?utm_source=whos-left-to-ask&amp;utm_medium=referral&amp;utm_campaign=whos-left-to-ask',
+  '../',
+  '../twenty/',
 ];
 
 test('the page has files to check', () => {
